@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 <br>
 ```{r echo=FALSE, error=FALSE}
 embed_url("https://www.youtube.com/watch?v=mOV1aBVYKGA")
