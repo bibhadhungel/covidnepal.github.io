@@ -1,1 +1,2 @@
-# covid.github.io
+# covidnepal.io
+Covid Nepal

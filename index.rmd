@@ -1,0 +1,57 @@
+---
+title: <div class = "alert alert-success" role="alert">कोभिड-१९ बाट सतर्क रहनुहोस तर नअात्तिनुहोस ! <p class = "m b-0"><h3> कृपया साबधानि अपनाउनुहोला ।</h3></p> </div>
+---
+<div class="alert alert-info" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1 style = font-size:25px>
+  कुल पुष्टि भएका केसहरु
+  </h1>
+  </a>
+</div>
+<h1 style = font-size:50px>
+३,४३,०२०
+</h1>
+
+<div class="alert alert-danger" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1 style = font-size:25px>
+  कुल मृतक 
+  </h1>
+  </a>
+</div>
+<h1 style = font-size:50px>
+१४,७२०
+</h1>
+
+<div class="alert alert-warning" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1 style = font-size:25px>
+  कुल गम्भिर अवस्था
+  </h1>
+  </a>
+</div>
+<h1 style = font-size:50px>
+८,८०६
+</h1>
+
+<div class="alert alert-success" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1 style = font-size:25px>
+  कुल निको भएका
+  </h1>
+  </a>
+</div>
+<h1 style = font-size:50px>
+९७,३४४
+</h1>
+
+<div class="alert alert-info" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1 style = font-size:25px>
+  कुल संक्रमित राष्ट्रहरु
+  </h1>
+  </a>
+</div>
+<h1 style = font-size:50px>
+१७२/१९५
+</h1>

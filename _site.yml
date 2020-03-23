@@ -1,0 +1,23 @@
+name: "कोरोना भाइरस - कोभिड-१९"
+navbar:
+  title: "कोभिड-१९ पछिल्लो"
+  #type inverse changes the color to blue
+  # type can be default or inverse 
+  type: inverse
+  left:
+    - text: "पछिल्लो अवस्था"
+      href: index.html
+      icon: fa-plus
+
+  right:
+    - text: "थप जानकारी" 
+      icon: fa-facebook fa-lg
+      href: https://www.facebook.com/worldnewsTodey/
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
