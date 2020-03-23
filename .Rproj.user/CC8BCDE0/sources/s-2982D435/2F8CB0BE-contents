@@ -1,0 +1,27 @@
+<br>
+<a href = "https://english.khabarhub.com/2020/13/81620/" 
+   target = "_blank">
+![global](images/global.jpg) 
+</a>
+
+<a href = "https://www.nepalitimes.com/opinion/covid-19-nepal-and-the-hygiene-hypothesis/"
+   target = "_black">
+   ![hygiene](images/hygiene.jpeg)
+</a>
+
+<a href = "https://www.nepalitimes.com/banner/why-nepal-must-watch-about-coronavirus-but-not-panic/"
+   target = "_black">
+![panic](images/panic.jpg)
+</a>
+
+
+```{r, echo=FALSE}
+thumbnail("Global", "images/global.jpg",
+          "https://english.khabarhub.com/2020/13/81620/")
+thumbnail("Hygiene", "images/hygiene.jpeg",
+          "https://www.nepalitimes.com/opinion/covid-19-nepal-and-the-hygiene-hypothesis/")
+thumbnail("Panic", "images/panic.jpg",
+          "https://www.nepalitimes.com/banner/why-nepal-must-watch-about-coronavirus-but-not-panic/")
+```
+
+
