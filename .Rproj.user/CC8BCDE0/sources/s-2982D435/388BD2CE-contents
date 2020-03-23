@@ -1,6 +1,6 @@
 name: "कोरोना भाइरस - कोभिड-१९"
 navbar:
-  title: "कोभिड-१९ पछिल्लो"
+  title: "कोभिड-१९"
   #type inverse changes the color to blue
   # type can be default or inverse 
   type: inverse
