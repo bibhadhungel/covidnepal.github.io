@@ -9,6 +9,9 @@ install.packages("vembedr")
 library("htmltools")
 library("vembedr")
 
+install.packages("prettydoc")
+library(prettydoc)
+
 
 rmarkdown::clean_site()
 

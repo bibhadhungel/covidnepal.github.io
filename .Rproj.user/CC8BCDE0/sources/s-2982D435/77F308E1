@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "70080299",
+    "hash" : "0",
     "id" : "77F308E1",
-    "lastKnownWriteTime" : 1584930766,
-    "last_content_update" : 1584930766191,
+    "lastKnownWriteTime" : 1584955379,
+    "last_content_update" : 1584955379211,
     "path" : "~/Desktop/webpage/covidnepal.github.io/index.rmd",
     "project_path" : "index.rmd",
     "properties" : {
-        "cursorPosition" : "1,87",
-        "scrollLine" : "0"
+        "cursorPosition" : "58,27",
+        "scrollLine" : "42"
     },
     "read_only" : false,
     "read_only_alternatives" : [
