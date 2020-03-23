@@ -11,6 +11,9 @@ navbar:
     - text: "बिश्व"
       href: world.html
       icon: fa-globe
+    - text: "WHO"
+      href: who.html
+      icon: fa-health
 
   right:
     - text: "थप जानकारी" 

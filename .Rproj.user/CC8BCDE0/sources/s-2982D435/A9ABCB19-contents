@@ -289,10 +289,10 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="who.html">
-    <span class="fa fa-health"></span>
+  <a href="news.html">
+    <span class="fa fa-newspaper"></span>
      
-    WHO
+    समाचार
   </a>
 </li>
       </ul>

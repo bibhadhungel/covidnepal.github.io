@@ -1,0 +1,36 @@
+---
+title: "चीन"
+---
+```{r, echo=FALSE}
+thumbnail("Covid-19 case details", "a.jpg",
+          "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice")
+```
+
+<p>
+</p>
+```{r echo = FALSE, results = 'asis', warning = FALSE}
+library(excelR)
+
+data = data.frame( Country = c('India', 'India', 'US','US'), 
+                   City = c('Bangalore', 'Mumbai', 'NY', 'SA'),
+                   A = c('Bangalore', 'Mumbai', 'NY', 'SA'),
+                   B = c('Bangalore', 'Mumbai', 'NY', 'SA'),
+                   C = c('Bangalore', 'Mumbai', 'NY', 'SA'),
+                   D = c('Bangalore', 'Mumbai', 'NY', 'SA'),
+                   E = c('Bangalore', 'Mumbai', 'NY', 'SA'))
+
+columns = data.frame(title = c('प्रान्त', 'कुल संख्या', 'अाज थप', 'मृत्यु', 'अाज मृ्त्यु',
+                               'निको', 'जटिल'),
+                     width = c(300, 300, 300, 300, 300, 300, 300),
+                     type = c('text', 'text', 'text', 'text', 'text', 'text', 
+                              'text'))
+              
+excelTable(data=data, columns = columns)
+```
+
+
+```
+
+
+ 
+ 

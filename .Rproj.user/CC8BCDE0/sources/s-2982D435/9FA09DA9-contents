@@ -1,0 +1,66 @@
+name: "कोरोना भाइरस - कोभिड-१९"
+navbar:
+  title: "कोभिड-१९"
+  #type inverse changes the color to blue
+  # type can be default or inverse 
+  type: inverse
+  left:
+    - text: "पछिल्लो अवस्था"
+      href: index.html
+      #icon fa-home brings an icon looking like home
+      icon: fa-home
+      menu:
+        - text: "एसिया"
+        - text: "चीन"
+          href: china.html
+        - text: "---------"
+        - text: "युरोप"
+          href: data.html
+        - text: "---------"
+        - text: "अफ्रिका"
+          href: africa.html
+        - text: "---------"
+        - text: "दक्षिण अमेरिका"
+          href: southamerica.html
+        - text: "---------"
+        - text: "उत्तर अमेरिका"
+          href: northamerica.html
+        - text: "---------"
+        - text: "अस्ट्रेलिया"
+          href: australia.html
+    - text: "विश्व"
+      href: world.htm
+      icon: fa-globe
+    - text: "एसिया"
+      href: asia.html
+      icon: fa-map-marker
+    - text: "युरोप"
+      href: data.htm
+      icon: fa-map-marker
+    - text: "अफ्रिका"
+      href: africa.html
+      icon: fa-map-marker
+    - text: "उत्तर अमेरिका"
+      href: northamerica.html
+      icon: fa-map-marker
+    - text: "दक्षिण अमेरिका"
+      href: southamerica.html
+      icon: fa-map-marker
+    - text: "अस्ट्रेलिया"
+      href: australia.html
+      icon: fa-map-marker
+    - text: "WHO"
+      href: information.html
+      icon: fa-child
+  right:
+    - text: "थप जानकारी" 
+      icon: fa-question fa-lg
+      href: https://www.facebook.com/worldnewsTodey/
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
