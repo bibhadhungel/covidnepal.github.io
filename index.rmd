@@ -1,5 +1,5 @@
 ---
-title: <div class = "alert alert-success" role="alert">कोभिड-१९ बाट सतर्क रहनुहोस तर नअत्तिनुहोस ! <p class = "m b-0"><h3> कृपया साबधानि अपनाउनुहोला ।</h3></p> </div>
+title: <div class = "alert alert-success" role="alert">कोरोना भाईरसबाट सतर्क रहनुहोस तर नआत्तिनुहोस ! <p class = "m b-0"><h3> कृपया साबधानि अपनाउनुहोला ।</h3></p> </div>
 ---
 <div class="alert alert-info" role="alert">
   <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
@@ -9,18 +9,18 @@ title: <div class = "alert alert-success" role="alert">कोभिड-१९ �
   </a>
 </div>
 <h1 style = font-size:50px>
-३,४७,०५१
+३७,४१,८२२
 </h1>
 
 <div class="alert alert-danger" role="alert">
   <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
   <h1 style = font-size:25px>
-  कुल मृतक 
+  कुल मृत्यु
   </h1>
   </a>
 </div>
 <h1 style = font-size:50px>
-१४,७८९
+१६,३७९
 </h1>
 
 <div class="alert alert-warning" role="alert">
@@ -31,7 +31,7 @@ title: <div class = "alert alert-success" role="alert">कोभिड-१९ �
   </a>
 </div>
 <h1 style = font-size:50px>
-९,८७०
+१०,७२१
 </h1>
 
 <div class="alert alert-success" role="alert">
@@ -42,7 +42,7 @@ title: <div class = "alert alert-success" role="alert">कोभिड-१९ �
   </a>
 </div>
 <h1 style = font-size:50px>
-९७,९५२
+१,००,०२८
 </h1>
 
 <div class="alert alert-info" role="alert">
@@ -55,5 +55,3 @@ title: <div class = "alert alert-success" role="alert">कोभिड-१९ �
 <h1 style = font-size:50px>
 १७२/१९५
 </h1>
-
-<a href = "world.html"></a>
