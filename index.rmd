@@ -1,5 +1,5 @@
 ---
-title: <div class = "alert alert-success" role="alert">कोभिड-१९ बाट सतर्क रहनुहोस तर नअात्तिनुहोस ! <p class = "m b-0"><h3> कृपया साबधानि अपनाउनुहोला ।</h3></p> </div>
+title: <div class = "alert alert-success" role="alert">कोभिड-१९ बाट सतर्क रहनुहोस तर नअत्तिनुहोस ! <p class = "m b-0"><h3> कृपया साबधानि अपनाउनुहोला ।</h3></p> </div>
 ---
 <div class="alert alert-info" role="alert">
   <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">

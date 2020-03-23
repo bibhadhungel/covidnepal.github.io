@@ -8,6 +8,9 @@ navbar:
     - text: "पछिल्लो अवस्था"
       href: index.html
       icon: fa-plus
+    - text: "बिश्व"
+      href: world.html
+      icon: fa-globe
 
   right:
     - text: "थप जानकारी" 
