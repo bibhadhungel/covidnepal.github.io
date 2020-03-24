@@ -121,10 +121,10 @@ tags will be replaced.-->
     <x:SizeWithCells/>
     <x:CF>Bitmap</x:CF>
    </x:ClientData>
-  </v:shape><![endif]--><span style='mso-ignore:vglayout;
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
   position:absolute;z-index:1;margin-left:29px;margin-top:0px;width:1029px;
   height:753px'><img width=772 height=565
-  src="worldmap.fld/worldmap_29495_image001.png" v:shapes="Add-in_x0020_1"></span><span
+  src="worldmap.fld/worldmap_29495_image001.png" v:shapes="Add-in_x0020_1"></span><![endif]><span
   style='mso-ignore:vglayout2'>
   <table cellpadding=0 cellspacing=0>
    <tr>
