@@ -12,6 +12,9 @@ navbar:
     - text: "बिश्व"
       href: world.html
       icon: <i class="fa fa-flag fa-3x"></i> fa-3x
+    - text: "विश्व नक्शा"
+      href: worldmap.html
+      icon: <i class="fa fa-globe-americas fa-3x"></i> fa-3x
     - text: "WHO"
       href: who.html
       icon: <i class="fa fa-globe fa-3x"></i> fa-3x
@@ -21,7 +24,7 @@ navbar:
 
   right:
     - text: "थप जानकारी" 
-      icon: fa-facebook fa-lg
+      icon: fa-facebook fa-3x
       href: https://www.facebook.com/worldnewsTodey/
       target: _blank
 
