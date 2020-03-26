@@ -9,7 +9,7 @@ title: <div class = "alert alert-success" role="alert">कोरोना भा
   </a>
 </div>
 <h1 style = font-size:50px>
-४,२६,६४८
+४,७२,०६७
 </h1>
 
 <div class="alert alert-danger" role="alert">
@@ -20,7 +20,7 @@ title: <div class = "alert alert-success" role="alert">कोरोना भा
   </a>
 </div>
 <h1 style = font-size:50px>
-१८,९१३
+२१,१५४
 </h1>
 
 <div class="alert alert-warning" role="alert">
@@ -31,7 +31,7 @@ title: <div class = "alert alert-success" role="alert">कोरोना भा
   </a>
 </div>
 <h1 style = font-size:50px>
-१२,११०
+१२,८२००
 </h1>
 
 <div class="alert alert-success" role="alert">
@@ -42,7 +42,7 @@ title: <div class = "alert alert-success" role="alert">कोरोना भा
   </a>
 </div>
 <h1 style = font-size:50px>
-१,०६,४४४
+१,१०,२९०
 </h1>
 
 <div class="alert alert-info" role="alert">
