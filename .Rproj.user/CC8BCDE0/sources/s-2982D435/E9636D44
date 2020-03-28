@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1585359135446.000,
+    "created" : 1585393763160.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "36DA4C40",
+    "id" : "E9636D44",
     "lastKnownWriteTime" : 1585393808,
     "last_content_update" : 1585393808,
-    "path" : "~/Desktop/webpage/covidnepal.github.io/nepal.htm",
-    "project_path" : "nepal.htm",
+    "path" : "~/Desktop/webpage/covidnepal.github.io/world.htm",
+    "project_path" : "world.htm",
     "properties" : {
-        "cursorPosition" : "350,0",
-        "scrollLine" : "313"
+        "cursorPosition" : "2092,0",
+        "scrollLine" : "2009"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 9,
+    "relative_order" : 8,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "html"
