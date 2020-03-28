@@ -15,6 +15,9 @@ navbar:
     - text: "विश्व नक्शा"
       href: worldmap.html
       icon: <i class="fa fa-globe-americas fa-3x"></i> fa-3x
+    - text: "नेपाल"
+      href: nepal.html
+      icon: <i class="fa fa-flag fa-3x"></i> fa-3x
     - text: "WHO"
       href: who.html
       icon: <i class="fa fa-globe fa-3x"></i> fa-3x
