@@ -2125,6 +2125,7 @@ tags will be replaced.-->
   <td class=xl76 style='border-top:none'>0</td>
   <td class=xl77 style='border-top:none'>0</td>
  </tr>
+ <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
   <td width=192 style='width:144pt'></td>
   <td width=140 style='width:105pt'></td>
@@ -2134,6 +2135,7 @@ tags will be replaced.-->
   <td width=112 style='width:84pt'></td>
   <td width=123 style='width:92pt'></td>
  </tr>
+ <![endif]>
 </table>
 
 </div>
