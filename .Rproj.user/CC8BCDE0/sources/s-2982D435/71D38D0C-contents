@@ -16,7 +16,7 @@ x\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]-->
-<style id="worldmap_25593_Styles">
+<style id="worldmap_2610_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
@@ -83,7 +83,7 @@ tags will be replaced.-->
 <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
 <!----------------------------->
 
-<div id="worldmap_25593" align=center x:publishsource="Excel">
+<div id="worldmap_2610" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=1392 style='border-collapse:
  collapse;table-layout:fixed;width:1040pt'>
@@ -115,7 +115,7 @@ tags will be replaced.-->
   </v:shapetype><v:shape id="Add-in_x0020_1" o:spid="_x0000_s1025" type="#_x0000_t75"
    style='position:absolute;direction:LTR;text-align:left;margin-left:22pt;
    margin-top:0;width:772pt;height:565pt;z-index:1;visibility:visible'>
-   <v:imagedata src="worldmap.fld/worldmap_25593_image001.png" o:title=""/>
+   <v:imagedata src="worldmap.fld/worldmap_2610_image001.png" o:title=""/>
    <o:lock v:ext="edit" aspectratio="f" grouping="t"/>
    <x:ClientData ObjectType="Pict">
     <x:SizeWithCells/>
@@ -123,8 +123,8 @@ tags will be replaced.-->
    </x:ClientData>
   </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
   position:absolute;z-index:1;margin-left:29px;margin-top:0px;width:1029px;
-  height:753px'><img width=772 height=565
-  src="worldmap.fld/worldmap_25593_image001.png" v:shapes="Add-in_x0020_1"></span><![endif]><span
+  height:754px'><img width=772 height=566
+  src="worldmap.fld/worldmap_2610_image001.png" v:shapes="Add-in_x0020_1"></span><![endif]><span
   style='mso-ignore:vglayout2'>
   <table cellpadding=0 cellspacing=0>
    <tr>
