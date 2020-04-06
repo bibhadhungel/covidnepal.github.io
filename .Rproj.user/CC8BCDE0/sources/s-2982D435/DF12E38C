@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1586004072577.000,
+    "created" : 1586086364975.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "35C48B9B",
-    "lastKnownWriteTime" : 1586167045,
-    "last_content_update" : 1586167045840,
-    "path" : "~/Desktop/webpage/covidnepal.github.io/world.rmd",
-    "project_path" : "world.rmd",
+    "id" : "DF12E38C",
+    "lastKnownWriteTime" : 1586167062,
+    "last_content_update" : 1586167062307,
+    "path" : "~/Desktop/webpage/covidnepal.github.io/worldmap.rmd",
+    "project_path" : "worldmap.rmd",
     "properties" : {
-        "cursorPosition" : "11,0",
+        "cursorPosition" : "3,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 5,
+    "relative_order" : 8,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

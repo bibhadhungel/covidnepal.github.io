@@ -1,9 +1,17 @@
+rmarkdown::render_site()
+
+
 library(knitr)
 library(png)
 library(rmarkdown)
-install.packages("vembedr")
 
-rmarkdown::render_site()
+install.packages("vembedr")
+library("htmltools")
+library("vembedr")
+
+install.packages("prettydoc")
+library(prettydoc)
+
 
 rmarkdown::clean_site()
 
