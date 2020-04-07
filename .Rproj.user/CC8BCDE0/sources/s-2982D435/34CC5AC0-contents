@@ -1,9 +1,0 @@
-
-```{r, echo=FALSE}
-thumbnail("Travel", "apple.jpg",
-          "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice")
-thumbnail("Pregnancy", "pregnant.jpg",
-          "https://www.youtube.com/watch?time_continue=5&v=1APwq1df6Mw&feature=emb_title")
-thumbnail("Breastfeeding", "breastfeed.jpg",
-          "https://www.youtube.com/watch?time_continue=2&v=OZcRD9fV7jo&feature=emb_title")
-```
