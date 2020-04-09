@@ -26,9 +26,9 @@ navbar:
       icon: <i class="fa fa-newspaper fa-3x"></i> fa-3x
 
   right:
-    - text: "थप जानकारी" 
-      icon: fa-facebook fa-3x
-      href: https://www.facebook.com/worldnewsTodey/
+    - text: "Developed by: blazon dinkum"
+      icon: fa-twitter fa-3x
+      href: https://twitter.com/home
       target: _blank
 
 output:
@@ -36,5 +36,6 @@ output:
     theme: cerulean
     highlight: textmate
     include:
+      before_body: header.html
       after_body: footer.html
     css: styles.css
