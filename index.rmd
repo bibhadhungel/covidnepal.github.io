@@ -25,7 +25,7 @@ font-size: 50px
   </a>
 </div>
 <h2>
-१६,१६,८०६
+१७,१३,४६२
 </h2>
 
 <div class="alert alert-danger" role="alert">
@@ -36,7 +36,7 @@ font-size: 50px
   </a>
 </div>
 <h2>
-९५,८८५
+१,०३,६३४
 </h2>
 
 <div class="alert alert-warning" role="alert">
@@ -47,7 +47,7 @@ font-size: 50px
   </a>
 </div>
 <h2>
-३९,४१९
+४०,६२६
 </h2>
 
 <div class="alert alert-success" role="alert">
@@ -58,7 +58,7 @@ font-size: 50px
   </a>
 </div>
 <h2>
-३६१,३५३
+३,८२,८७६
 </h2>
 
 <div class="alert alert-info" role="alert">
@@ -69,7 +69,7 @@ font-size: 50px
   </a>
 </div>
 <h2>
-२०१
+२०३
 </h2>
 
 </body>
