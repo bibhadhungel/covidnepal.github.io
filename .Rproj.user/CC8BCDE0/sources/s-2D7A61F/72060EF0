@@ -7,19 +7,19 @@
     "folds" : "",
     "hash" : "0",
     "id" : "72060EF0",
-    "lastKnownWriteTime" : 1586606071,
-    "last_content_update" : 1586606071472,
+    "lastKnownWriteTime" : 1586668993,
+    "last_content_update" : 1586668993449,
     "path" : "~/Desktop/webpage/covidnepal.github.io/nepal.rmd",
     "project_path" : "nepal.rmd",
     "properties" : {
-        "cursorPosition" : "233,63",
-        "scrollLine" : "224",
+        "cursorPosition" : "397,0",
+        "scrollLine" : "364",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 6,
+    "relative_order" : 8,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

@@ -1,7 +1,3 @@
-<html>
-<body style="background-color:white">
-<!--PASTE AFTER HERE -->
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
@@ -125,10 +121,10 @@ tags will be replaced.-->
     <x:SizeWithCells/>
     <x:CF>Bitmap</x:CF>
    </x:ClientData>
-  </v:shape><![endif]--><span style='mso-ignore:vglayout;
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
   position:absolute;z-index:1;margin-left:29px;margin-top:0px;width:1029px;
   height:753px'><img width=772 height=565
-  src="worldmap.fld/worldmap_10216_image001.png" v:shapes="Add-in_x0020_1"></span><span
+  src="worldmap.fld/worldmap_10216_image001.png" v:shapes="Add-in_x0020_1"></span><![endif]><span
   style='mso-ignore:vglayout2'>
   <table cellpadding=0 cellspacing=0>
    <tr>
@@ -152,6 +148,7 @@ tags will be replaced.-->
  <tr height=735 style='height:560.0pt;mso-xlrowspan:35'>
   <td height=735 colspan=16 style='height:560.0pt;mso-ignore:colspan'></td>
  </tr>
+ <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
   <td width=87 style='width:65pt'></td>
   <td width=87 style='width:65pt'></td>
@@ -170,6 +167,7 @@ tags will be replaced.-->
   <td width=87 style='width:65pt'></td>
   <td width=87 style='width:65pt'></td>
  </tr>
+ <![endif]>
 </table>
 
 </div>
@@ -181,6 +179,3 @@ tags will be replaced.-->
 </body>
 
 </html>
-
-
-
