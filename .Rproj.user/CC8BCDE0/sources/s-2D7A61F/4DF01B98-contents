@@ -1,32 +1,3 @@
-<head>
-<style>
-h1.colorr{
-font-size: 50px;
-}
-
-button{
-        background-color: #f44336;
-        color: white;
-        padding: 15px 25px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-}
-</style>
-</head>
-
-<html>
-<body style="background-color:rgba(240, 240, 240, 1);">
-
-<h1 class="colorr">
-<!-- with button do not use href instead use onclick: onlcick is a javascript code -->
-<button onclick = "document.location ='world.html'">
-नेपाल
-</button>
-</h1>
-<!--PASTE AFTER HERE -->
-
-
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
@@ -481,6 +452,7 @@ tags will be replaced.-->
  <tr height=21 style='height:16.0pt'>
   <td height=21 colspan=18 style='height:16.0pt;mso-ignore:colspan'></td>
  </tr>
+ <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
   <td width=131 style='width:98pt'></td>
   <td width=113 style='width:85pt'></td>
@@ -501,6 +473,7 @@ tags will be replaced.-->
   <td width=87 style='width:65pt'></td>
   <td width=87 style='width:65pt'></td>
  </tr>
+ <![endif]>
 </table>
 
 </div>
@@ -511,19 +484,4 @@ tags will be replaced.-->
 <!----------------------------->
 </body>
 
-</html>
-
-
-
-
-
-
-<h2> कोभिड-१९ को पुर्वतयारी तथा रोकथाम सम्बन्धमा प्रदेस स्तरमा भएका क्रियाकलापहरु</h2>
-<a href = "https://www.mohp.gov.np/attachments/article/577/कोरोना%20सम्बन्धी%20प्रदेशस्तरका%20कि्याकलापहरु.jpg" target = "_blank">
-![covid-19](images/province.jpg)
-</a>
-<a href = https://heoc.mohp.gov.np target = "_blank">
-<p><button>थप जानकारीको लागि  </button></p>
-</a>
-</body>
 </html>

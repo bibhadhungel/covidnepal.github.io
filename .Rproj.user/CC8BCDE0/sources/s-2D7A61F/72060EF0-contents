@@ -27,11 +27,6 @@ button{
 <!--PASTE AFTER HERE -->
 
 
-
-
-
-
-
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
@@ -41,7 +36,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
 <link rel=File-List href="nepal.fld/filelist.xml">
-<style id="nepal_20274_Styles">
+<style id="nepal_16912_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
@@ -98,28 +93,15 @@ td
 	mso-rotate:0;}
 .xl63
 	{mso-style-parent:style0;
-	mso-number-format:"\[$-4000439\]0";
-	text-align:left;}
-.xl64
-	{mso-style-parent:style0;
 	vertical-align:middle;}
-.xl65
+.xl64
 	{mso-style-parent:style0;
 	color:#00B050;
 	font-size:20.0pt;}
-.xl66
+.xl65
 	{mso-style-parent:style0;
 	font-weight:700;}
-.xl67
-	{mso-style-parent:style0;
-	font-weight:700;
-	background:#F2F2F2;
-	mso-pattern:black none;}
-.xl68
-	{mso-style-parent:style0;
-	mso-number-format:"\[$-4000439\]0";
-	text-align:center;}
-.xl69
+.xl66
 	{mso-style-parent:style0;
 	color:#3A87AD;
 	font-size:18.0pt;
@@ -127,15 +109,11 @@ td
 	mso-font-charset:0;
 	text-align:left;
 	vertical-align:middle;}
-.xl70
+.xl67
 	{mso-style-parent:style0;
 	text-align:left;
 	vertical-align:middle;}
-.xl71
-	{mso-style-parent:style0;
-	font-size:48.0pt;
-	text-align:left;}
-.xl72
+.xl68
 	{mso-style-parent:style0;
 	color:red;
 	font-size:48.0pt;
@@ -143,16 +121,76 @@ td
 	mso-font-charset:0;
 	mso-number-format:"\[$-4000439\]0";
 	text-align:left;}
-.xl73
+.xl69
 	{mso-style-parent:style0;
 	font-size:48.0pt;}
+.xl70
+	{mso-style-parent:style0;
+	color:green;
+	font-size:48.0pt;
+	font-family:"Helvetica Neue", sans-serif;
+	mso-font-charset:0;
+	text-align:center;}
+.xl71
+	{mso-style-parent:style0;
+	font-size:20.0pt;
+	mso-number-format:"\[$-4000439\]0";
+	text-align:center;}
+.xl72
+	{mso-style-parent:style0;
+	font-size:20.0pt;}
+.xl73
+	{mso-style-parent:style0;
+	font-size:20.0pt;
+	mso-number-format:"\[$-4000439\]0";
+	text-align:left;}
 .xl74
 	{mso-style-parent:style0;
-	text-align:center;}
+	font-size:20.0pt;
+	text-align:left;}
 .xl75
 	{mso-style-parent:style0;
-	text-align:left;}
+	font-size:20.0pt;
+	mso-number-format:"\[$-4000439\]0";}
 .xl76
+	{mso-style-parent:style0;
+	color:red;
+	font-size:20.0pt;
+	font-weight:700;
+	background:yellow;
+	mso-pattern:black none;}
+.xl77
+	{mso-style-parent:style0;
+	color:red;
+	font-weight:700;
+	background:yellow;
+	mso-pattern:black none;}
+.xl78
+	{mso-style-parent:style0;
+	font-weight:700;
+	background:yellow;
+	mso-pattern:black none;}
+.xl79
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;}
+.xl80
+	{mso-style-parent:style0;
+	color:#3A87AD;
+	font-size:18.0pt;
+	font-family:"Helvetica Neue", sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;}
+.xl81
+	{mso-style-parent:style0;
+	color:yellow;
+	font-size:48.0pt;
+	font-family:"Helvetica Neue", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\[$-4000439\]0";
+	text-align:center;}
+.xl82
 	{mso-style-parent:style0;
 	color:black;
 	font-size:48.0pt;
@@ -160,24 +198,9 @@ td
 	mso-font-charset:0;
 	mso-number-format:"\[$-4000439\]0";
 	text-align:center;}
-.xl77
+.xl83
 	{mso-style-parent:style0;
 	color:blue;
-	font-size:48.0pt;
-	font-family:"Helvetica Neue", sans-serif;
-	mso-font-charset:0;
-	mso-number-format:"\[$-4000439\]0";
-	text-align:center;}
-.xl78
-	{mso-style-parent:style0;
-	color:green;
-	font-size:48.0pt;
-	font-family:"Helvetica Neue", sans-serif;
-	mso-font-charset:0;
-	text-align:center;}
-.xl79
-	{mso-style-parent:style0;
-	color:yellow;
 	font-size:48.0pt;
 	font-family:"Helvetica Neue", sans-serif;
 	mso-font-charset:0;
@@ -197,215 +220,285 @@ tags will be replaced.-->
 <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
 <!----------------------------->
 
-<div id="nepal_20274" align=center x:publishsource="Excel">
+<div id="nepal_16912" align=center x:publishsource="Excel">
 
-<table border=0 cellpadding=0 cellspacing=0 width=925 style='border-collapse:
- collapse;table-layout:fixed;width:693pt'>
- <col width=97 style='mso-width-source:userset;mso-width-alt:3114;width:73pt'>
- <col width=95 style='mso-width-source:userset;mso-width-alt:3029;width:71pt'>
- <col width=39 style='mso-width-source:userset;mso-width-alt:1237;width:29pt'>
- <col width=63 style='mso-width-source:userset;mso-width-alt:2005;width:47pt'>
- <col width=93 style='mso-width-source:userset;mso-width-alt:2986;width:70pt'>
- <col width=76 style='mso-width-source:userset;mso-width-alt:2432;width:57pt'>
+<table border=0 cellpadding=0 cellspacing=0 width=1718 style='border-collapse:
+ collapse;table-layout:fixed;width:1286pt'>
+ <col width=131 style='mso-width-source:userset;mso-width-alt:4181;width:98pt'>
+ <col width=113 style='mso-width-source:userset;mso-width-alt:3626;width:85pt'>
+ <col width=53 style='mso-width-source:userset;mso-width-alt:1706;width:40pt'>
+ <col width=87 style='mso-width-source:userset;mso-width-alt:2773;width:65pt'>
+ <col width=163 style='mso-width-source:userset;mso-width-alt:5205;width:122pt'>
+ <col width=100 style='mso-width-source:userset;mso-width-alt:3200;width:75pt'>
  <col width=99 style='mso-width-source:userset;mso-width-alt:3157;width:74pt'>
  <col width=104 style='mso-width-source:userset;mso-width-alt:3328;width:78pt'>
  <col width=56 style='mso-width-source:userset;mso-width-alt:1792;width:42pt'>
  <col width=116 style='mso-width-source:userset;mso-width-alt:3712;width:87pt'>
- <col width=87 style='width:65pt'>
+ <col width=87 span=8 style='width:65pt'>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 width=97 style='height:16.0pt;width:73pt'></td>
-  <td width=95 style='width:71pt'></td>
-  <td width=39 style='width:29pt'></td>
-  <td width=63 style='width:47pt'></td>
-  <td width=93 style='width:70pt'></td>
-  <td width=76 style='width:57pt'></td>
+  <td height=21 width=131 style='height:16.0pt;width:98pt'></td>
+  <td width=113 style='width:85pt'></td>
+  <td width=53 style='width:40pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=163 style='width:122pt'></td>
+  <td width=100 style='width:75pt'></td>
   <td width=99 style='width:74pt'></td>
   <td width=104 style='width:78pt'></td>
   <td width=56 style='width:42pt'></td>
   <td width=116 style='width:87pt'></td>
   <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
  </tr>
- <tr class=xl64 height=49 style='mso-height-source:userset;height:37.0pt'>
-  <td height=49 class=xl69 colspan=3 style='height:37.0pt;mso-ignore:colspan'>कुल
+ <tr class=xl63 height=49 style='mso-height-source:userset;height:37.0pt'>
+  <td height=49 class=xl66 colspan=2 style='height:37.0pt;mso-ignore:colspan'>कुल
   परिक्षण गरिएको</td>
-  <td class=xl69 colspan=2 style='mso-ignore:colspan'>कुल संक्रमित</td>
-  <td class=xl69 colspan=2 style='mso-ignore:colspan'>कुल निको भएका</td>
-  <td class=xl69 colspan=2 style='mso-ignore:colspan'>कुल जटिल केस</td>
-  <td class=xl69>कुल मृत्यु</td>
+  <td class=xl66 colspan=2 style='mso-ignore:colspan'>कुल संक्रमित</td>
+  <td class=xl66>कुल निको भएका</td>
+  <td colspan=2 class=xl80>कुल जटिल केस</td>
+  <td class=xl66>कुल मृत्यु</td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+  <td class=xl63></td>
+ </tr>
+ <tr class=xl69 height=83 style='height:62.0pt'>
+  <td colspan=2 height=83 class=xl82 style='height:62.0pt'>५६९१</td>
+  <td colspan=2 class=xl83>१४</td>
+  <td class=xl70>१&nbsp;</td>
+  <td colspan=2 class=xl81>०</td>
+  <td class=xl68>०</td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+  <td class=xl69></td>
+ </tr>
+ <tr height=21 style='height:16.0pt'>
+  <td height=21 colspan=18 style='height:16.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl64 height=35 style='height:26.0pt'>
+  <td height=35 class=xl64 colspan=4 align=left style='height:26.0pt;
+  mso-ignore:colspan'>केसहरु सम्बन्धि थप जानकारी</td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
+  <td class=xl64></td>
   <td class=xl64></td>
  </tr>
- <tr class=xl73 height=83 style='height:62.0pt'>
-  <td colspan=2 height=83 class=xl76 style='height:62.0pt'>४४२६</td>
-  <td class=xl71></td>
-  <td colspan=2 class=xl77>१२</td>
-  <td colspan=2 class=xl78>१&nbsp;</td>
-  <td colspan=2 class=xl79>०</td>
-  <td class=xl72>०</td>
-  <td class=xl73></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 colspan=11 style='height:16.0pt;mso-ignore:colspan'></td>
- </tr>
- <tr class=xl65 height=35 style='height:26.0pt'>
-  <td height=35 class=xl65 colspan=5 align=left style='height:26.0pt;
-  mso-ignore:colspan'>केसहरु सम्बन्धि थप जानकारी</td>
-  <td class=xl65></td>
-  <td class=xl65></td>
-  <td class=xl65></td>
-  <td class=xl65></td>
-  <td class=xl65></td>
+ <tr class=xl65 height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl76 align=left style='height:35.0pt'>केस संख्या</td>
+  <td class=xl76 align=left>जिल्ला</td>
+  <td class=xl76 align=left>उमेर</td>
+  <td class=xl76 align=left>लिङग</td>
+  <td class=xl76 align=left>संक्रमण मिति</td>
+  <td class=xl76 align=left>अवस्था</td>
+  <td class=xl76 colspan=2 align=left style='mso-ignore:colspan'>थप जानकारी</td>
+  <td class=xl77>&nbsp;</td>
+  <td class=xl77>&nbsp;</td>
+  <td class=xl78>&nbsp;</td>
+  <td class=xl78>&nbsp;</td>
+  <td class=xl78>&nbsp;</td>
+  <td class=xl78>&nbsp;</td>
+  <td class=xl78>&nbsp;</td>
+  <td class=xl78>&nbsp;</td>
+  <td class=xl78>&nbsp;</td>
   <td class=xl65></td>
  </tr>
- <tr class=xl66 height=21 style='height:16.0pt'>
-  <td height=21 class=xl67 align=left style='height:16.0pt'>केस संख्या</td>
-  <td class=xl67 align=left>जिल्ला</td>
-  <td class=xl67 align=left>उमेर</td>
-  <td class=xl67 align=left>लिङग</td>
-  <td class=xl67 align=left>संक्रमण मित<span style='display:none'>ि</span></td>
-  <td class=xl67 align=left>अवस्था</td>
-  <td class=xl67 align=left>थप जानकारी</td>
-  <td class=xl67>&nbsp;</td>
-  <td class=xl67>&nbsp;</td>
-  <td class=xl67>&nbsp;</td>
-  <td class=xl66></td>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>१४</td>
+  <td class=xl72 align=left>रौतहट</td>
+  <td class=xl73>१९</td>
+  <td class=xl72 align=left>पुरुष</td>
+  <td class=xl75 align=left>२०७७ बैशाख १</td>
+  <td class=xl72 colspan=2 align=left style='mso-ignore:colspan'>संक्रमित</td>
+  <td colspan=11 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>१</td>
-  <td align=left>काठमाडौं</td>
-  <td class=xl63>३१</td>
-  <td align=left>पुरुष</td>
-  <td align=left>२०७६ माघ १०</td>
-  <td align=left>निको</td>
-  <td colspan=5 align=left style='mso-ignore:colspan'>२०७६ माघ १७मा निको भएको,
-  वुहान विश्वविद्यालयका विद्यार्थी</td>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>१३</td>
+  <td class=xl72 align=left>कैलाली</td>
+  <td class=xl73>६५</td>
+  <td class=xl72 align=left>महिला</td>
+  <td class=xl72 align=left>२०७७ बैशाख १</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=12 align=left style='mso-ignore:colspan'>१०-१२ नं
+  संक्रमित भेटिएको ठाउँ बीरगंजमा उनको चीयाको पसल छ। कैलालीमा नातेदार भेट्न गएको</td>
  </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>२</td>
-  <td align=left>काठमाडौं</td>
-  <td class=xl63>१९</td>
-  <td align=left>महिला</td>
-  <td align=left>२०७६ चैत १०</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=5 align=left style='mso-ignore:colspan'>२०७६ चैत ७ मा फ्रान्सबाट
-  कतार हुँदै नेपाल फर्किएको विद्यार्थी</td>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>१२</td>
+  <td class=xl72 align=left>बिरगंज</td>
+  <td class=xl74></td>
+  <td class=xl72></td>
+  <td class=xl72 align=left>२०७६ चैत ३०</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=2 align=left style='mso-ignore:colspan'>भारतीय नागरिक</td>
+  <td colspan=10 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>३</td>
-  <td align=left>काठमाडौं</td>
-  <td class=xl63>३१</td>
-  <td align=left>पुरुष</td>
-  <td align=left>२०७६ चैत १२</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=2 align=left style='mso-ignore:colspan'>युऐईबाट फर्किएका व्यक्ति</td>
-  <td colspan=3 style='mso-ignore:colspan'></td>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>११</td>
+  <td class=xl72 align=left>बिरगंज</td>
+  <td class=xl72></td>
+  <td class=xl72></td>
+  <td class=xl72 align=left>२०७६ चैत ३०</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=2 align=left style='mso-ignore:colspan'>भारतीय नागरिक</td>
+  <td colspan=10 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>४</td>
-  <td align=left>सेती अस्पताल<span style='display:none'>, धनगडि</span></td>
-  <td class=xl63>३४</td>
-  <td align=left>पुरुष</td>
-  <td align=left>२०७६ चैत १४</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=2 align=left style='mso-ignore:colspan'>मध्य पुर्वी देशबाट
-  फर्किएका</td>
-  <td colspan=3 style='mso-ignore:colspan'></td>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>१०</td>
+  <td class=xl72 align=left>बिरगंज</td>
+  <td class=xl72></td>
+  <td class=xl72></td>
+  <td class=xl72 align=left>२०७६ चैत ३०</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=2 align=left style='mso-ignore:colspan'>भारतीय नागरिक</td>
+  <td colspan=10 style='mso-ignore:colspan'></td>
  </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>५</td>
-  <td align=left>बाग्लुङ</td>
-  <td class=xl63>२२</td>
-  <td align=left>महिला</td>
-  <td align=left>२०७६ चैत १५</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=3 align=left style='mso-ignore:colspan'>बेल्जियमबाट कतार हुँदै
-  फर्किएको</td>
-  <td colspan=2 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>६</td>
-  <td align=left>बाग्लुङ</td>
-  <td class=xl63>६५</td>
-  <td align=left>महिला</td>
-  <td align=left>२०७६ चैत २०</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=5 align=left style='mso-ignore:colspan'>कतार एयरलाईनस बाट दोहाबाट
-  पाचौं संक्रमित महिलासंग फर्किएका व्य<span style='display:none'>क्ति</span></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>७</td>
-  <td align=left>धनगडि</td>
-  <td class=xl63>३४</td>
-  <td align=left>महिला</td>
-  <td align=left>२०७६ चैत २२</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=2 align=left style='mso-ignore:colspan'>चौथो केसको भाउजु</td>
-  <td colspan=3 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>८</td>
-  <td align=left>कैलाली</td>
-  <td class=xl63>२१</td>
-  <td align=left>पुरुष</td>
-  <td align=left>२०७६ चैत २२</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=2 align=left style='mso-ignore:colspan'>भारतबाट कैलाली आएका</td>
-  <td colspan=3 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>९</td>
-  <td align=left>कञ्चनपुर</td>
-  <td class=xl63>४१</td>
-  <td align=left>पुरुष</td>
-  <td align=left>२०७६ चैत २२</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=2 align=left style='mso-ignore:colspan'>भारतबाट कञ्चनपुर आएका</td>
-  <td colspan=3 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>१०</td>
-  <td align=left>बिरगंज</td>
-  <td colspan=2 style='mso-ignore:colspan'></td>
-  <td align=left>२०७६ चैत ३०</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=2 align=left style='mso-ignore:colspan'>भारतीय नागरिक</td>
-  <td colspan=3 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>११</td>
-  <td align=left>बिरगंज</td>
-  <td colspan=2 style='mso-ignore:colspan'></td>
-  <td align=left>२०७६ चैत ३०</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=2 align=left style='mso-ignore:colspan'>भारतीय नागरिक</td>
-  <td colspan=3 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl68 style='height:16.0pt'>१२</td>
-  <td align=left>बिरगंज</td>
-  <td class=xl75></td>
-  <td></td>
-  <td align=left>२०७६ चैत ३०</td>
-  <td align=left>संक्रमित</td>
-  <td colspan=2 align=left style='mso-ignore:colspan'>भारतीय नागरिक</td>
-  <td colspan=3 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl74 style='height:16.0pt'></td>
-  <td></td>
-  <td class=xl75></td>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>९</td>
+  <td class=xl72 align=left>कञ्चनपुर</td>
+  <td class=xl73>४१</td>
+  <td class=xl72 align=left>पुरुष</td>
+  <td class=xl72 align=left>२०७६ चैत २२</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=4 align=left style='mso-ignore:colspan'>भारतबाट
+  कञ्चनपुर आएका</td>
   <td colspan=8 style='mso-ignore:colspan'></td>
  </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>८</td>
+  <td class=xl72 align=left>कैलाली</td>
+  <td class=xl73>२१</td>
+  <td class=xl72 align=left>पुरुष</td>
+  <td class=xl72 align=left>२०७६ चैत २२</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=4 align=left style='mso-ignore:colspan'>भारतबाट कैलाली
+  आएका</td>
+  <td colspan=8 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>७</td>
+  <td class=xl72 align=left>धनगडि</td>
+  <td class=xl73>३४</td>
+  <td class=xl72 align=left>महिला</td>
+  <td class=xl72 align=left>२०७६ चैत २२</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=3 align=left style='mso-ignore:colspan'>चौथो केसको
+  भाउजु</td>
+  <td colspan=9 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>६</td>
+  <td class=xl72 align=left>बाग्लुङ</td>
+  <td class=xl73>६५</td>
+  <td class=xl72 align=left>महिला</td>
+  <td class=xl72 align=left>२०७६ चैत २०</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=9 align=left style='mso-ignore:colspan'>कतार एयरलाईनस
+  बाट दोहाबाट पाचौं संक्रमित महिलासंग फर्किएका व्यक्ति</td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>५</td>
+  <td class=xl72 align=left>बाग्लुङ</td>
+  <td class=xl73>२२</td>
+  <td class=xl72 align=left>महिला</td>
+  <td class=xl72 align=left>२०७६ चैत १५</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=4 align=left style='mso-ignore:colspan'>बेल्जियमबाट
+  कतार हुँदै फर्किएको</td>
+  <td colspan=8 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>४</td>
+  <td class=xl72 align=left>धनगडि</td>
+  <td class=xl73>३४</td>
+  <td class=xl72 align=left>पुरुष</td>
+  <td class=xl72 align=left>२०७६ चैत १४</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=4 align=left style='mso-ignore:colspan'>मध्य पुर्वी
+  देशबाट फर्किएका</td>
+  <td colspan=8 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>३</td>
+  <td class=xl72 align=left>काठमाडौं</td>
+  <td class=xl73>३१</td>
+  <td class=xl72 align=left>पुरुष</td>
+  <td class=xl72 align=left>२०७६ चैत १२</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=4 align=left style='mso-ignore:colspan'>युऐईबाट
+  फर्किएका व्यक्ति</td>
+  <td colspan=8 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>२</td>
+  <td class=xl72 align=left>काठमाडौं</td>
+  <td class=xl73>१९</td>
+  <td class=xl72 align=left>महिला</td>
+  <td class=xl72 align=left>२०७६ चैत १०</td>
+  <td class=xl72 align=left>संक्रमित</td>
+  <td class=xl72 colspan=8 align=left style='mso-ignore:colspan'>२०७६ चैत ७ मा
+  फ्रान्सबाट कतार हुँदै नेपाल फर्किएको विद्यार्थी</td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=47 style='mso-height-source:userset;height:35.0pt'>
+  <td height=47 class=xl71 style='height:35.0pt'>१</td>
+  <td class=xl72 align=left>काठमाडौं</td>
+  <td class=xl73>३१</td>
+  <td class=xl72 align=left>पुरुष</td>
+  <td class=xl72 align=left>२०७६ माघ १०</td>
+  <td class=xl72 align=left>निको</td>
+  <td class=xl72 colspan=8 align=left style='mso-ignore:colspan'>२०७६ माघ १७मा
+  निको भएको, वुहान विश्वविद्यालयका विद्यार्थी</td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=21 style='height:16.0pt'>
+  <td height=21 colspan=18 style='height:16.0pt;mso-ignore:colspan'></td>
+ </tr>
  <tr height=0 style='display:none'>
-  <td width=97 style='width:73pt'></td>
-  <td width=95 style='width:71pt'></td>
-  <td width=39 style='width:29pt'></td>
-  <td width=63 style='width:47pt'></td>
-  <td width=93 style='width:70pt'></td>
-  <td width=76 style='width:57pt'></td>
+  <td width=131 style='width:98pt'></td>
+  <td width=113 style='width:85pt'></td>
+  <td width=53 style='width:40pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=163 style='width:122pt'></td>
+  <td width=100 style='width:75pt'></td>
   <td width=99 style='width:74pt'></td>
   <td width=104 style='width:78pt'></td>
   <td width=56 style='width:42pt'></td>
   <td width=116 style='width:87pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
   <td width=87 style='width:65pt'></td>
  </tr>
 </table>
@@ -419,9 +512,6 @@ tags will be replaced.-->
 </body>
 
 </html>
-
-
-
 
 
 
