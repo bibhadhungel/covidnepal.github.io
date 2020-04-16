@@ -5,9 +5,6 @@
 <!--PASTE AFTER HERE -->
 
 
-
-
-
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
@@ -17,7 +14,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
 <link rel=File-List href="world.fld/filelist.xml">
-<style id="world_25447_Styles">
+<style id="world_15358_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
@@ -292,13 +289,13 @@ tags will be replaced.-->
 <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
 <!----------------------------->
 
-<div id="world_25447" align=center x:publishsource="Excel">
+<div id="world_15358" align=center x:publishsource="Excel">
 
-<table border=0 cellpadding=0 cellspacing=0 width=1094 style='border-collapse:
- collapse;table-layout:fixed;width:820pt'>
+<table border=0 cellpadding=0 cellspacing=0 width=1101 style='border-collapse:
+ collapse;table-layout:fixed;width:825pt'>
  <col class=xl64 width=192 style='mso-width-source:userset;mso-width-alt:6144;
  width:144pt'>
- <col width=140 style='mso-width-source:userset;mso-width-alt:4480;width:105pt'>
+ <col width=147 style='mso-width-source:userset;mso-width-alt:4693;width:110pt'>
  <col width=207 style='mso-width-source:userset;mso-width-alt:6613;width:155pt'>
  <col width=112 style='mso-width-source:userset;mso-width-alt:3584;width:84pt'>
  <col width=208 style='mso-width-source:userset;mso-width-alt:6656;width:156pt'>
@@ -309,7 +306,7 @@ tags will be replaced.-->
  width:124pt'>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl64 width=192 style='height:30.0pt;width:144pt'></td>
-  <td width=140 style='width:105pt'></td>
+  <td width=147 style='width:110pt'></td>
   <td width=207 style='width:155pt'></td>
   <td width=112 style='width:84pt'></td>
   <td width=208 style='width:156pt'></td>
@@ -323,748 +320,765 @@ tags will be replaced.-->
   <td class=xl66>कुल मृत्यु</td>
   <td class=xl66>आजको मृत्यु</td>
   <td class=xl66>निको</td>
-  <td class=xl66>जटिल</td>
+  <td class=xl66>कुल जाँच</td>
  </tr>
  <tr class=xl67 height=45 style='mso-height-source:userset;height:34.0pt'>
   <td height=45 class=xl78 style='height:34.0pt;border-top:none'>नेपाल</td>
-  <td class=xl79 style='border-top:none'>14</td>
-  <td class=xl79 style='border-top:none'>↑ 2 (16.66%)</td>
+  <td class=xl79 style='border-top:none'>16</td>
   <td class=xl79 style='border-top:none'>0</td>
   <td class=xl79 style='border-top:none'>0</td>
-  <td class=xl79 style='border-top:none'>1</td>
   <td class=xl79 style='border-top:none'>0</td>
+  <td class=xl79 style='border-top:none'>0</td>
+  <td class=xl79 style='border-top:none'>15800</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl68 style='height:30.0pt;border-top:none'>जम्मा</td>
-  <td class=xl69 style='border-top:none'>1,924,787</td>
-  <td class=xl69 style='border-top:none'>↑ 70,977 (3.82%)</td>
-  <td class=xl70 style='border-top:none'>119,618</td>
-  <td class=xl70 style='border-top:none'>↑ 5,387 (4.71%)</td>
-  <td class=xl71 style='border-top:none'>447,238</td>
-  <td class=xl72 style='border-top:none'>42,378</td>
+  <td class=xl69 style='border-top:none'>2,100,970</td>
+  <td class=xl69 style='border-top:none'>↑ 18,598 (0.89%)</td>
+  <td class=xl70 style='border-top:none'>136,048</td>
+  <td class=xl70 style='border-top:none'>↑ 1,488 (1.10%)</td>
+  <td class=xl71 style='border-top:none'>523,933</td>
+  <td class=xl72 style='border-top:none'>17,680,811</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अमेरिका</td>
-  <td class=xl74 style='border-top:none'>586,093</td>
-  <td class=xl74 style='border-top:none'>↑ 25,793 (4.60%)</td>
-  <td class=xl75 style='border-top:none'>23,638</td>
-  <td class=xl75 style='border-top:none'>↑ 1,487 (6.71%)</td>
-  <td class=xl76 style='border-top:none'>32,265</td>
-  <td class=xl77 style='border-top:none'>8,803</td>
+  <td class=xl74 style='border-top:none'>644,417</td>
+  <td class=xl74 style='border-top:none'>↑ 328 (0.05%)</td>
+  <td class=xl75 style='border-top:none'>28,559</td>
+  <td class=xl75 style='border-top:none'>↑ 30 (0.10%)</td>
+  <td class=xl76 style='border-top:none'>1,868</td>
+  <td class=xl77 style='border-top:none'>3,261,785</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्पेन</td>
-  <td class=xl74 style='border-top:none'>170,099</td>
-  <td class=xl74 style='border-top:none'>↑ 3,268 (1.95%)</td>
-  <td class=xl75 style='border-top:none'>17,756</td>
-  <td class=xl75 style='border-top:none'>↑ 547 (3.17%)</td>
-  <td class=xl76 style='border-top:none'>64,727</td>
-  <td class=xl77 style='border-top:none'>7,777</td>
+  <td class=xl74 style='border-top:none'>182,816</td>
+  <td class=xl74 style='border-top:none'>↑ 2,157 (1.19%)</td>
+  <td class=xl75 style='border-top:none'>19,130</td>
+  <td class=xl75 style='border-top:none'>↑ 318 (1.69%)</td>
+  <td class=xl76 style='border-top:none'>19,259</td>
+  <td class=xl77 style='border-top:none'>930,230</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईटाली</td>
-  <td class=xl74 style='border-top:none'>159,516</td>
-  <td class=xl74 style='border-top:none'>↑ 3,153 (2.01%)</td>
-  <td class=xl75 style='border-top:none'>20,465</td>
-  <td class=xl75 style='border-top:none'>↑ 566 (2.84%)</td>
-  <td class=xl76 style='border-top:none'>34,211</td>
-  <td class=xl77 style='border-top:none'>3,343</td>
+  <td class=xl74 style='border-top:none'>165,155</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>21,645</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>15,729</td>
+  <td class=xl77 style='border-top:none'>1,117,404</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फ्रान्स</td>
-  <td class=xl74 style='border-top:none'>136,779</td>
-  <td class=xl74 style='border-top:none'>↑ 4,188 (3.15%)</td>
-  <td class=xl75 style='border-top:none'>14,967</td>
-  <td class=xl75 style='border-top:none'>↑ 574 (3.98%)</td>
-  <td class=xl76 style='border-top:none'>27,718</td>
-  <td class=xl77 style='border-top:none'>6,821</td>
+  <td class=xl74 style='border-top:none'>147,863</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>17,167</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>7,928</td>
+  <td class=xl77 style='border-top:none'>333,807</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जर्मनी</td>
-  <td class=xl74 style='border-top:none'>130,566</td>
-  <td class=xl74 style='border-top:none'>↑ 2,240 (1.74%)</td>
-  <td class=xl75 style='border-top:none'>3,200</td>
-  <td class=xl75 style='border-top:none'>↑ 172 (5.68%)</td>
-  <td class=xl76 style='border-top:none'>75,547</td>
-  <td class=xl77 style='border-top:none'>2,390</td>
+  <td class=xl74 style='border-top:none'>134,753</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>3,804</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>15,824</td>
+  <td class=xl77 style='border-top:none'>1,728,357</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>युनाईटेड
   किङ्डम</td>
-  <td class=xl74 style='border-top:none'>88,621</td>
-  <td class=xl74 style='border-top:none'>↑ 4,342 (5.15%)</td>
-  <td class=xl75 style='border-top:none'>11,329</td>
-  <td class=xl75 style='border-top:none'>↑ 717 (6.75%)</td>
-  <td class=xl76 style='border-top:none'>1,918</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>98,476</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>12,868</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>135</td>
+  <td class=xl77 style='border-top:none'>398,916</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>चीन</td>
-  <td class=xl74 style='border-top:none'>84,317</td>
-  <td class=xl74 style='border-top:none'>↑ 141 (0.16%)</td>
-  <td class=xl75 style='border-top:none'>3,341</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (0.05%)</td>
-  <td class=xl76 style='border-top:none'>78,756</td>
-  <td class=xl77 style='border-top:none'>121</td>
+  <td class=xl74 style='border-top:none'>82,341</td>
+  <td class=xl74 style='border-top:none'>↑ 46 (0.05%)</td>
+  <td class=xl75 style='border-top:none'>3,342</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>74,862</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईरान</td>
-  <td class=xl74 style='border-top:none'>73,303</td>
-  <td class=xl74 style='border-top:none'>↑ 1,617 (2.25%)</td>
-  <td class=xl75 style='border-top:none'>4,585</td>
-  <td class=xl75 style='border-top:none'>↑ 111 (2.48%)</td>
-  <td class=xl76 style='border-top:none'>45,983</td>
-  <td class=xl77 style='border-top:none'>3,877</td>
+  <td class=xl74 style='border-top:none'>77,995</td>
+  <td class=xl74 style='border-top:none'>↑ 1,606 (2.10%)</td>
+  <td class=xl75 style='border-top:none'>4,869</td>
+  <td class=xl75 style='border-top:none'>↑ 92 (1.92%)</td>
+  <td class=xl76 style='border-top:none'>14,656</td>
+  <td class=xl77 style='border-top:none'>310,340</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>टर्कि</td>
-  <td class=xl74 style='border-top:none'>61,049</td>
-  <td class=xl74 style='border-top:none'>↑ 4,093 (7.18%)</td>
-  <td class=xl75 style='border-top:none'>1,296</td>
-  <td class=xl75 style='border-top:none'>↑ 98 (8.18%)</td>
-  <td class=xl76 style='border-top:none'>3,957</td>
-  <td class=xl77 style='border-top:none'>1,786</td>
+  <td class=xl74 style='border-top:none'>69,392</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>1,518</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>162</td>
+  <td class=xl77 style='border-top:none'>477,716</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बेल्जियम</td>
-  <td class=xl74 style='border-top:none'>30,589</td>
-  <td class=xl74 style='border-top:none'>↑ 942 (3.17%)</td>
-  <td class=xl75 style='border-top:none'>3,903</td>
-  <td class=xl75 style='border-top:none'>↑ 303 (8.41%)</td>
-  <td class=xl76 style='border-top:none'>6,707</td>
-  <td class=xl77 style='border-top:none'>1,234</td>
+  <td class=xl74 style='border-top:none'>34,809</td>
+  <td class=xl74 style='border-top:none'>↑ 1,236 (3.68%)</td>
+  <td class=xl75 style='border-top:none'>4,857</td>
+  <td class=xl75 style='border-top:none'>↑ 417 (9.39%)</td>
+  <td class=xl76 style='border-top:none'>1,696</td>
+  <td class=xl77 style='border-top:none'>128,132</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नेदरल्याण्डस</td>
-  <td class=xl74 style='border-top:none'>26,551</td>
-  <td class=xl74 style='border-top:none'>↑ 964 (3.76%)</td>
-  <td class=xl75 style='border-top:none'>2,823</td>
-  <td class=xl75 style='border-top:none'>↑ 86 (3.14%)</td>
-  <td class=xl76 style='border-top:none'>3,459</td>
-  <td class=xl77 style='border-top:none'>1,132</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्विजरल्यान्ड</td>
-  <td class=xl74 style='border-top:none'>25,688</td>
-  <td class=xl74 style='border-top:none'>↑ 273 (1.07%)</td>
-  <td class=xl75 style='border-top:none'>1,138</td>
-  <td class=xl75 style='border-top:none'>↑ 32 (2.89%)</td>
-  <td class=xl76 style='border-top:none'>13,700</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>क्यानडा</td>
-  <td class=xl74 style='border-top:none'>25,680</td>
-  <td class=xl74 style='border-top:none'>↑ 1,297 (5.31%)</td>
-  <td class=xl75 style='border-top:none'>780</td>
-  <td class=xl75 style='border-top:none'>↑ 63 (8.78%)</td>
-  <td class=xl76 style='border-top:none'>7,063</td>
-  <td class=xl77 style='border-top:none'>278</td>
+  <td class=xl74 style='border-top:none'>29,214</td>
+  <td class=xl74 style='border-top:none'>↑ 1,061 (3.76%)</td>
+  <td class=xl75 style='border-top:none'>3,315</td>
+  <td class=xl75 style='border-top:none'>↑ 181 (5.77%)</td>
+  <td class=xl76 style='border-top:none'>250</td>
+  <td class=xl77 style='border-top:none'>140,845</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ब्राजिल</td>
-  <td class=xl74 style='border-top:none'>23,471</td>
-  <td class=xl74 style='border-top:none'>↑ 1,238 (5.56%)</td>
-  <td class=xl75 style='border-top:none'>1,331</td>
-  <td class=xl75 style='border-top:none'>↑ 105 (8.56%)</td>
+  <td class=xl74 style='border-top:none'>29,015</td>
+  <td class=xl74 style='border-top:none'>↑ 405 (1.41%)</td>
+  <td class=xl75 style='border-top:none'>1,760</td>
+  <td class=xl75 style='border-top:none'>↑ 3 (0.17%)</td>
   <td class=xl76 style='border-top:none'>127</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>62,985</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>क्यानडा</td>
+  <td class=xl74 style='border-top:none'>28,379</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>1,010</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>228</td>
+  <td class=xl77 style='border-top:none'>467,736</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>रसिया</td>
-  <td class=xl74 style='border-top:none'>18,328</td>
-  <td class=xl74 style='border-top:none'>↑ 2,558 (16.22%)</td>
-  <td class=xl75 style='border-top:none'>148</td>
-  <td class=xl75 style='border-top:none'>↑ 18 (13.84%)</td>
-  <td class=xl76 style='border-top:none'>1,470</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>27,938</td>
+  <td class=xl74 style='border-top:none'>↑ 3,448 (14.07%)</td>
+  <td class=xl75 style='border-top:none'>232</td>
+  <td class=xl75 style='border-top:none'>↑ 34 (17.17%)</td>
+  <td class=xl76 style='border-top:none'>121</td>
+  <td class=xl77 style='border-top:none'>1,613,413</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्विजरल्यान्ड</td>
+  <td class=xl74 style='border-top:none'>26,422</td>
+  <td class=xl74 style='border-top:none'>↑ 86 (0.32%)</td>
+  <td class=xl75 style='border-top:none'>1,269</td>
+  <td class=xl75 style='border-top:none'>↑ 30 (2.42%)</td>
+  <td class=xl76 style='border-top:none'>1,823</td>
+  <td class=xl77 style='border-top:none'>199,000</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>पोर्चुगल</td>
-  <td class=xl74 style='border-top:none'>16,934</td>
-  <td class=xl74 style='border-top:none'>↑ 349 (2.10%)</td>
-  <td class=xl75 style='border-top:none'>535</td>
-  <td class=xl75 style='border-top:none'>↑ 31 (6.15%)</td>
-  <td class=xl76 style='border-top:none'>277</td>
-  <td class=xl77 style='border-top:none'>188</td>
+  <td class=xl74 style='border-top:none'>18,841</td>
+  <td class=xl74 style='border-top:none'>↑ 750 (4.14%)</td>
+  <td class=xl75 style='border-top:none'>629</td>
+  <td class=xl75 style='border-top:none'>↑ 30 (5.00%)</td>
+  <td class=xl76 style='border-top:none'>43</td>
+  <td class=xl77 style='border-top:none'>208,314</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अस्ट्रिया</td>
-  <td class=xl74 style='border-top:none'>14,041</td>
-  <td class=xl74 style='border-top:none'>↑ 104 (0.74%)</td>
-  <td class=xl75 style='border-top:none'>368</td>
-  <td class=xl75 style='border-top:none'>↑ 18 (5.14%)</td>
-  <td class=xl76 style='border-top:none'>6,604</td>
-  <td class=xl77 style='border-top:none'>239</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईसराईल</td>
-  <td class=xl74 style='border-top:none'>11,586</td>
-  <td class=xl74 style='border-top:none'>↑ 483 (4.35%)</td>
-  <td class=xl75 style='border-top:none'>116</td>
-  <td class=xl75 style='border-top:none'>↑ 13 (12.62%)</td>
-  <td class=xl76 style='border-top:none'>1,855</td>
-  <td class=xl77 style='border-top:none'>183</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्विडेन</td>
-  <td class=xl74 style='border-top:none'>10,948</td>
-  <td class=xl74 style='border-top:none'>↑ 465 (4.43%)</td>
-  <td class=xl75 style='border-top:none'>919</td>
-  <td class=xl75 style='border-top:none'>↑ 20 (2.22%)</td>
-  <td class=xl76 style='border-top:none'>16</td>
-  <td class=xl77 style='border-top:none'>859</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>आयरल्याण्ड</td>
-  <td class=xl74 style='border-top:none'>10,647</td>
-  <td class=xl74 style='border-top:none'>↑ 992 (10.27%)</td>
-  <td class=xl75 style='border-top:none'>365</td>
-  <td class=xl75 style='border-top:none'>↑ 31 (9.28%)</td>
-  <td class=xl76 style='border-top:none'>5</td>
-  <td class=xl77 style='border-top:none'>268</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>दक्षिण कोरिया</td>
-  <td class=xl74 style='border-top:none'>10,537</td>
-  <td class=xl74 style='border-top:none'>↑ 25 (0.23%)</td>
-  <td class=xl75 style='border-top:none'>217</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (1.40%)</td>
-  <td class=xl76 style='border-top:none'>7,447</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>14,412</td>
+  <td class=xl74 style='border-top:none'>↑ 62 (0.43%)</td>
+  <td class=xl75 style='border-top:none'>393</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>1,095</td>
+  <td class=xl77 style='border-top:none'>156,801</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>भारत</td>
-  <td class=xl74 style='border-top:none'>10,453</td>
-  <td class=xl74 style='border-top:none'>↑ 1,249 (13.57%)</td>
-  <td class=xl75 style='border-top:none'>358</td>
-  <td class=xl75 style='border-top:none'>↑ 31 (9.48%)</td>
-  <td class=xl76 style='border-top:none'>1,178</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>12,759</td>
+  <td class=xl74 style='border-top:none'>↑ 389 (3.14%)</td>
+  <td class=xl75 style='border-top:none'>423</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (0.23%)</td>
+  <td class=xl76 style='border-top:none'>123</td>
+  <td class=xl77 style='border-top:none'>274,599</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईसराईल</td>
+  <td class=xl74 style='border-top:none'>12,591</td>
+  <td class=xl74 style='border-top:none'>↑ 90 (0.71%)</td>
+  <td class=xl75 style='border-top:none'>140</td>
+  <td class=xl75 style='border-top:none'>↑ 10 (7.69%)</td>
+  <td class=xl76 style='border-top:none'>163</td>
+  <td class=xl77 style='border-top:none'>187,250</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>आयरल्याण्ड</td>
+  <td class=xl74 style='border-top:none'>12,547</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>444</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>5</td>
+  <td class=xl77 style='border-top:none'>90,646</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्विडेन</td>
+  <td class=xl74 style='border-top:none'>12,540</td>
+  <td class=xl74 style='border-top:none'>↑ 613 (5.13%)</td>
+  <td class=xl75 style='border-top:none'>1,333</td>
+  <td class=xl75 style='border-top:none'>↑ 130 (10.80%)</td>
+  <td class=xl76 style='border-top:none'>16</td>
+  <td class=xl77 style='border-top:none'>74,600</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>पेरु</td>
-  <td class=xl74 style='border-top:none'>9,784</td>
-  <td class=xl74 style='border-top:none'>↑ 2,265 (30.12%)</td>
-  <td class=xl75 style='border-top:none'>216</td>
-  <td class=xl75 style='border-top:none'>↑ 23 (11.91%)</td>
-  <td class=xl76 style='border-top:none'>2,642</td>
-  <td class=xl77 style='border-top:none'>143</td>
+  <td class=xl74 style='border-top:none'>11,475</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>254</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>53</td>
+  <td class=xl77 style='border-top:none'>109,385</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>दक्षिण कोरिया</td>
+  <td class=xl74 style='border-top:none'>10,613</td>
+  <td class=xl74 style='border-top:none'>↑ 22 (0.20%)</td>
+  <td class=xl75 style='border-top:none'>229</td>
+  <td class=xl75 style='border-top:none'>↑ 4 (1.77%)</td>
+  <td class=xl76 style='border-top:none'>4,528</td>
+  <td class=xl77 style='border-top:none'>538,775</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जापान</td>
-  <td class=xl74 style='border-top:none'>7,691</td>
-  <td class=xl74 style='border-top:none'>↑ 292 (3.94%)</td>
-  <td class=xl75 style='border-top:none'>143</td>
-  <td class=xl75 style='border-top:none'>↑ 20 (16.26%)</td>
-  <td class=xl76 style='border-top:none'>799</td>
-  <td class=xl77 style='border-top:none'>117</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईक्वेडर</td>
-  <td class=xl74 style='border-top:none'>7,529</td>
-  <td class=xl74 style='border-top:none'>↑ 63 (0.84%)</td>
-  <td class=xl75 style='border-top:none'>355</td>
-  <td class=xl75 style='border-top:none'>↑ 22 (6.60%)</td>
-  <td class=xl76 style='border-top:none'>597</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>8,626</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>178</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>514</td>
+  <td class=xl77 style='border-top:none'>94,236</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>चिलि</td>
-  <td class=xl74 style='border-top:none'>7,525</td>
-  <td class=xl74 style='border-top:none'>↑ 312 (4.32%)</td>
-  <td class=xl75 style='border-top:none'>82</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (2.5%)</td>
-  <td class=xl76 style='border-top:none'>2,367</td>
-  <td class=xl77 style='border-top:none'>387</td>
+  <td class=xl74 style='border-top:none'>8,273</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>94</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>156</td>
+  <td class=xl77 style='border-top:none'>91,873</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईक्वेडर</td>
+  <td class=xl74 style='border-top:none'>7,858</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>388</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>54</td>
+  <td class=xl77 style='border-top:none'>26,093</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>पोल्यान्ड</td>
-  <td class=xl74 style='border-top:none'>6,934</td>
-  <td class=xl74 style='border-top:none'>↑ 260 (3.89%)</td>
-  <td class=xl75 style='border-top:none'>245</td>
-  <td class=xl75 style='border-top:none'>↑ 13 (5.60%)</td>
-  <td class=xl76 style='border-top:none'>487</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>7,771</td>
+  <td class=xl74 style='border-top:none'>↑ 189 (2.49%)</td>
+  <td class=xl75 style='border-top:none'>292</td>
+  <td class=xl75 style='border-top:none'>↑ 6 (2.09%)</td>
+  <td class=xl76 style='border-top:none'>7</td>
+  <td class=xl77 style='border-top:none'>169,071</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>रोमानिया</td>
-  <td class=xl74 style='border-top:none'>6,633</td>
-  <td class=xl74 style='border-top:none'>↑ 333 (5.28%)</td>
-  <td class=xl75 style='border-top:none'>331</td>
-  <td class=xl75 style='border-top:none'>↑ 17 (5.41%)</td>
-  <td class=xl76 style='border-top:none'>914</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नर्वे</td>
-  <td class=xl74 style='border-top:none'>6,603</td>
-  <td class=xl74 style='border-top:none'>↑ 78 (1.19%)</td>
-  <td class=xl75 style='border-top:none'>134</td>
-  <td class=xl75 style='border-top:none'>↑ 6 (4.68%)</td>
-  <td class=xl76 style='border-top:none'>13</td>
-  <td class=xl77 style='border-top:none'>59</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अस्ट्रेलिया</td>
-  <td class=xl74 style='border-top:none'>6,359</td>
-  <td class=xl74 style='border-top:none'>↑ 46 (0.72%)</td>
-  <td class=xl75 style='border-top:none'>61</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (3.38%)</td>
-  <td class=xl76 style='border-top:none'>1,806</td>
-  <td class=xl77 style='border-top:none'>79</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>डेन्मार्क</td>
-  <td class=xl74 style='border-top:none'>6,358</td>
-  <td class=xl74 style='border-top:none'>↑ 144 (2.31%)</td>
-  <td class=xl75 style='border-top:none'>285</td>
-  <td class=xl75 style='border-top:none'>↑ 12 (4.39%)</td>
-  <td class=xl76 style='border-top:none'>3</td>
-  <td class=xl77 style='border-top:none'>104</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>चेकिया</td>
-  <td class=xl74 style='border-top:none'>6,059</td>
-  <td class=xl74 style='border-top:none'>↑ 68 (1.13%)</td>
-  <td class=xl75 style='border-top:none'>143</td>
-  <td class=xl75 style='border-top:none'>↑ 5 (3.62%)</td>
-  <td class=xl76 style='border-top:none'>519</td>
-  <td class=xl77 style='border-top:none'>100</td>
+  <td class=xl74 style='border-top:none'>7,707</td>
+  <td class=xl74 style='border-top:none'>↑ 491 (6.80%)</td>
+  <td class=xl75 style='border-top:none'>392</td>
+  <td class=xl75 style='border-top:none'>↑ 20 (5.37%)</td>
+  <td class=xl76 style='border-top:none'>220</td>
+  <td class=xl77 style='border-top:none'>79,629</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>पाकिस्तान</td>
-  <td class=xl74 style='border-top:none'>5,496</td>
-  <td class=xl74 style='border-top:none'>↑ 458 (9.09%)</td>
-  <td class=xl75 style='border-top:none'>95</td>
-  <td class=xl75 style='border-top:none'>↑ 9 (10.46%)</td>
-  <td class=xl76 style='border-top:none'>1,097</td>
-  <td class=xl77 style='border-top:none'>44</td>
+  <td class=xl74 style='border-top:none'>6,919</td>
+  <td class=xl74 style='border-top:none'>↑ 536 (8.39%)</td>
+  <td class=xl75 style='border-top:none'>128</td>
+  <td class=xl75 style='border-top:none'>↑ 17 (15.31%)</td>
+  <td class=xl76 style='border-top:none'>76</td>
+  <td class=xl77 style='border-top:none'>78,979</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>डेन्मार्क</td>
+  <td class=xl74 style='border-top:none'>6,879</td>
+  <td class=xl74 style='border-top:none'>↑ 198 (2.96%)</td>
+  <td class=xl75 style='border-top:none'>321</td>
+  <td class=xl75 style='border-top:none'>↑ 12 (3.88%)</td>
+  <td class=xl76 style='border-top:none'>1</td>
+  <td class=xl77 style='border-top:none'>82,380</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नर्वे</td>
+  <td class=xl74 style='border-top:none'>6,798</td>
+  <td class=xl74 style='border-top:none'>↑ 1 (0.01%)</td>
+  <td class=xl75 style='border-top:none'>150</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>13</td>
+  <td class=xl77 style='border-top:none'>130,216</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अस्ट्रेलिया</td>
+  <td class=xl74 style='border-top:none'>6,468</td>
+  <td class=xl74 style='border-top:none'>↑ 21 (0.32%)</td>
+  <td class=xl75 style='border-top:none'>63</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>350</td>
+  <td class=xl77 style='border-top:none'>380,003</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>साउदि अरबिया</td>
-  <td class=xl74 style='border-top:none'>4,934</td>
-  <td class=xl74 style='border-top:none'>↑ 472 (10.57%)</td>
-  <td class=xl75 style='border-top:none'>65</td>
-  <td class=xl75 style='border-top:none'>↑ 6 (10.16%)</td>
-  <td class=xl76 style='border-top:none'>805</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>6,380</td>
+  <td class=xl74 style='border-top:none'>↑ 518 (8.83%)</td>
+  <td class=xl75 style='border-top:none'>83</td>
+  <td class=xl75 style='border-top:none'>↑ 4 (5.06%)</td>
+  <td class=xl76 style='border-top:none'>165</td>
+  <td class=xl77 style='border-top:none'>150,000</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फिलिपिन्स</td>
-  <td class=xl74 style='border-top:none'>4,932</td>
-  <td class=xl74 style='border-top:none'>↑ 284 (6.11%)</td>
-  <td class=xl75 style='border-top:none'>315</td>
-  <td class=xl75 style='border-top:none'>↑ 18 (6.06%)</td>
-  <td class=xl76 style='border-top:none'>197</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मलेसिया</td>
-  <td class=xl74 style='border-top:none'>4,817</td>
-  <td class=xl74 style='border-top:none'>↑ 134 (2.86%)</td>
-  <td class=xl75 style='border-top:none'>77</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (1.31%)</td>
-  <td class=xl76 style='border-top:none'>2,276</td>
-  <td class=xl77 style='border-top:none'>66</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>चेकिया</td>
+  <td class=xl74 style='border-top:none'>6,303</td>
+  <td class=xl74 style='border-top:none'>↑ 2 (0.03%)</td>
+  <td class=xl75 style='border-top:none'>166</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>676</td>
+  <td class=xl77 style='border-top:none'>146,004</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मेक्सिको</td>
-  <td class=xl74 style='border-top:none'>4,661</td>
-  <td class=xl74 style='border-top:none'>↑ 442 (10.47%)</td>
-  <td class=xl75 style='border-top:none'>296</td>
-  <td class=xl75 style='border-top:none'>↑ 23 (8.42%)</td>
-  <td class=xl76 style='border-top:none'>1,614</td>
-  <td class=xl77 style='border-top:none'>822</td>
+  <td class=xl74 style='border-top:none'>5,847</td>
+  <td class=xl74 style='border-top:none'>↑ 448 (8.29%)</td>
+  <td class=xl75 style='border-top:none'>449</td>
+  <td class=xl75 style='border-top:none'>↑ 43 (10.59%)</td>
+  <td class=xl76 style='border-top:none'>35</td>
+  <td class=xl77 style='border-top:none'>40,091</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फिलिपिन्स</td>
+  <td class=xl74 style='border-top:none'>5,660</td>
+  <td class=xl74 style='border-top:none'>↑ 207 (3.79%)</td>
+  <td class=xl75 style='border-top:none'>362</td>
+  <td class=xl75 style='border-top:none'>↑ 13 (3.72%)</td>
+  <td class=xl76 style='border-top:none'>157</td>
+  <td class=xl77 style='border-top:none'>48,171</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईन्डोनेशिया</td>
-  <td class=xl74 style='border-top:none'>4,557</td>
-  <td class=xl74 style='border-top:none'>↑ 316 (7.45%)</td>
-  <td class=xl75 style='border-top:none'>399</td>
-  <td class=xl75 style='border-top:none'>↑ 26 (6.97%)</td>
-  <td class=xl76 style='border-top:none'>380</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>5,516</td>
+  <td class=xl74 style='border-top:none'>↑ 380 (7.39%)</td>
+  <td class=xl75 style='border-top:none'>496</td>
+  <td class=xl75 style='border-top:none'>↑ 27 (5.75%)</td>
+  <td class=xl76 style='border-top:none'>81</td>
+  <td class=xl77 style='border-top:none'>36,000</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>युएई</td>
-  <td class=xl74 style='border-top:none'>4,521</td>
-  <td class=xl74 style='border-top:none'>↑ 398 (9.65%)</td>
-  <td class=xl75 style='border-top:none'>25</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (13.63%)</td>
-  <td class=xl76 style='border-top:none'>852</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>5,365</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>33</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>767,000</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मलेसिया</td>
+  <td class=xl74 style='border-top:none'>5,182</td>
+  <td class=xl74 style='border-top:none'>↑ 110 (2.16%)</td>
+  <td class=xl75 style='border-top:none'>84</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (1.20%)</td>
+  <td class=xl76 style='border-top:none'>1,241</td>
+  <td class=xl77 style='border-top:none'>87,183</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सर्बिया</td>
-  <td class=xl74 style='border-top:none'>4,054</td>
-  <td class=xl74 style='border-top:none'>↑ 424 (11.68%)</td>
-  <td class=xl75 style='border-top:none'>85</td>
-  <td class=xl75 style='border-top:none'>↑ 5 (6.25%)</td>
+  <td class=xl74 style='border-top:none'>4,873</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>99</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>26,278</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>पानामा</td>
-  <td class=xl74 style='border-top:none'>3,472</td>
-  <td class=xl74 style='border-top:none'>↑ 72 (2.11%)</td>
-  <td class=xl75 style='border-top:none'>94</td>
-  <td class=xl75 style='border-top:none'>↑ 7 (8.04%)</td>
-  <td class=xl76 style='border-top:none'>29</td>
-  <td class=xl77 style='border-top:none'>101</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बेलारुस</td>
+  <td class=xl74 style='border-top:none'>4,204</td>
+  <td class=xl74 style='border-top:none'>↑ 476 (12.76%)</td>
+  <td class=xl75 style='border-top:none'>40</td>
+  <td class=xl75 style='border-top:none'>↑ 4 (11.11%)</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>81,246</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लक्समबर्ग</td>
-  <td class=xl74 style='border-top:none'>3,292</td>
-  <td class=xl74 style='border-top:none'>↑ 11 (0.33%)</td>
-  <td class=xl75 style='border-top:none'>69</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (4.54%)</td>
-  <td class=xl76 style='border-top:none'>467</td>
-  <td class=xl77 style='border-top:none'>33</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>युक्रेन</td>
+  <td class=xl74 style='border-top:none'>4,161</td>
+  <td class=xl74 style='border-top:none'>↑ 397 (10.54%)</td>
+  <td class=xl75 style='border-top:none'>116</td>
+  <td class=xl75 style='border-top:none'>↑ 8 (7.40%)</td>
+  <td class=xl76 style='border-top:none'>8</td>
+  <td class=xl77 style='border-top:none'>42,823</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कतार</td>
-  <td class=xl74 style='border-top:none'>3,231</td>
-  <td class=xl74 style='border-top:none'>↑ 252 (8.45%)</td>
+  <td class=xl74 style='border-top:none'>4,103</td>
+  <td class=xl74 style='border-top:none'>↑ 392 (10.56%)</td>
   <td class=xl75 style='border-top:none'>7</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>334</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>51</td>
+  <td class=xl77 style='border-top:none'>56,381</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>पानामा</td>
+  <td class=xl74 style='border-top:none'>3,751</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>103</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>9</td>
+  <td class=xl77 style='border-top:none'>16,854</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सिंगापुर</td>
+  <td class=xl74 style='border-top:none'>3,699</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>10</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>560</td>
+  <td class=xl77 style='border-top:none'>72,680</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>डोमिनिकन
   रिपब्लिक</td>
-  <td class=xl74 style='border-top:none'>3,167</td>
-  <td class=xl74 style='border-top:none'>↑ 200 (6.74%)</td>
-  <td class=xl75 style='border-top:none'>177</td>
-  <td class=xl75 style='border-top:none'>↑ 4 (2.31%)</td>
-  <td class=xl76 style='border-top:none'>131</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>3,614</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>189</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>5</td>
+  <td class=xl77 style='border-top:none'>9,275</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>युक्रेन</td>
-  <td class=xl74 style='border-top:none'>3,102</td>
-  <td class=xl74 style='border-top:none'>↑ 325 (11.70%)</td>
-  <td class=xl75 style='border-top:none'>93</td>
-  <td class=xl75 style='border-top:none'>↑ 10 (12.04%)</td>
-  <td class=xl76 style='border-top:none'>97</td>
-  <td class=xl77 style='border-top:none'>88</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लक्समबर्ग</td>
+  <td class=xl74 style='border-top:none'>3,373</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>69</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>80</td>
+  <td class=xl77 style='border-top:none'>30,723</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फिनल्यान्ड</td>
-  <td class=xl74 style='border-top:none'>3,064</td>
-  <td class=xl74 style='border-top:none'>↑ 90 (3.02%)</td>
-  <td class=xl75 style='border-top:none'>59</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (5.35%)</td>
-  <td class=xl76 style='border-top:none'>24</td>
-  <td class=xl77 style='border-top:none'>74</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बेलारुस</td>
-  <td class=xl74 style='border-top:none'>2,919</td>
-  <td class=xl74 style='border-top:none'>↑ 341 (13.22%)</td>
-  <td class=xl75 style='border-top:none'>29</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (11.53%)</td>
-  <td class=xl76 style='border-top:none'>203</td>
-  <td class=xl77 style='border-top:none'>55</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सिंगापुर</td>
-  <td class=xl74 style='border-top:none'>2,918</td>
-  <td class=xl74 style='border-top:none'>↑ 386 (15.24%)</td>
-  <td class=xl75 style='border-top:none'>9</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (12.5%)</td>
-  <td class=xl76 style='border-top:none'>586</td>
-  <td class=xl77 style='border-top:none'>29</td>
+  <td class=xl74 style='border-top:none'>3,369</td>
+  <td class=xl74 style='border-top:none'>↑ 132 (4.07%)</td>
+  <td class=xl75 style='border-top:none'>72</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>10</td>
+  <td class=xl77 style='border-top:none'>48,828</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कोलम्बिया</td>
-  <td class=xl74 style='border-top:none'>2,852</td>
-  <td class=xl74 style='border-top:none'>↑ 76 (2.73%)</td>
-  <td class=xl75 style='border-top:none'>112</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (2.75%)</td>
-  <td class=xl76 style='border-top:none'>319</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>3,105</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>131</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>15</td>
+  <td class=xl77 style='border-top:none'>48,628</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>थाईल्यन्ड</td>
-  <td class=xl74 style='border-top:none'>2,579</td>
-  <td class=xl74 style='border-top:none'>↑ 28 (1.09%)</td>
-  <td class=xl75 style='border-top:none'>40</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (5.26%)</td>
-  <td class=xl76 style='border-top:none'>1,218</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>दक्षिण अप्रिका</td>
-  <td class=xl74 style='border-top:none'>2,272</td>
-  <td class=xl74 style='border-top:none'>↑ 99 (4.55%)</td>
-  <td class=xl75 style='border-top:none'>27</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (8%)</td>
-  <td class=xl76 style='border-top:none'>410</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>2,672</td>
+  <td class=xl74 style='border-top:none'>↑ 29 (1.09%)</td>
+  <td class=xl75 style='border-top:none'>46</td>
+  <td class=xl75 style='border-top:none'>↑ 3 (6.97%)</td>
+  <td class=xl76 style='border-top:none'>342</td>
+  <td class=xl77 style='border-top:none'>100,498</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अर्जेन्टिना</td>
-  <td class=xl74 style='border-top:none'>2,208</td>
-  <td class=xl74 style='border-top:none'>↑ 66 (3.08%)</td>
-  <td class=xl75 style='border-top:none'>97</td>
-  <td class=xl75 style='border-top:none'>↑ 7 (7.77%)</td>
-  <td class=xl76 style='border-top:none'>515</td>
-  <td class=xl77 style='border-top:none'>113</td>
+  <td class=xl74 style='border-top:none'>2,571</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>115</td>
+  <td class=xl75 style='border-top:none'>↑ 3 (2.67%)</td>
+  <td class=xl76 style='border-top:none'>240</td>
+  <td class=xl77 style='border-top:none'>26,457</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>दक्षिण अप्रिका</td>
+  <td class=xl74 style='border-top:none'>2,506</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>34</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>31</td>
+  <td class=xl77 style='border-top:none'>90,515</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईजिप्ट</td>
-  <td class=xl74 style='border-top:none'>2,190</td>
-  <td class=xl74 style='border-top:none'>↑ 125 (6.05%)</td>
-  <td class=xl75 style='border-top:none'>164</td>
-  <td class=xl75 style='border-top:none'>↑ 5 (3.14%)</td>
-  <td class=xl76 style='border-top:none'>488</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ग्रिस</td>
-  <td class=xl74 style='border-top:none'>2,145</td>
-  <td class=xl74 style='border-top:none'>↑ 31 (1.46%)</td>
-  <td class=xl75 style='border-top:none'>99</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (1.02%)</td>
-  <td class=xl76 style='border-top:none'>269</td>
-  <td class=xl77 style='border-top:none'>73</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अल्जेरिया</td>
-  <td class=xl74 style='border-top:none'>1,983</td>
-  <td class=xl74 style='border-top:none'>↑ 69 (3.60%)</td>
-  <td class=xl75 style='border-top:none'>313</td>
-  <td class=xl75 style='border-top:none'>↑ 20 (6.82%)</td>
-  <td class=xl76 style='border-top:none'>113</td>
-  <td class=xl77 style='border-top:none'>203</td>
+  <td class=xl74 style='border-top:none'>2,505</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>183</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>150</td>
+  <td class=xl77 style='border-top:none'>25,000</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोरोक्को</td>
-  <td class=xl74 style='border-top:none'>1,763</td>
-  <td class=xl74 style='border-top:none'>↑ 102 (6.14%)</td>
-  <td class=xl75 style='border-top:none'>126</td>
-  <td class=xl75 style='border-top:none'>↑ 8 (6.77%)</td>
-  <td class=xl76 style='border-top:none'>203</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>2,251</td>
+  <td class=xl74 style='border-top:none'>↑ 227 (11.21%)</td>
+  <td class=xl75 style='border-top:none'>128</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (0.78%)</td>
+  <td class=xl76 style='border-top:none'>15</td>
+  <td class=xl77 style='border-top:none'>11,433</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ग्रिस</td>
+  <td class=xl74 style='border-top:none'>2,192</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>102</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>52</td>
+  <td class=xl77 style='border-top:none'>50,771</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अल्जेरिया</td>
+  <td class=xl74 style='border-top:none'>2,160</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>336</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>46</td>
+  <td class=xl77 style='border-top:none'>3,359</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोल्दोवा</td>
-  <td class=xl74 style='border-top:none'>1,712</td>
-  <td class=xl74 style='border-top:none'>↑ 50 (3.00%)</td>
-  <td class=xl75 style='border-top:none'>35</td>
-  <td class=xl75 style='border-top:none'>↑ 4 (12.90%)</td>
-  <td class=xl76 style='border-top:none'>94</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>आईसल्यान्ड</td>
-  <td class=xl74 style='border-top:none'>1,711</td>
-  <td class=xl74 style='border-top:none'>↑ 10 (0.58%)</td>
-  <td class=xl75 style='border-top:none'>8</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>933</td>
-  <td class=xl77 style='border-top:none'>11</td>
+  <td class=xl74 style='border-top:none'>2,049</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>51</td>
+  <td class=xl75 style='border-top:none'>↑ 5 (10.86%)</td>
+  <td class=xl76 style='border-top:none'>18</td>
+  <td class=xl77 style='border-top:none'>6,271</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>क्रोएसिया</td>
-  <td class=xl74 style='border-top:none'>1,650</td>
-  <td class=xl74 style='border-top:none'>↑ 50 (3.12%)</td>
-  <td class=xl75 style='border-top:none'>25</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (8.69%)</td>
-  <td class=xl76 style='border-top:none'>400</td>
-  <td class=xl77 style='border-top:none'>34</td>
+  <td class=xl74 style='border-top:none'>1,791</td>
+  <td class=xl74 style='border-top:none'>↑ 50 (2.87%)</td>
+  <td class=xl75 style='border-top:none'>35</td>
+  <td class=xl75 style='border-top:none'>↑ 2 (6.06%)</td>
+  <td class=xl76 style='border-top:none'>67</td>
+  <td class=xl77 style='border-top:none'>20,158</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>हङगरि</td>
-  <td class=xl74 style='border-top:none'>1,458</td>
-  <td class=xl74 style='border-top:none'>↑ 48 (3.40%)</td>
-  <td class=xl75 style='border-top:none'>109</td>
-  <td class=xl75 style='border-top:none'>↑ 10 (10.10%)</td>
-  <td class=xl76 style='border-top:none'>120</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईराक</td>
-  <td class=xl74 style='border-top:none'>1,378</td>
-  <td class=xl74 style='border-top:none'>↑ 26 (1.92%)</td>
-  <td class=xl75 style='border-top:none'>78</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (2.63%)</td>
-  <td class=xl76 style='border-top:none'>717</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>आईसल्यान्ड</td>
+  <td class=xl74 style='border-top:none'>1,727</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>8</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>198</td>
+  <td class=xl77 style='border-top:none'>37,386</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बहराईन</td>
-  <td class=xl74 style='border-top:none'>1,361</td>
-  <td class=xl74 style='border-top:none'>↑ 225 (19.80%)</td>
-  <td class=xl75 style='border-top:none'>6</td>
+  <td class=xl74 style='border-top:none'>1,698</td>
+  <td class=xl74 style='border-top:none'>↑ 27 (1.61%)</td>
+  <td class=xl75 style='border-top:none'>7</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>591</td>
-  <td class=xl77 style='border-top:none'>4</td>
+  <td class=xl76 style='border-top:none'>295</td>
+  <td class=xl77 style='border-top:none'>76,630</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>न्यु जिल्यान्ड</td>
-  <td class=xl74 style='border-top:none'>1,349</td>
-  <td class=xl74 style='border-top:none'>↑ 19 (1.42%)</td>
-  <td class=xl75 style='border-top:none'>5</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (25%)</td>
-  <td class=xl76 style='border-top:none'>546</td>
-  <td class=xl77 style='border-top:none'>4</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>हङगरि</td>
+  <td class=xl74 style='border-top:none'>1,652</td>
+  <td class=xl74 style='border-top:none'>↑ 73 (4.62%)</td>
+  <td class=xl75 style='border-top:none'>142</td>
+  <td class=xl75 style='border-top:none'>↑ 8 (5.97%)</td>
+  <td class=xl76 style='border-top:none'>37</td>
+  <td class=xl77 style='border-top:none'>38,489</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईस्टोनिया</td>
-  <td class=xl74 style='border-top:none'>1,332</td>
-  <td class=xl74 style='border-top:none'>↑ 23 (1.75%)</td>
-  <td class=xl75 style='border-top:none'>28</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (12%)</td>
-  <td class=xl76 style='border-top:none'>102</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बङ्गलादेश</td>
+  <td class=xl74 style='border-top:none'>1,572</td>
+  <td class=xl74 style='border-top:none'>↑ 341 (27.70%)</td>
+  <td class=xl75 style='border-top:none'>60</td>
+  <td class=xl75 style='border-top:none'>↑ 10 (20%)</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>17,003</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कुवेत</td>
-  <td class=xl74 style='border-top:none'>1,300</td>
-  <td class=xl74 style='border-top:none'>↑ 66 (5.34%)</td>
-  <td class=xl75 style='border-top:none'>2</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (100%)</td>
-  <td class=xl76 style='border-top:none'>150</td>
-  <td class=xl77 style='border-top:none'>26</td>
+  <td class=xl74 style='border-top:none'>1,524</td>
+  <td class=xl74 style='border-top:none'>↑ 119 (8.46%)</td>
+  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>73</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्लोभेनिया</td>
-  <td class=xl74 style='border-top:none'>1,212</td>
-  <td class=xl74 style='border-top:none'>↑ 7 (0.58%)</td>
-  <td class=xl75 style='border-top:none'>55</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (3.77%)</td>
-  <td class=xl76 style='border-top:none'>92</td>
-  <td class=xl77 style='border-top:none'>34</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईस्टोनिया</td>
+  <td class=xl74 style='border-top:none'>1,434</td>
+  <td class=xl74 style='border-top:none'>↑ 34 (2.42%)</td>
+  <td class=xl75 style='border-top:none'>36</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (2.85%)</td>
+  <td class=xl76 style='border-top:none'>26</td>
+  <td class=xl77 style='border-top:none'>36,024</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अजरबाईजान</td>
-  <td class=xl74 style='border-top:none'>1,148</td>
-  <td class=xl74 style='border-top:none'>↑ 50 (4.55%)</td>
-  <td class=xl75 style='border-top:none'>12</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (9.09%)</td>
-  <td class=xl76 style='border-top:none'>250</td>
-  <td class=xl77 style='border-top:none'>40</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईराक</td>
+  <td class=xl74 style='border-top:none'>1,415</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>79</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>152</td>
+  <td class=xl77 style='border-top:none'>46,135</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>न्यु जिल्यान्ड</td>
+  <td class=xl74 style='border-top:none'>1,401</td>
+  <td class=xl74 style='border-top:none'>↑ 15 (1.08%)</td>
+  <td class=xl75 style='border-top:none'>9</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>74</td>
+  <td class=xl77 style='border-top:none'>70,160</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>काजकस्तान</td>
-  <td class=xl74 style='border-top:none'>1,091</td>
-  <td class=xl74 style='border-top:none'>↑ 140 (14.72%)</td>
-  <td class=xl75 style='border-top:none'>12</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (20%)</td>
-  <td class=xl76 style='border-top:none'>81</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लिथुआनिया</td>
-  <td class=xl74 style='border-top:none'>1,062</td>
-  <td class=xl74 style='border-top:none'>↑ 36 (3.50%)</td>
-  <td class=xl75 style='border-top:none'>24</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (4.34%)</td>
-  <td class=xl76 style='border-top:none'>8</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अर्मेनिया</td>
-  <td class=xl74 style='border-top:none'>1,039</td>
-  <td class=xl74 style='border-top:none'>↑ 26 (2.56%)</td>
-  <td class=xl75 style='border-top:none'>14</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (7.69%)</td>
-  <td class=xl76 style='border-top:none'>197</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बोस्निया</td>
-  <td class=xl74 style='border-top:none'>1,037</td>
-  <td class=xl74 style='border-top:none'>↑ 28 (2.77%)</td>
-  <td class=xl75 style='border-top:none'>39</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>139</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>हङकङ</td>
-  <td class=xl74 style='border-top:none'>1,010</td>
-  <td class=xl74 style='border-top:none'>↑ 5 (0.49%)</td>
-  <td class=xl75 style='border-top:none'>4</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>397</td>
-  <td class=xl77 style='border-top:none'>13</td>
+  <td class=xl74 style='border-top:none'>1,362</td>
+  <td class=xl74 style='border-top:none'>↑ 67 (5.17%)</td>
+  <td class=xl75 style='border-top:none'>17</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (6.25%)</td>
+  <td class=xl76 style='border-top:none'>22</td>
+  <td class=xl77 style='border-top:none'>85,735</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>उज्बेकिस्तान</td>
-  <td class=xl74 style='border-top:none'>998</td>
-  <td class=xl74 style='border-top:none'>↑ 133 (15.37%)</td>
+  <td class=xl74 style='border-top:none'>1,349</td>
+  <td class=xl74 style='border-top:none'>↑ 47 (3.60%)</td>
   <td class=xl75 style='border-top:none'>4</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>85</td>
-  <td class=xl77 style='border-top:none'>9</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>70,000</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>उत्तर
-  मासेडोनिया</td>
-  <td class=xl74 style='border-top:none'>854</td>
-  <td class=xl74 style='border-top:none'>↑ 26 (3.14%)</td>
-  <td class=xl75 style='border-top:none'>38</td>
-  <td class=xl75 style='border-top:none'>↑ 4 (11.76%)</td>
-  <td class=xl76 style='border-top:none'>44</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्लोभेनिया</td>
+  <td class=xl74 style='border-top:none'>1,268</td>
+  <td class=xl74 style='border-top:none'>↑ 20 (1.60%)</td>
+  <td class=xl75 style='border-top:none'>61</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>10</td>
+  <td class=xl77 style='border-top:none'>38,137</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अजरबाईजान</td>
+  <td class=xl74 style='border-top:none'>1,253</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>13</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>26</td>
+  <td class=xl77 style='border-top:none'>75,397</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बोस्निया</td>
+  <td class=xl74 style='border-top:none'>1,167</td>
+  <td class=xl74 style='border-top:none'>↑ 57 (5.13%)</td>
+  <td class=xl75 style='border-top:none'>43</td>
+  <td class=xl75 style='border-top:none'>↑ 2 (4.87%)</td>
+  <td class=xl76 style='border-top:none'>17</td>
+  <td class=xl77 style='border-top:none'>14,743</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अर्मेनिया</td>
+  <td class=xl74 style='border-top:none'>1,159</td>
+  <td class=xl74 style='border-top:none'>↑ 48 (4.32%)</td>
+  <td class=xl75 style='border-top:none'>18</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (5.88%)</td>
+  <td class=xl76 style='border-top:none'>30</td>
+  <td class=xl77 style='border-top:none'>9,632</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लिथुआनिया</td>
+  <td class=xl74 style='border-top:none'>1,128</td>
+  <td class=xl74 style='border-top:none'>↑ 37 (3.39%)</td>
+  <td class=xl75 style='border-top:none'>30</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>7</td>
+  <td class=xl77 style='border-top:none'>48,537</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ओमान</td>
+  <td class=xl74 style='border-top:none'>1,019</td>
+  <td class=xl74 style='border-top:none'>↑ 109 (11.97%)</td>
+  <td class=xl75 style='border-top:none'>4</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>34</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>हङकङ</td>
+  <td class=xl74 style='border-top:none'>1,018</td>
+  <td class=xl74 style='border-top:none'>↑ 1 (0.09%)</td>
+  <td class=xl75 style='border-top:none'>4</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>110</td>
+  <td class=xl77 style='border-top:none'>116,273</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्लोभाकिया</td>
+  <td class=xl74 style='border-top:none'>977</td>
+  <td class=xl74 style='border-top:none'>↑ 114 (13.20%)</td>
+  <td class=xl75 style='border-top:none'>8</td>
+  <td class=xl75 style='border-top:none'>↑ 2 (33.33%)</td>
+  <td class=xl76 style='border-top:none'>3</td>
+  <td class=xl77 style='border-top:none'>34,458</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>क्यामरुन</td>
   <td class=xl74 style='border-top:none'>848</td>
-  <td class=xl74 style='border-top:none'>↑ 28 (3.41%)</td>
-  <td class=xl75 style='border-top:none'>12</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>17</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>98</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>5</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बङ्गलादेश</td>
-  <td class=xl74 style='border-top:none'>803</td>
-  <td class=xl74 style='border-top:none'>↑ 182 (29.30%)</td>
-  <td class=xl75 style='border-top:none'>39</td>
-  <td class=xl75 style='border-top:none'>↑ 5 (14.70%)</td>
-  <td class=xl76 style='border-top:none'>42</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्लोभाकिया</td>
-  <td class=xl74 style='border-top:none'>769</td>
-  <td class=xl74 style='border-top:none'>↑ 27 (3.63%)</td>
-  <td class=xl75 style='border-top:none'>2</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>23</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ओमान</td>
-  <td class=xl74 style='border-top:none'>727</td>
-  <td class=xl74 style='border-top:none'>↑ 128 (21.36%)</td>
-  <td class=xl75 style='border-top:none'>4</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (33.33%)</td>
-  <td class=xl76 style='border-top:none'>124</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अफगानिस्तान</td>
+  <td class=xl74 style='border-top:none'>840</td>
+  <td class=xl74 style='border-top:none'>↑ 56 (7.14%)</td>
+  <td class=xl75 style='border-top:none'>30</td>
+  <td class=xl75 style='border-top:none'>↑ 5 (20%)</td>
+  <td class=xl76 style='border-top:none'>2</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>क्युबा</td>
-  <td class=xl74 style='border-top:none'>726</td>
-  <td class=xl74 style='border-top:none'>↑ 57 (8.52%)</td>
-  <td class=xl75 style='border-top:none'>21</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (16.66%)</td>
-  <td class=xl76 style='border-top:none'>121</td>
-  <td class=xl77 style='border-top:none'>14</td>
+  <td class=xl74 style='border-top:none'>814</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>24</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>8</td>
+  <td class=xl77 style='border-top:none'>20,451</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बुल्गेरिया</td>
+  <td class=xl74 style='border-top:none'>783</td>
+  <td class=xl74 style='border-top:none'>↑ 36 (4.81%)</td>
+  <td class=xl75 style='border-top:none'>37</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (2.77%)</td>
+  <td class=xl76 style='border-top:none'>17</td>
+  <td class=xl77 style='border-top:none'>18,502</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ट्युनिसिया</td>
-  <td class=xl74 style='border-top:none'>726</td>
-  <td class=xl74 style='border-top:none'>↑ 19 (2.68%)</td>
-  <td class=xl75 style='border-top:none'>34</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (9.67%)</td>
-  <td class=xl76 style='border-top:none'>5</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>780</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>35</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>3</td>
+  <td class=xl77 style='border-top:none'>13,137</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>साईप्रस</td>
+  <td class=xl74 style='border-top:none'>715</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>12</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>23</td>
+  <td class=xl77 style='border-top:none'>17,923</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>डायमन्ड
@@ -1073,198 +1087,217 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>12</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>639</td>
-  <td class=xl77 style='border-top:none'>7</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बुल्गेरिया</td>
-  <td class=xl74 style='border-top:none'>685</td>
-  <td class=xl74 style='border-top:none'>↑ 10 (1.48%)</td>
-  <td class=xl75 style='border-top:none'>32</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (10.34%)</td>
-  <td class=xl76 style='border-top:none'>71</td>
-  <td class=xl77 style='border-top:none'>36</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अफगानिस्तान</td>
-  <td class=xl74 style='border-top:none'>665</td>
-  <td class=xl74 style='border-top:none'>↑ 58 (9.55%)</td>
-  <td class=xl75 style='border-top:none'>21</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (16.66%)</td>
-  <td class=xl76 style='border-top:none'>38</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>साईप्रस</td>
-  <td class=xl74 style='border-top:none'>662</td>
-  <td class=xl74 style='border-top:none'>↑ 29 (4.58%)</td>
-  <td class=xl75 style='border-top:none'>16</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (6.66%)</td>
-  <td class=xl76 style='border-top:none'>61</td>
-  <td class=xl77 style='border-top:none'>12</td>
+  <td class=xl76 style='border-top:none'>603</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लात्भिया</td>
-  <td class=xl74 style='border-top:none'>655</td>
-  <td class=xl74 style='border-top:none'>↑ 4 (0.61%)</td>
+  <td class=xl74 style='border-top:none'>675</td>
+  <td class=xl74 style='border-top:none'>↑ 9 (1.35%)</td>
   <td class=xl75 style='border-top:none'>5</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>1</td>
-  <td class=xl77 style='border-top:none'>3</td>
+  <td class=xl77 style='border-top:none'>31,302</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>आन्डोरा</td>
-  <td class=xl74 style='border-top:none'>646</td>
-  <td class=xl74 style='border-top:none'>↑ 8 (1.25%)</td>
-  <td class=xl75 style='border-top:none'>29</td>
+  <td class=xl74 style='border-top:none'>673</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>33</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>139</td>
-  <td class=xl77 style='border-top:none'>15</td>
+  <td class=xl76 style='border-top:none'>10</td>
+  <td class=xl77 style='border-top:none'>1,673</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लेबनन</td>
-  <td class=xl74 style='border-top:none'>632</td>
-  <td class=xl74 style='border-top:none'>↑ 2 (0.31%)</td>
-  <td class=xl75 style='border-top:none'>20</td>
+  <td class=xl74 style='border-top:none'>663</td>
+  <td class=xl74 style='border-top:none'>↑ 5 (0.75%)</td>
+  <td class=xl75 style='border-top:none'>21</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>80</td>
-  <td class=xl77 style='border-top:none'>34</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कोस्टारिका</td>
-  <td class=xl74 style='border-top:none'>612</td>
-  <td class=xl74 style='border-top:none'>↑ 17 (2.85%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>62</td>
-  <td class=xl77 style='border-top:none'>14</td>
+  <td class=xl76 style='border-top:none'>37</td>
+  <td class=xl77 style='border-top:none'>18,115</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>आईभरि कोस्ट</td>
-  <td class=xl74 style='border-top:none'>574</td>
+  <td class=xl74 style='border-top:none'>654</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>5</td>
+  <td class=xl75 style='border-top:none'>6</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>85</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>घाना</td>
-  <td class=xl74 style='border-top:none'>566</td>
+  <td class=xl74 style='border-top:none'>641</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>8</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>50,719</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कोस्टारिका</td>
+  <td class=xl74 style='border-top:none'>626</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>4</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>4</td>
-  <td class=xl77 style='border-top:none'>2</td>
+  <td class=xl77 style='border-top:none'>9,089</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नाईजर</td>
-  <td class=xl74 style='border-top:none'>548</td>
-  <td class=xl74 style='border-top:none'>↑ 19 (3.59%)</td>
-  <td class=xl75 style='border-top:none'>13</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (8.33%)</td>
-  <td class=xl76 style='border-top:none'>75</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>584</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>14</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>4,427</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बुर्किना फासो</td>
-  <td class=xl74 style='border-top:none'>497</td>
+  <td class=xl74 style='border-top:none'>542</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>27</td>
+  <td class=xl75 style='border-top:none'>32</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>161</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>उरुग्वे</td>
-  <td class=xl74 style='border-top:none'>483</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>8</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (14.28%)</td>
-  <td class=xl76 style='border-top:none'>231</td>
-  <td class=xl77 style='border-top:none'>16</td>
+  <td class=xl76 style='border-top:none'>31</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अल्बानिया</td>
-  <td class=xl74 style='border-top:none'>467</td>
-  <td class=xl74 style='border-top:none'>↑ 21 (4.70%)</td>
-  <td class=xl75 style='border-top:none'>23</td>
+  <td class=xl74 style='border-top:none'>518</td>
+  <td class=xl74 style='border-top:none'>↑ 24 (4.85%)</td>
+  <td class=xl75 style='border-top:none'>26</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (4%)</td>
+  <td class=xl76 style='border-top:none'>52</td>
+  <td class=xl77 style='border-top:none'>4,827</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>उरुग्वे</td>
+  <td class=xl74 style='border-top:none'>493</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>9</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>232</td>
-  <td class=xl77 style='border-top:none'>7</td>
+  <td class=xl76 style='border-top:none'>25</td>
+  <td class=xl77 style='border-top:none'>10,448</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>किर्गिज
   रिपब्लिक</td>
-  <td class=xl74 style='border-top:none'>419</td>
-  <td class=xl74 style='border-top:none'>↑ 42 (11.14%)</td>
+  <td class=xl74 style='border-top:none'>466</td>
+  <td class=xl74 style='border-top:none'>↑ 17 (3.78%)</td>
   <td class=xl75 style='border-top:none'>5</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>44</td>
-  <td class=xl77 style='border-top:none'>5</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>होन्डुरस</td>
-  <td class=xl74 style='border-top:none'>397</td>
-  <td class=xl74 style='border-top:none'>↑ 4 (1.01%)</td>
-  <td class=xl75 style='border-top:none'>25</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>7</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ताईवान</td>
-  <td class=xl74 style='border-top:none'>393</td>
-  <td class=xl74 style='border-top:none'>↑ 5 (1.28%)</td>
-  <td class=xl75 style='border-top:none'>6</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>114</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जोर्डन</td>
-  <td class=xl74 style='border-top:none'>391</td>
-  <td class=xl74 style='border-top:none'>↑ 2 (0.51%)</td>
-  <td class=xl75 style='border-top:none'>7</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>201</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>माल्टा</td>
-  <td class=xl74 style='border-top:none'>384</td>
-  <td class=xl74 style='border-top:none'>↑ 6 (1.58%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>44</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सान मारिनो</td>
-  <td class=xl74 style='border-top:none'>371</td>
-  <td class=xl74 style='border-top:none'>↑ 15 (4.21%)</td>
-  <td class=xl75 style='border-top:none'>36</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (2.85%)</td>
-  <td class=xl76 style='border-top:none'>53</td>
-  <td class=xl77 style='border-top:none'>15</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नाईजेरिया</td>
-  <td class=xl74 style='border-top:none'>343</td>
-  <td class=xl74 style='border-top:none'>↑ 20 (6.19%)</td>
-  <td class=xl75 style='border-top:none'>10</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>91</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>26,147</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बोलिभिया</td>
-  <td class=xl74 style='border-top:none'>330</td>
-  <td class=xl74 style='border-top:none'>↑ 30 (10%)</td>
-  <td class=xl75 style='border-top:none'>27</td>
-  <td class=xl75 style='border-top:none'>↑ 3 (12.5%)</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>441</td>
+  <td class=xl74 style='border-top:none'>↑ 44 (11.08%)</td>
+  <td class=xl75 style='border-top:none'>29</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (3.57%)</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>2,185</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>डिजेबोउटि</td>
+  <td class=xl74 style='border-top:none'>435</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>2</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>5,936</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>होन्डुरस</td>
+  <td class=xl74 style='border-top:none'>426</td>
+  <td class=xl74 style='border-top:none'>↑ 7 (1.67%)</td>
+  <td class=xl75 style='border-top:none'>35</td>
+  <td class=xl75 style='border-top:none'>↑ 4 (12.90%)</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>2,012</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>माल्टा</td>
+  <td class=xl74 style='border-top:none'>412</td>
+  <td class=xl74 style='border-top:none'>↑ 13 (3.25%)</td>
+  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>21,164</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नाईजेरिया</td>
+  <td class=xl74 style='border-top:none'>407</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>12</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>5,000</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गिनिया</td>
+  <td class=xl74 style='border-top:none'>404</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>1</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जोर्डन</td>
+  <td class=xl74 style='border-top:none'>401</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>7</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>26</td>
+  <td class=xl77 style='border-top:none'>20,500</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ताईवान</td>
+  <td class=xl74 style='border-top:none'>395</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>6</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>29</td>
+  <td class=xl77 style='border-top:none'>50,703</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सान मारिनो</td>
+  <td class=xl74 style='border-top:none'>393</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>36</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>13</td>
+  <td class=xl77 style='border-top:none'>846</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>प्यालेस्टाईन</td>
+  <td class=xl74 style='border-top:none'>374</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>2</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>17</td>
+  <td class=xl77 style='border-top:none'>17,329</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जोर्जिया</td>
+  <td class=xl74 style='border-top:none'>336</td>
+  <td class=xl74 style='border-top:none'>↑ 30 (9.80%)</td>
+  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>5,027</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>उत्तर
+  मासेडोनिया</td>
+  <td class=xl74 style='border-top:none'>329</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>9</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>12</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोरिसियस</td>
@@ -1272,170 +1305,107 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>9</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>8</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गिनिया</td>
-  <td class=xl74 style='border-top:none'>319</td>
-  <td class=xl74 style='border-top:none'>↑ 69 (27.6%)</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>17</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>प्यालेस्टाईन</td>
-  <td class=xl74 style='border-top:none'>308</td>
-  <td class=xl74 style='border-top:none'>↑ 18 (6.20%)</td>
-  <td class=xl75 style='border-top:none'>2</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>46</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>डिजेबोउटि</td>
-  <td class=xl74 style='border-top:none'>298</td>
-  <td class=xl74 style='border-top:none'>↑ 84 (39.25%)</td>
-  <td class=xl75 style='border-top:none'>2</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>36</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>8,279</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेनेगल</td>
-  <td class=xl74 style='border-top:none'>291</td>
-  <td class=xl74 style='border-top:none'>↑ 11 (3.92%)</td>
+  <td class=xl74 style='border-top:none'>314</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>2</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>178</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कोसोभो</td>
-  <td class=xl74 style='border-top:none'>283</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>7</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>58</td>
+  <td class=xl76 style='border-top:none'>0</td>
   <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोन्टेनेग्रो</td>
-  <td class=xl74 style='border-top:none'>274</td>
-  <td class=xl74 style='border-top:none'>↑ 7 (2.62%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl74 style='border-top:none'>290</td>
+  <td class=xl74 style='border-top:none'>↑ 2 (0.69%)</td>
+  <td class=xl75 style='border-top:none'>4</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जोर्जिया</td>
-  <td class=xl74 style='border-top:none'>272</td>
-  <td class=xl74 style='border-top:none'>↑ 15 (5.83%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>67</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>विइतनाम</td>
-  <td class=xl74 style='border-top:none'>265</td>
-  <td class=xl74 style='border-top:none'>↑ 3 (1.14%)</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>144</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>3,874</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>आयल घफ म्यान</td>
-  <td class=xl74 style='border-top:none'>242</td>
-  <td class=xl74 style='border-top:none'>↑ 14 (6.14%)</td>
-  <td class=xl75 style='border-top:none'>2</td>
+  <td class=xl74 style='border-top:none'>283</td>
+  <td class=xl74 style='border-top:none'>↑ 27 (10.54%)</td>
+  <td class=xl75 style='border-top:none'>4</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>132</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>2,261</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>डिआर कङगो</td>
-  <td class=xl74 style='border-top:none'>235</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>विइतनाम</td>
+  <td class=xl74 style='border-top:none'>268</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>20</td>
+  <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>17</td>
-  <td class=xl77 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>58</td>
+  <td class=xl77 style='border-top:none'>135,938</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>स्रि लङका</td>
-  <td class=xl74 style='border-top:none'>217</td>
-  <td class=xl74 style='border-top:none'>↑ 7 (3.33%)</td>
+  <td class=xl74 style='border-top:none'>238</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>7</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>54</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गुएर्नसे</td>
-  <td class=xl74 style='border-top:none'>209</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>6</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>42</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>4,768</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>केन्या</td>
-  <td class=xl74 style='border-top:none'>208</td>
-  <td class=xl74 style='border-top:none'>↑ 11 (5.58%)</td>
-  <td class=xl75 style='border-top:none'>9</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (12.5%)</td>
-  <td class=xl76 style='border-top:none'>22</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जर्सि</td>
-  <td class=xl74 style='border-top:none'>198</td>
+  <td class=xl74 style='border-top:none'>225</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl75 style='border-top:none'>10</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>&nbsp;</td>
-  <td class=xl77 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>9,630</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>भेनेजुएला</td>
-  <td class=xl74 style='border-top:none'>189</td>
-  <td class=xl74 style='border-top:none'>↑ 8 (4.41%)</td>
+  <td class=xl74 style='border-top:none'>197</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>9</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>84</td>
-  <td class=xl77 style='border-top:none'>5</td>
+  <td class=xl76 style='border-top:none'>15</td>
+  <td class=xl77 style='border-top:none'>225,009</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ग्वाटेमाला</td>
-  <td class=xl74 style='border-top:none'>156</td>
-  <td class=xl74 style='border-top:none'>↑ 1 (0.64%)</td>
+  <td class=xl74 style='border-top:none'>196</td>
+  <td class=xl74 style='border-top:none'>↑ 16 (8.88%)</td>
   <td class=xl75 style='border-top:none'>5</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>19</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>7,200</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>पाराग्वे</td>
-  <td class=xl74 style='border-top:none'>147</td>
-  <td class=xl74 style='border-top:none'>↑ 13 (9.70%)</td>
-  <td class=xl75 style='border-top:none'>6</td>
+  <td class=xl74 style='border-top:none'>174</td>
+  <td class=xl74 style='border-top:none'>↑ 13 (8.07%)</td>
+  <td class=xl75 style='border-top:none'>8</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>22</td>
-  <td class=xl77 style='border-top:none'>2</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>3,888</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>एल सालभाडोर</td>
-  <td class=xl74 style='border-top:none'>137</td>
-  <td class=xl74 style='border-top:none'>↑ 12 (9.6%)</td>
+  <td class=xl74 style='border-top:none'>164</td>
+  <td class=xl74 style='border-top:none'>↑ 5 (3.14%)</td>
   <td class=xl75 style='border-top:none'>6</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>22</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>8,333</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मालि</td>
+  <td class=xl74 style='border-top:none'>148</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>13</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ब्रुनेई</td>
@@ -1443,35 +1413,35 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>107</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गिब्रल्टार</td>
-  <td class=xl74 style='border-top:none'>129</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>84</td>
-  <td class=xl77 style='border-top:none'>1</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>10,826</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>रुवान्डा</td>
-  <td class=xl74 style='border-top:none'>127</td>
-  <td class=xl74 style='border-top:none'>↑ 1 (0.79%)</td>
+  <td class=xl74 style='border-top:none'>136</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>42</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>6,237</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मालि</td>
-  <td class=xl74 style='border-top:none'>123</td>
-  <td class=xl74 style='border-top:none'>↑ 18 (17.14%)</td>
-  <td class=xl75 style='border-top:none'>10</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (11.11%)</td>
-  <td class=xl76 style='border-top:none'>22</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गिब्रल्टार</td>
+  <td class=xl74 style='border-top:none'>131</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,649</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जमाईका</td>
+  <td class=xl74 style='border-top:none'>125</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>5</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,391</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कम्बोडिया</td>
@@ -1479,55 +1449,118 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>77</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>11</td>
+  <td class=xl77 style='border-top:none'>5,768</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>डिआर कङगो</td>
+  <td class=xl74 style='border-top:none'>117</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>5</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ट्रिनिडाड र
   टाबागो</td>
-  <td class=xl74 style='border-top:none'>113</td>
+  <td class=xl74 style='border-top:none'>114</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>8</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>16</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,282</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>माडागास्कार</td>
-  <td class=xl74 style='border-top:none'>106</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl74 style='border-top:none'>111</td>
+  <td class=xl74 style='border-top:none'>↑ 1 (0.90%)</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>11</td>
-  <td class=xl77 style='border-top:none'>1</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>दक्षिणि
-  साईप्रस</td>
-  <td class=xl74 style='border-top:none'>99</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>3</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>तान्जनिया
+  युनाईटेड रिपब्<span style='display:none'>लिक अफ</span></td>
+  <td class=xl74 style='border-top:none'>94</td>
+  <td class=xl74 style='border-top:none'>↑ 6 (6.81%)</td>
+  <td class=xl75 style='border-top:none'>4</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>3</td>
+  <td class=xl76 style='border-top:none'>0</td>
   <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अरुबा</td>
+  <td class=xl74 style='border-top:none'>93</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>1</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,198</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोनाको</td>
   <td class=xl74 style='border-top:none'>93</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>1</td>
+  <td class=xl75 style='border-top:none'>3</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>5</td>
-  <td class=xl77 style='border-top:none'>4</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>अरुबा</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईथियोपिया</td>
   <td class=xl74 style='border-top:none'>92</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl74 style='border-top:none'>↑ 7 (8.23%)</td>
+  <td class=xl75 style='border-top:none'>3</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>32</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>5,389</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>म्यानमार</td>
+  <td class=xl74 style='border-top:none'>85</td>
+  <td class=xl74 style='border-top:none'>↑ 11 (14.86%)</td>
+  <td class=xl75 style='border-top:none'>4</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>3,236</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>टोगो</td>
+  <td class=xl74 style='border-top:none'>81</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>3,036</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बर्मुडा</td>
+  <td class=xl74 style='border-top:none'>81</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>5</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>527</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गबोन</td>
+  <td class=xl74 style='border-top:none'>80</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>1</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सोमालिया</td>
+  <td class=xl74 style='border-top:none'>80</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>5</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लिचटेनस्टेन</td>
@@ -1535,155 +1568,119 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>55</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>टोगो</td>
-  <td class=xl74 style='border-top:none'>77</td>
-  <td class=xl74 style='border-top:none'>↑ 1 (1.31%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>25</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईथियोपिया</td>
-  <td class=xl74 style='border-top:none'>74</td>
-  <td class=xl74 style='border-top:none'>↑ 3 (4.22%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>10</td>
-  <td class=xl77 style='border-top:none'>2</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जमाईका</td>
-  <td class=xl74 style='border-top:none'>73</td>
-  <td class=xl74 style='border-top:none'>↑ 1 (1.38%)</td>
-  <td class=xl75 style='border-top:none'>4</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>13</td>
-  <td class=xl77 style='border-top:none'>1</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>900</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बार्बादोस</td>
-  <td class=xl74 style='border-top:none'>72</td>
-  <td class=xl74 style='border-top:none'>↑ 1 (1.40%)</td>
-  <td class=xl75 style='border-top:none'>4</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>11</td>
-  <td class=xl77 style='border-top:none'>2</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>म्यानमार</td>
-  <td class=xl74 style='border-top:none'>62</td>
-  <td class=xl74 style='border-top:none'>↑ 21 (51.21%)</td>
-  <td class=xl75 style='border-top:none'>4</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कोङगो रिपब्लिक</td>
-  <td class=xl74 style='border-top:none'>60</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl74 style='border-top:none'>75</td>
+  <td class=xl74 style='border-top:none'>↑ 2 (2.73%)</td>
   <td class=xl75 style='border-top:none'>5</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>&nbsp;</td>
-  <td class=xl77 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>900</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सोमालिया</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>केम्यान
+  आईल्यान्डस</td>
   <td class=xl74 style='border-top:none'>60</td>
-  <td class=xl74 style='border-top:none'>↑ 35 (140%)</td>
-  <td class=xl75 style='border-top:none'>2</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (100%)</td>
-  <td class=xl76 style='border-top:none'>1</td>
-  <td class=xl77 style='border-top:none'>2</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>1</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>636</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लाईबेरिया</td>
   <td class=xl74 style='border-top:none'>59</td>
-  <td class=xl74 style='border-top:none'>↑ 9 (18%)</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>6</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (20%)</td>
-  <td class=xl76 style='border-top:none'>3</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गबोन</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेन्ट मार्टेन</td>
   <td class=xl74 style='border-top:none'>57</td>
-  <td class=xl74 style='border-top:none'>↑ 8 (16.32%)</td>
+  <td class=xl74 style='border-top:none'>↑ 4 (7.54%)</td>
+  <td class=xl75 style='border-top:none'>9</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>163</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>केप भर्डे</td>
+  <td class=xl74 style='border-top:none'>56</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>1</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बर्मुडा</td>
-  <td class=xl74 style='border-top:none'>57</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>युगान्डा</td>
+  <td class=xl74 style='border-top:none'>55</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>5</td>
-  <td class=xl75 style='border-top:none'>↑ 1 (25%)</td>
-  <td class=xl76 style='border-top:none'>25</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>7,693</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फ्रान्सेलि
   पोलयनेसिया</td>
   <td class=xl74 style='border-top:none'>55</td>
-  <td class=xl74 style='border-top:none'>↑ 2 (3.77%)</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>युगान्डा</td>
-  <td class=xl74 style='border-top:none'>54</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>920</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>केम्यान
-  आईल्यान्डस</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गुयाना</td>
+  <td class=xl74 style='border-top:none'>55</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>6</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>213</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बहामस</td>
   <td class=xl74 style='border-top:none'>53</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>8</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईक्वेटोरियल
+  गिनिया</td>
+  <td class=xl74 style='border-top:none'>51</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>854</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जाम्बिया</td>
+  <td class=xl74 style='border-top:none'>48</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>2</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,696</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लिबिया</td>
+  <td class=xl74 style='border-top:none'>48</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेन्ट मार्टेन</td>
-  <td class=xl74 style='border-top:none'>50</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>9</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>5</td>
-  <td class=xl77 style='border-top:none'>1</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बहामस</td>
-  <td class=xl74 style='border-top:none'>49</td>
-  <td class=xl74 style='border-top:none'>↑ 2 (4.25%)</td>
-  <td class=xl75 style='border-top:none'>8</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>6</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>तान्जनिया
-  युनाईटेड रिपब्<span style='display:none'>लिक अफ</span></td>
-  <td class=xl74 style='border-top:none'>49</td>
-  <td class=xl74 style='border-top:none'>↑ 17 (53.12%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>5</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>634</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मकाउ</td>
@@ -1692,43 +1689,25 @@ tags will be replaced.-->
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>10</td>
-  <td class=xl77 style='border-top:none'>1</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गुयाना</td>
-  <td class=xl74 style='border-top:none'>45</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>6</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>8</td>
-  <td class=xl77 style='border-top:none'>3</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जाम्बिया</td>
-  <td class=xl74 style='border-top:none'>45</td>
-  <td class=xl74 style='border-top:none'>↑ 2 (4.65%)</td>
-  <td class=xl75 style='border-top:none'>2</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>28</td>
-  <td class=xl77 style='border-top:none'>1</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>हाईटि</td>
-  <td class=xl74 style='border-top:none'>40</td>
-  <td class=xl74 style='border-top:none'>↑ 7 (21.21%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गिनिया-बिसाउ</td>
-  <td class=xl74 style='border-top:none'>39</td>
+  <td class=xl74 style='border-top:none'>43</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>3</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,500</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>हाईटि</td>
+  <td class=xl74 style='border-top:none'>41</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>365</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बेनिन</td>
@@ -1736,91 +1715,99 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>5</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>एरिट्रिया</td>
-  <td class=xl74 style='border-top:none'>34</td>
+  <td class=xl74 style='border-top:none'>35</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सुडान</td>
-  <td class=xl74 style='border-top:none'>29</td>
-  <td class=xl74 style='border-top:none'>↑ 10 (52.63%)</td>
-  <td class=xl75 style='border-top:none'>4</td>
-  <td class=xl75 style='border-top:none'>↑ 2 (100%)</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लिबिया</td>
-  <td class=xl74 style='border-top:none'>26</td>
-  <td class=xl74 style='border-top:none'>↑ 1 (4%)</td>
-  <td class=xl75 style='border-top:none'>1</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>1</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सिरिया</td>
-  <td class=xl74 style='border-top:none'>25</td>
+  <td class=xl74 style='border-top:none'>33</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>2</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>5</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सुडान</td>
+  <td class=xl74 style='border-top:none'>32</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>5</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मङगोलिया</td>
+  <td class=xl74 style='border-top:none'>31</td>
+  <td class=xl74 style='border-top:none'>↑ 1 (3.33%)</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,077</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोजाम्बिक</td>
+  <td class=xl74 style='border-top:none'>29</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>793</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>चाद</td>
+  <td class=xl74 style='border-top:none'>27</td>
+  <td class=xl74 style='border-top:none'>↑ 4 (17.39%)</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>माल्दिभ्स</td>
+  <td class=xl74 style='border-top:none'>23</td>
+  <td class=xl74 style='border-top:none'>↑ 1 (4.54%)</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>8</td>
+  <td class=xl77 style='border-top:none'>3,432</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जिम्बाब्वे</td>
+  <td class=xl74 style='border-top:none'>23</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>716</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>एन्टिगुवा एण्ड
   बार्बुडा</td>
   <td class=xl74 style='border-top:none'>23</td>
-  <td class=xl74 style='border-top:none'>↑ 2 (9.52%)</td>
-  <td class=xl75 style='border-top:none'>2</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>3</td>
+  <td class=xl75 style='border-top:none'>↑ 1 (50%)</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>73</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लाओस</td>
+  <td class=xl74 style='border-top:none'>19</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>चाद</td>
-  <td class=xl74 style='border-top:none'>23</td>
-  <td class=xl74 style='border-top:none'>↑ 5 (27.77%)</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोजाम्बिक</td>
-  <td class=xl74 style='border-top:none'>21</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ईक्वेटोरियल
-  गिनिया</td>
-  <td class=xl74 style='border-top:none'>21</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>3</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>माल्दिभ्स</td>
-  <td class=xl74 style='border-top:none'>20</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>13</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,288</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>आन्गोला</td>
@@ -1828,8 +1815,8 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>2</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>4</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>न्यु
@@ -1838,44 +1825,44 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>1</td>
-  <td class=xl77 style='border-top:none'>1</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>लाओस</td>
-  <td class=xl74 style='border-top:none'>18</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>3,002</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बेलिज</td>
   <td class=xl74 style='border-top:none'>18</td>
-  <td class=xl74 style='border-top:none'>↑ 4 (28.57%)</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>2</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>567</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मङगोलिया</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>टिमोर लेस्टे</td>
+  <td class=xl74 style='border-top:none'>18</td>
+  <td class=xl74 style='border-top:none'>↑ 10 (125%)</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फिजि</td>
   <td class=xl74 style='border-top:none'>17</td>
   <td class=xl74 style='border-top:none'>↑ 1 (6.25%)</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>4</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>जिम्बाब्वे</td>
-  <td class=xl74 style='border-top:none'>17</td>
-  <td class=xl74 style='border-top:none'>↑ 3 (21.42%)</td>
-  <td class=xl75 style='border-top:none'>3</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नेपाल</td>
+  <td class=xl74 style='border-top:none'>16</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>15,800</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नामिबिया</td>
@@ -1883,35 +1870,54 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>3</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फिजि</td>
-  <td class=xl74 style='border-top:none'>16</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>362</td>
  </tr>
  <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मलावी</td>
   <td class=xl74 style='border-top:none'>16</td>
-  <td class=xl74 style='border-top:none'>↑ 3 (23.07%)</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>2</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>343</td>
  </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बोटस्वाना</td>
+  <td class=xl74 style='border-top:none'>15</td>
+  <td class=xl74 style='border-top:none'>↑ 2 (15.38%)</td>
+  <td class=xl75 style='border-top:none'>1</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>3,441</td>
+ </tr>
+ <tr class=xl63 height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेन्ट लुसिया</td>
   <td class=xl74 style='border-top:none'>15</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>4</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>319</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सिएरा लियोन</td>
+  <td class=xl74 style='border-top:none'>15</td>
+  <td class=xl74 style='border-top:none'>↑ 2 (15.38%)</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेन्ट किट्टस
+  एण्ड नेभिस</td>
+  <td class=xl74 style='border-top:none'>14</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>234</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>कुराकाओ</td>
@@ -1919,8 +1925,8 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>8</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>230</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ग्रेनाडा</td>
@@ -1929,34 +1935,7 @@ tags will be replaced.-->
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>1</td>
- </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>एस्वाटिनि</td>
-  <td class=xl74 style='border-top:none'>14</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>7</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>नेपाल</td>
-  <td class=xl74 style='border-top:none'>14</td>
-  <td class=xl74 style='border-top:none'>↑ 2 (16.66%)</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>1</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बोटस्वाना</td>
-  <td class=xl74 style='border-top:none'>13</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>1</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>92</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेन्ट
@@ -1965,18 +1944,18 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>1</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>87</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेन्ट किट्टस
-  एण्ड नेभिस</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मध्य अफ्रिकन
+  रिपब्लिक</td>
   <td class=xl74 style='border-top:none'>12</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ग्रिनल्यान्ड</td>
@@ -1984,8 +1963,27 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>11</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>912</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फल्कल्याण्ड
+  आईल्याण्ड</td>
+  <td class=xl74 style='border-top:none'>11</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>137</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोन्टसेर्याट</td>
+  <td class=xl74 style='border-top:none'>11</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>36</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेचेलेस</td>
@@ -1994,26 +1992,17 @@ tags will be replaced.-->
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>1</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मध्य अफ्रिकन
-  रिपब्लिक</td>
-  <td class=xl74 style='border-top:none'>11</td>
-  <td class=xl74 style='border-top:none'>↑ 3 (37.5%)</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>3</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोन्टसेर्याट</td>
-  <td class=xl74 style='border-top:none'>11</td>
-  <td class=xl74 style='border-top:none'>↑ 2 (22.22%)</td>
-  <td class=xl75 style='border-top:none'>0</td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>टर्कस एण्ड
+  काईकोस आ<span style='display:none'>ईल्याण्ड</span></td>
+  <td class=xl74 style='border-top:none'>10</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>1</td>
+  <td class=xl77 style='border-top:none'>71</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सुरिनामे</td>
@@ -2021,27 +2010,8 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>4</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सिएरा लियोन</td>
-  <td class=xl74 style='border-top:none'>10</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>टर्कस एण्ड
-  काईकोस आ<span style='display:none'>ईल्याण्ड</span></td>
-  <td class=xl74 style='border-top:none'>10</td>
-  <td class=xl74 style='border-top:none'>↑ 1 (11.11%)</td>
-  <td class=xl75 style='border-top:none'>1</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>गाम्बिया</td>
@@ -2049,8 +2019,8 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>281</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>निकारागुवा</td>
@@ -2058,17 +2028,8 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>3</td>
- </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>केप भर्डे</td>
-  <td class=xl74 style='border-top:none'>8</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>1</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>भ्याटिकन सिटि</td>
@@ -2076,8 +2037,8 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>मोरिटानिया</td>
@@ -2085,8 +2046,8 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>713</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>सेन्ट
@@ -2095,7 +2056,7 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>4</td>
+  <td class=xl76 style='border-top:none'>0</td>
   <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
@@ -2104,18 +2065,8 @@ tags will be replaced.-->
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
- </tr>
- <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>फल्कल्याण्ड
-  आईल्याण्ड</td>
-  <td class=xl74 style='border-top:none'>5</td>
-  <td class=xl74 style='border-top:none'>&nbsp;</td>
-  <td class=xl75 style='border-top:none'>0</td>
-  <td class=xl75 style='border-top:none'>&nbsp;</td>
-  <td class=xl76 style='border-top:none'>2</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>1,166</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>बुरुन्डि</td>
@@ -2124,7 +2075,7 @@ tags will be replaced.-->
   <td class=xl75 style='border-top:none'>1</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>1</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>साउथ सुडान</td>
@@ -2133,7 +2084,45 @@ tags will be replaced.-->
   <td class=xl75 style='border-top:none'>0</td>
   <td class=xl75 style='border-top:none'>&nbsp;</td>
   <td class=xl76 style='border-top:none'>0</td>
-  <td class=xl77 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ब्रिटिश भर्जिन
+  आईल्या्ड</td>
+  <td class=xl74 style='border-top:none'>3</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>एनगिला</td>
+  <td class=xl74 style='border-top:none'>3</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>पपुवा न्यु
+  गिनि</td>
+  <td class=xl74 style='border-top:none'>2</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>167</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>येमेन</td>
+  <td class=xl74 style='border-top:none'>1</td>
+  <td class=xl74 style='border-top:none'>&nbsp;</td>
+  <td class=xl75 style='border-top:none'>0</td>
+  <td class=xl75 style='border-top:none'>&nbsp;</td>
+  <td class=xl76 style='border-top:none'>0</td>
+  <td class=xl77 style='border-top:none'>&nbsp;</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
   <td height=40 class=xl73 style='height:30.0pt;border-top:none'>साओ तोमे
@@ -2155,8 +2144,8 @@ tags will be replaced.-->
   <td class=xl77 style='border-top:none'>0</td>
  </tr>
  <tr height=40 style='mso-height-source:userset;height:30.0pt'>
-  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ब्रितिश भर्जिन
-  आईल्या्<span style='display:none'>ड</span></td>
+  <td height=40 class=xl73 style='height:30.0pt;border-top:none'>ब्रिटिश भर्जिन
+  आईल्या्ड</td>
   <td class=xl74 style='border-top:none'>3</td>
   <td class=xl74 style='border-top:none'>&nbsp;</td>
   <td class=xl75 style='border-top:none'>0</td>
@@ -2194,7 +2183,7 @@ tags will be replaced.-->
  </tr>
  <tr height=0 style='display:none'>
   <td width=192 style='width:144pt'></td>
-  <td width=140 style='width:105pt'></td>
+  <td width=147 style='width:110pt'></td>
   <td width=207 style='width:155pt'></td>
   <td width=112 style='width:84pt'></td>
   <td width=208 style='width:156pt'></td>
@@ -2212,8 +2201,6 @@ tags will be replaced.-->
 </body>
 
 </html>
-
-
 
 
 
