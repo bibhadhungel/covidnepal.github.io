@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587386677581.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6DC920B0",
+    "lastKnownWriteTime" : 1587391797,
+    "last_content_update" : 1587393056732,
+    "path" : "~/Desktop/webpage/covidnepal.github.io/Nepal_heatmap.R",
+    "project_path" : "Nepal_heatmap.R",
+    "properties" : {
+        "cursorPosition" : "43,0",
+        "scrollLine" : "12",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
