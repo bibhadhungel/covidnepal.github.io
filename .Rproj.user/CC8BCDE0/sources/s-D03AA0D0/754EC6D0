@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587472145835.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "861292252",
+    "id" : "754EC6D0",
+    "lastKnownWriteTime" : 1587473314,
+    "last_content_update" : 1587473314839,
+    "path" : "~/Desktop/webpage/covidnepal.github.io/nepal_data.rmd",
+    "project_path" : "nepal_data.rmd",
+    "properties" : {
+        "cursorPosition" : "41,42",
+        "scrollLine" : "26",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

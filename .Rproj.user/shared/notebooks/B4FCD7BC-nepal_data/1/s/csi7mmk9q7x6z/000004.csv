@@ -1,0 +1,8 @@
+"0","                    "
+"0",""
+"0",""
+"0",""
+"0",""
+"0",""
+"0","nepal_overall <- read_excel(""nepal_data.xlsx"", sheet = ""overall"")"
+"0","reactable(nepal_overall, columns = list(""कुल परिक्षण गरिएको"" = colDef(align = ""center""), ""कुल संक्रमित"" = colDef(align = ""center""), ""कुल निको भएका"" = colDef(align = ""center""), ""कुल जटिल केस"" = colDef(align = ""center""), ""कुल मृत्यु"" = colDef(align = ""center""), ""सक्रिय केस"" = colDef(align = ""center"")))"

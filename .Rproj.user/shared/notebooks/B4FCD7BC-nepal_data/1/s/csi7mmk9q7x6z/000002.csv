@@ -1,0 +1,4 @@
+"0","nepal_detail <- read_excel(""nepal_data.xlsx"", sheet = ""detail"")"
+"0","data <- nepal_detail[, c(""केस संख्या"", ""जिल्ला"", ""उमेर"", ""लिङग"", ""संक्रमण मिति"", ""अवस्था"")]"
+"0",""
+"0","reactable(nepal_detail, filterable = FALSE, minRows = 10, searchable = TRUE, defaultPageSize = 30, showPageSizeOptions = TRUE, pageSizeOptions = c(10, 20, 30, 40), paginationType = ""simple"", highlight =TRUE, striped = TRUE , columns = list(""उमेर"" = colDef(na = ""-"", width = 120, align = ""center""), ""थप जानकारी"" = colDef(width = 600, align =""left""), ""केस संख्या"" = colDef(width = 120 , align = ""center"") , ""जिल्ला"" = colDef(width = 120, align = ""center""), ""लिङग"" = colDef(width = 120, align = ""center""), ""संक्रमण मिति"" = colDef(width = 130, align = ""center""), ""अवस्था"" = colDef(width = 130, align = ""center"")))"

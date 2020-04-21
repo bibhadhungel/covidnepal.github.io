@@ -1,4 +1,4 @@
-```{r echo = FALSE, eval = FALSE, error = FALSE, , include = FALSE}
+```{r echo = FALSE, eval = FALSE, error = FALSE, include = FALSE}
 install.packages("rgdal")
 install.packages("gpclib")
 install.packages("maptool")

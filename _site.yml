@@ -27,6 +27,9 @@ navbar:
         - text: "------------"
         - text: "विश्व नक्शा"
           href: worldmap.html
+        - text: "------------"
+        #- text: "nepal_data"
+         # href: nepal_data.html
 
     - text: "WHO"
       href: who.html

@@ -1,0 +1,32 @@
+install.packages("reactable")
+library(reactable)
+
+nepal_detail <- read_excel("nepal_data.xlsx", sheet = "detail")
+data <- nepal_detail[, c("केस संख्या", "जिल्ला", "उमेर", "लिङग", "संक्रमण मिति", "अवस्था")]
+
+reactable(nepal_detail, filterable = FALSE, minRows = 10, searchable = TRUE, defaultPageSize = 30, showPageSizeOptions = TRUE, pageSizeOptions = c(10, 20, 30, 40), paginationType = "simple", highlight =TRUE, striped = TRUE , columns = list("उमेर" = colDef(na = "-", width = 120, align = "center"), "थप जानकारी" = colDef(width = 600, align ="left"), "केस संख्या" = colDef(width = 120 , align = "center") , "जिल्ला" = colDef(width = 120, align = "center"), "लिङग" = colDef(width = 120, align = "center"), "संक्रमण मिति" = colDef(width = 130, align = "center"), "अवस्था" = colDef(width = 130, align = "center")))
+                    
+
+
+
+
+
+nepal_overall <- read_excel("nepal_data.xlsx", sheet = "overall")
+reactable(nepal_overall, columns = list("कुल परिक्षण गरिएको" = colDef(align = "center"), "कुल संक्रमित" = colDef(align = "center"), "कुल निको भएका" = colDef(align = "center"), "कुल जटिल केस" = colDef(align = "center"), "कुल मृत्यु" = colDef(align = "center"), "सक्रिय केस" = colDef(align = "center")))
+
+
+############################################################
+#library(shiny)
+#library(reactable)
+
+#ui <- fluidPage(
+ # reactableOutput("table")
+#)
+
+#server <- function(input, output) {
+ # output$table <- renderReactable({
+  #  reactable(nepal_detail)
+  #})
+#}
+
+#shinyApp(ui, server)
