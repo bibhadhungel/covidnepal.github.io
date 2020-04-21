@@ -1,0 +1,10 @@
+library(ggplot2)
+install.packages("Rcpp")
+install.packages("dplyr")
+library(Rccp)
+library(dplyr)
+require(maps)
+require(viridis)
+theme_set(
+  theme_void()
+)
