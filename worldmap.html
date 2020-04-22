@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>worldmap.utf8</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><h1 style= font.size:70px>कोभिड-१९</h1></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-refresh fa-spin fa-3x fa-fw&quot;&gt;&lt;/i&gt; &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;"></span>
+     
+    पछिल्लो अवस्था
+  </a>
+</li>
+<li>
+  <a href="nepal_data.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-flag fa-3x&quot;&gt;&lt;/i&gt; fa-3x"></span>
+     
+    नेपाल
+  </a>
+</li>
+<li>
+  <a href="world_data.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-globe-americas fa-3x&quot;&gt;&lt;/i&gt; fa-3x"></span>
+     
+    बिश्व
+  </a>
+</li>
+<li>
+  <a href="who.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-globe fa-3x&quot;&gt;&lt;/i&gt; fa-3x"></span>
+     
+    WHO
+  </a>
+</li>
+<li>
+  <a href="news.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-newspaper fa-3x&quot;&gt;&lt;/i&gt; fa-3x"></span>
+     
+    समाचार
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://twitter.com/home">
+    <span class="fa fa-twitter fa-3x"></span>
+     
+    Developed by: blazon dinkum
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+<br>
+<a href="https://www.facebook.com/worldnews020/" target="_self">
+  <i class="fa fa-facebook fa-3x"></i>
+  Covid-19 World News</a>
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<html>
+<body style="background-color:white">
+<!--PASTE AFTER HERE -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link rel=File-List href="worldmap.fld/filelist.xml"> <!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style id="worldmap_15894_Styles">
+<!--table
+    {mso-displayed-decimal-separator:"\.";
+    mso-displayed-thousand-separator:"\,";}
+@page
+    {margin:.75in .7in .75in .7in;
+    mso-header-margin:.3in;
+    mso-footer-margin:.3in;}
+tr
+    {mso-height-source:auto;}
+col
+    {mso-width-source:auto;}
+br
+    {mso-data-placement:same-cell;}
+.style0
+    {mso-number-format:General;
+    text-align:general;
+    vertical-align:bottom;
+    white-space:nowrap;
+    mso-rotate:0;
+    mso-background-source:auto;
+    mso-pattern:auto;
+    color:black;
+    font-size:12.0pt;
+    font-weight:400;
+    font-style:normal;
+    text-decoration:none;
+    font-family:Calibri, sans-serif;
+    mso-font-charset:0;
+    border:none;
+    mso-protection:locked visible;
+    mso-style-name:Normal;
+    mso-style-id:0;}
+td
+    {mso-style-parent:style0;
+    padding:0px;
+    mso-ignore:padding;
+    color:black;
+    font-size:12.0pt;
+    font-weight:400;
+    font-style:normal;
+    text-decoration:none;
+    font-family:Calibri, sans-serif;
+    mso-font-charset:0;
+    mso-number-format:General;
+    text-align:general;
+    vertical-align:bottom;
+    border:none;
+    mso-background-source:auto;
+    mso-pattern:auto;
+    mso-protection:locked visible;
+    white-space:nowrap;
+    mso-rotate:0;}
+-->
+</style>
+</head>
+<body link="#0563C1" vlink="#954F72">
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+<div id="worldmap_15894" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=1392 style='border-collapse:
+ collapse;table-layout:fixed;width:1040pt'>
+<col width=87 span=16 style='width:65pt'>
+<tr height=21 style='height:16.0pt'>
+<td height="21" width="87" style="height:16.0pt;width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width=87 style='width:65pt' align=left valign=top>
+<!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Add-in_x0020_1" o:spid="_x0000_s1025" type="#_x0000_t75"
+   style='position:absolute;margin-left:22pt;margin-top:0;width:772pt;height:565pt;
+   z-index:1;visibility:visible'>
+   <v:imagedata src="worldmap.fld/worldmap_15894_image001.png" o:title=""/>
+   <o:lock v:ext="edit" aspectratio="f" grouping="t"/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+   </x:ClientData>
+  </v:shape><![endif]-->
+<span style="mso-ignore:vglayout;
+  position:absolute;z-index:1;margin-left:29px;margin-top:0px;width:1029px;
+  height:753px"><img width=772 height=565
+  src="worldmap.fld/worldmap_15894_image001.png" v:shapes="Add-in_x0020_1"></span><span
+  style='mso-ignore:vglayout2'>
+<table cellpadding=0 cellspacing=0>
+<tr>
+<td height="21" width="87" style="height:16.0pt;width:65pt">
+</td>
+</tr>
+</table>
+</span>
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+</tr>
+<tr height=735 style='height:560.0pt;mso-xlrowspan:35'>
+<td height="735" colspan="16" style="height:560.0pt;mso-ignore:colspan">
+</td>
+</tr>
+<tr height=0 style='display:none'>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+<td width="87" style="width:65pt">
+</td>
+</tr>
+</table>
+</div>
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+</html>
+
+<p>Copyright &copy; 2020 blazon dinkum :: #DG-naaniKoMakuro. All rights reserved.</p>
+
+<a href="https://www.facebook.com/worldnews020/" target="_self">
+  <i class="fa fa-facebook fa-3x"></i>
+  Covid-19 world news</a>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
