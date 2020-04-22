@@ -37,7 +37,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
 <link rel=File-List href="nepal.fld/filelist.xml">
-<style id="nepal_21089_Styles">
+<style id="nepal_17580_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
@@ -255,86 +255,13 @@ td
 	mso-number-format:"\[$-4000439\]0";}
 .xl93
 	{mso-style-parent:style0;
-	font-size:20.0pt;
-	text-align:center;
-	vertical-align:middle;
-	background:#E2EFDA;
-	mso-pattern:black none;}
-.xl94
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	mso-number-format:"\[$-4000439\]0";
-	text-align:center;
-	vertical-align:middle;
-	background:#E2EFDA;
-	mso-pattern:black none;}
-.xl95
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	mso-number-format:"\[$-4000439\]0";
-	text-align:center;
-	background:#FFF2CC;
-	mso-pattern:black none;}
-.xl96
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	text-align:center;
-	background:#FFF2CC;
-	mso-pattern:black none;}
-.xl97
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	text-align:left;
-	background:#FFF2CC;
-	mso-pattern:black none;}
-.xl98
-	{mso-style-parent:style0;
-	background:#FFF2CC;
-	mso-pattern:black none;}
-.xl99
-	{mso-style-parent:style0;
-	font-weight:700;
-	background:#FFF2CC;
-	mso-pattern:black none;}
-.xl100
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	font-weight:700;
-	text-align:center;
-	background:#FFF2CC;
-	mso-pattern:black none;}
-.xl101
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	text-align:left;
-	vertical-align:middle;
-	background:#E2EFDA;
-	mso-pattern:black none;}
-.xl102
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	mso-number-format:"\[$-4000439\]0";
-	text-align:center;
-	vertical-align:middle;}
-.xl103
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	text-align:center;
-	vertical-align:middle;}
-.xl104
-	{mso-style-parent:style0;
-	font-size:20.0pt;
-	text-align:left;
-	vertical-align:middle;}
-.xl105
-	{mso-style-parent:style0;
 	color:black;
 	font-size:48.0pt;
 	font-family:"Helvetica Neue", sans-serif;
 	mso-font-charset:0;
 	mso-number-format:"\[$-4000439\]0";
 	text-align:center;}
-.xl106
+.xl94
 	{mso-style-parent:style0;
 	color:blue;
 	font-size:48.0pt;
@@ -342,6 +269,21 @@ td
 	mso-font-charset:0;
 	mso-number-format:"\[$-4000439\]0";
 	text-align:center;}
+.xl95
+	{mso-style-parent:style0;
+	font-size:20.0pt;
+	text-align:center;
+	vertical-align:middle;
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl96
+	{mso-style-parent:style0;
+	font-size:20.0pt;
+	mso-number-format:"\[$-4000439\]0";
+	text-align:center;
+	vertical-align:middle;
+	background:#E2EFDA;
+	mso-pattern:black none;}
 -->
 </style>
 </head>
@@ -356,7 +298,7 @@ tags will be replaced.-->
 <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
 <!----------------------------->
 
-<div id="nepal_21089" align=center x:publishsource="Excel">
+<div id="nepal_17580" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=1633 style='border-collapse:
  collapse;table-layout:fixed;width:1223pt'>
@@ -403,12 +345,12 @@ tags will be replaced.-->
   <td class=xl63></td>
  </tr>
  <tr class=xl66 height=83 style='height:62.0pt'>
-  <td colspan=2 height=83 class=xl105 style='height:62.0pt'>८७७३</td>
-  <td colspan=2 class=xl106>४२</td>
+  <td colspan=2 height=83 class=xl93 style='height:62.0pt'>८७६३</td>
+  <td colspan=2 class=xl94>३२</td>
   <td class=xl79>४</td>
   <td class=xl81>०</td>
   <td class=xl80>०</td>
-  <td class=xl75>३८</td>
+  <td class=xl75>२८</td>
   <td class=xl66></td>
   <td class=xl66></td>
   <td class=xl66></td>
@@ -450,25 +392,25 @@ tags will be replaced.-->
   <td class=xl69>&nbsp;</td>
   <td class=xl69>&nbsp;</td>
  </tr>
- <tr class=xl100 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl95 style='height:45.0pt'>१</td>
-  <td class=xl96>काठमाडौं</td>
-  <td class=xl95>३१</td>
-  <td class=xl96>पुरुष</td>
-  <td class=xl96>२०७६ माघ १०</td>
-  <td class=xl96>निको</td>
-  <td class=xl97 colspan=7 style='mso-ignore:colspan'>२०७६ माघ १७मा निको भएको,
+ <tr class=xl73 height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl67 style='height:45.0pt'>१</td>
+  <td class=xl71>काठमाडौं</td>
+  <td class=xl67>३१</td>
+  <td class=xl71>पुरुष</td>
+  <td class=xl71>२०७६ माघ १०</td>
+  <td class=xl71>निको</td>
+  <td class=xl89 colspan=7 style='mso-ignore:colspan'>२०७६ माघ १७मा निको भएको,
   वुहान विश्वविद्यालयका विद्यार्थी</td>
-  <td class=xl98>&nbsp;</td>
+  <td></td>
  </tr>
- <tr class=xl99 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl95 style='height:45.0pt'>२</td>
-  <td class=xl96>काठमाडौं</td>
-  <td class=xl95>१९</td>
-  <td class=xl96>महिला</td>
-  <td class=xl96>२०७६ चैत १०</td>
-  <td class=xl96>निको</td>
-  <td class=xl97 colspan=8 style='mso-ignore:colspan'>२०७६ चैत ७ मा फ्रान्सबाट
+ <tr class=xl85 height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl82 style='height:45.0pt'>२</td>
+  <td class=xl83>काठमाडौं</td>
+  <td class=xl82>१९</td>
+  <td class=xl83>महिला</td>
+  <td class=xl83>२०७६ चैत १०</td>
+  <td class=xl83>निको</td>
+  <td class=xl90 colspan=8 style='mso-ignore:colspan'>२०७६ चैत ७ मा फ्रान्सबाट
   कतार हुँदै नेपाल फर्किएको विद्यार्थी प्रसिद्धि श्<span style='display:none'>रेष्ठ</span></td>
  </tr>
  <tr class=xl65 height=60 style='mso-height-source:userset;height:45.0pt'>
@@ -484,20 +426,20 @@ tags will be replaced.-->
   <td></td>
   <td colspan=2 style='mso-ignore:colspan'></td>
  </tr>
- <tr class=xl99 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl95 style='height:45.0pt'>४</td>
-  <td class=xl96>धनगडि</td>
-  <td class=xl95>३४</td>
-  <td class=xl96>पुरुष</td>
-  <td class=xl96>२०७६ चैत १४</td>
-  <td class=xl96>निको</td>
-  <td class=xl97 colspan=3 style='mso-ignore:colspan'>मध्य पुर्वी देशबाट
+ <tr class=xl85 height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl82 style='height:45.0pt'>४</td>
+  <td class=xl83>धनगडि</td>
+  <td class=xl82>३४</td>
+  <td class=xl83>पुरुष</td>
+  <td class=xl83>२०७६ चैत १४</td>
+  <td class=xl83>संक्रमित</td>
+  <td class=xl90 colspan=3 style='mso-ignore:colspan'>मध्य पुर्वी देशबाट
   फर्किएका</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
  </tr>
  <tr class=xl65 height=60 style='mso-height-source:userset;height:45.0pt'>
   <td height=60 class=xl67 style='height:45.0pt'>५</td>
@@ -512,14 +454,14 @@ tags will be replaced.-->
   <td></td>
   <td colspan=2 style='mso-ignore:colspan'></td>
  </tr>
- <tr class=xl99 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl95 style='height:45.0pt'>६</td>
-  <td class=xl96>बाग्लुङ</td>
-  <td class=xl95>६५</td>
-  <td class=xl96>महिला</td>
-  <td class=xl96>२०७६ चैत २०</td>
-  <td class=xl96>निको</td>
-  <td class=xl97 colspan=8 style='mso-ignore:colspan'>कतार एयरलाईनस बाट दोहाबाट
+ <tr class=xl85 height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl82 style='height:45.0pt'>६</td>
+  <td class=xl83>बाग्लुङ</td>
+  <td class=xl82>६५</td>
+  <td class=xl83>महिला</td>
+  <td class=xl83>२०७६ चैत २०</td>
+  <td class=xl83>निको</td>
+  <td class=xl90 colspan=8 style='mso-ignore:colspan'>कतार एयरलाईनस बाट दोहाबाट
   पाचौं संक्रमित महिलासंग फर्किएका व्यक्ति</td>
  </tr>
  <tr class=xl65 height=60 style='mso-height-source:userset;height:45.0pt'>
@@ -536,20 +478,20 @@ tags will be replaced.-->
   <td></td>
   <td colspan=2 style='mso-ignore:colspan'></td>
  </tr>
- <tr class=xl99 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl95 style='height:45.0pt'>८</td>
-  <td class=xl96>कैलाली</td>
-  <td class=xl95>२१</td>
-  <td class=xl96>पुरुष</td>
-  <td class=xl96>२०७६ चैत २२</td>
-  <td class=xl96>निको</td>
-  <td class=xl97 colspan=2 style='mso-ignore:colspan'>भारतबाट कैलाली आएका</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
-  <td class=xl98>&nbsp;</td>
+ <tr class=xl85 height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl82 style='height:45.0pt'>८</td>
+  <td class=xl83>कैलाली</td>
+  <td class=xl82>२१</td>
+  <td class=xl83>पुरुष</td>
+  <td class=xl83>२०७६ चैत २२</td>
+  <td class=xl83>निको</td>
+  <td class=xl90 colspan=2 style='mso-ignore:colspan'>भारतबाट कैलाली आएका</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
+  <td class=xl84>&nbsp;</td>
  </tr>
  <tr class=xl65 height=60 style='mso-height-source:userset;height:45.0pt'>
   <td height=60 class=xl67 style='height:45.0pt'>९</td>
@@ -851,181 +793,18 @@ tags will be replaced.-->
   <td class=xl73></td>
   <td class=xl73></td>
  </tr>
- <tr class=xl93 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl94 style='height:45.0pt'>३२</td>
+ <tr class=xl95 height=60 style='mso-height-source:userset;height:45.0pt'>
+  <td height=60 class=xl96 style='height:45.0pt'>३२</td>
   <td class=xl83>उदयपुर</td>
-  <td class=xl94>१८</td>
-  <td class=xl93>पुरुष</td>
-  <td class=xl93>२०७७ बैशाख ९</td>
-  <td class=xl93>संक्रमित</td>
-  <td class=xl90>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
- </tr>
- <tr class=xl103 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl102 style='height:45.0pt'>३३</td>
-  <td class=xl71>उदयपुर</td>
-  <td class=xl102>१८</td>
-  <td class=xl103>पुरुष</td>
-  <td class=xl103>२०७७ बैशाख ९</td>
-  <td class=xl103>संक्रमित</td>
-  <td class=xl104></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
- </tr>
- <tr class=xl93 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl94 style='height:45.0pt'>३४</td>
-  <td class=xl83>उदयपुर</td>
-  <td class=xl94>२०</td>
-  <td class=xl93>पुरुष</td>
-  <td class=xl93>२०७७ बैशाख ९</td>
-  <td class=xl93>संक्रमित</td>
-  <td class=xl101>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
- </tr>
- <tr class=xl103 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl102 style='height:45.0pt'>३५</td>
-  <td class=xl71>उदयपुर</td>
-  <td class=xl102>३३</td>
-  <td class=xl103>पुरुष</td>
-  <td class=xl103>२०७७ बैशाख ९</td>
-  <td class=xl103>संक्रमित</td>
-  <td class=xl104></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
- </tr>
- <tr class=xl93 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl94 style='height:45.0pt'>३६</td>
-  <td class=xl83>उदयपुर</td>
-  <td class=xl94>४०</td>
-  <td class=xl93>पुरुष</td>
-  <td class=xl93>२०७७ बैशाख ९</td>
-  <td class=xl93>संक्रमित</td>
-  <td class=xl101>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
- </tr>
- <tr class=xl103 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl102 style='height:45.0pt'>३७</td>
-  <td class=xl71>उदयपुर</td>
-  <td class=xl102>४१</td>
-  <td class=xl103>पुरुष</td>
-  <td class=xl103>२०७७ बैशाख ९</td>
-  <td class=xl103>संक्रमित</td>
-  <td class=xl104></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
- </tr>
- <tr class=xl93 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl94 style='height:45.0pt'>३८</td>
-  <td class=xl83>उदयपुर</td>
-  <td class=xl94>४१</td>
-  <td class=xl93>पुरुष</td>
-  <td class=xl93>२०७७ बैशाख ९</td>
-  <td class=xl93>संक्रमित</td>
-  <td class=xl101>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
- </tr>
- <tr class=xl103 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl102 style='height:45.0pt'>३९</td>
-  <td class=xl71>उदयपुर</td>
-  <td class=xl102>५२</td>
-  <td class=xl103>पुरुष</td>
-  <td class=xl103>२०७७ बैशाख ९</td>
-  <td class=xl103>संक्रमित</td>
-  <td class=xl104></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
- </tr>
- <tr class=xl93 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl94 style='height:45.0pt'>४०</td>
-  <td class=xl83>उदयपुर</td>
-  <td class=xl82>५८</td>
-  <td class=xl93>पुरुष</td>
-  <td class=xl93>२०७७ बैशाख ९</td>
-  <td class=xl93>संक्रमित</td>
-  <td class=xl101>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
-  <td class=xl93>&nbsp;</td>
- </tr>
- <tr class=xl103 height=60 style='mso-height-source:userset;height:45.0pt'>
-  <td height=60 class=xl102 style='height:45.0pt'>४१</td>
-  <td class=xl71>उदयपुर</td>
-  <td class=xl71>नखुलेको</td>
-  <td class=xl71>महिला</td>
-  <td class=xl103>२०७७ बैशाख ९</td>
-  <td class=xl103>संक्रमित</td>
-  <td class=xl104></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
-  <td class=xl103></td>
- </tr>
- <tr class=xl83 height=53 style='mso-height-source:userset;height:40.0pt'>
-  <td height=53 class=xl82 style='height:40.0pt'>४२</td>
-  <td class=xl83>उदयपुर</td>
-  <td class=xl94>३६</td>
-  <td class=xl83>महिला</td>
-  <td class=xl93>२०७७ बैशाख ९</td>
-  <td class=xl93>संक्रमित</td>
-  <td class=xl90>&nbsp;</td>
-  <td class=xl83>&nbsp;</td>
-  <td class=xl83>&nbsp;</td>
-  <td class=xl83>&nbsp;</td>
-  <td class=xl83>&nbsp;</td>
-  <td class=xl83>&nbsp;</td>
-  <td class=xl83>&nbsp;</td>
-  <td class=xl83>&nbsp;</td>
+  <td class=xl96>३३</td>
+  <td class=xl95>पुरुष</td>
+  <td class=xl83>२०७७ बैशाख ६</td>
+  <td class=xl95>संक्रमित</td>
+  <td class=xl90 colspan=5 style='mso-ignore:colspan'>मंसिर २४ गते दिल्लीबाट
+  आएका भारतीय नागरीक</td>
+  <td class=xl95>&nbsp;</td>
+  <td class=xl95>&nbsp;</td>
+  <td class=xl95>&nbsp;</td>
  </tr>
  <tr height=0 style='display:none'>
   <td width=123 style='width:92pt'></td>

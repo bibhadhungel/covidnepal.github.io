@@ -22,14 +22,14 @@ navbar:
         - text: "नेपालको नक्शा"
           href: nepalmap.html
         - text: "------------"
-        - text: "विश्वको नेपाली"
+        - text: "विश्वका नेपाली"
           href: nepali_worldmap.html
         - text: "------------"
         - text: "विश्व नक्शा"
           href: worldmap.html
         - text: "------------"
-        #- text: "nepal_data"
-         # href: nepal_data.html
+        - text: "नेपाल"
+          href: nepal_data.html
 
     - text: "WHO"
       href: who.html

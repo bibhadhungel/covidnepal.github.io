@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1587445654826.000,
+    "created" : 1587477569026.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "CC133145",
+    "id" : "1FF2FA5",
     "lastKnownWriteTime" : 1587472686,
-    "last_content_update" : 1587472686866,
+    "last_content_update" : 1587477570901,
     "path" : "~/Desktop/webpage/covidnepal.github.io/nepali_worldmap.rmd",
     "project_path" : "nepali_worldmap.rmd",
     "properties" : {
-        "cursorPosition" : "0,48",
+        "cursorPosition" : "65,0",
         "scrollLine" : "0",
         "tempName" : "Untitled2"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 7,
+    "relative_order" : 9,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
