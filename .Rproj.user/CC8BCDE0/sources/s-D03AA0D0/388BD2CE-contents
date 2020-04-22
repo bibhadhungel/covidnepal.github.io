@@ -10,27 +10,17 @@ navbar:
       icon: <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
             <span class="sr-only">Loading...</span>
     - text: "नेपाल"
-      href: nepal.html
+      href: nepal_data.html
       icon: <i class="fa fa-flag fa-3x"></i> fa-3x
     - text: "बिश्व"
       href: world.html
       icon: <i class="fa fa-flag fa-3x"></i> fa-3x
     - text: "नक्शा"
-      href: nepalmap.html
       icon: <i class="fa fa-globe-americas fa-3x"></i> fa-3x
       menu:
-        - text: "नेपालको नक्शा"
-          href: nepalmap.html
-        - text: "------------"
-        - text: "विश्वका नेपाली"
-          href: nepali_worldmap.html
-        - text: "------------"
         - text: "विश्व नक्शा"
           href: worldmap.html
         - text: "------------"
-        - text: "नेपाल"
-          href: nepal_data.html
-
     - text: "WHO"
       href: who.html
       icon: <i class="fa fa-globe fa-3x"></i> fa-3x

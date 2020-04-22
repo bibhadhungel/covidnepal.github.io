@@ -85,6 +85,8 @@ centroids <- setNames(do.call("rbind.data.frame", by(nepal.adm3.shp.df, nepal.ad
   #######################################################################
   #the above code didn7 work so i used this by my self. Be cautious if the latitude and longitude matches the district names
   corona <- read.csv("~/Desktop/webpage/NepalMaps/baselayers/corona.csv")
+  corona <- read_excel("nepal_data.xlsx", sheet = "map")
+  
   centroids$label <- corona$id
   #######################################################################
   
