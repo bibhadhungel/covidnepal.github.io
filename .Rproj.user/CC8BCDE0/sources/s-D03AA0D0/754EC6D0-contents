@@ -67,11 +67,13 @@ library(maptools)
 ```{r include=FALSE, echo=FALSE}
 
 nepal.adm3.shp <- readOGR(dsn="/Users/bibhadhungel/Desktop/webpage/NepalMaps/baselayers/NPL_adm", layer="NPL_adm3", stringsAsFactors = FALSE)
+
 nepal.adm3.shp.df <- fortify(nepal.adm3.shp, region = "NAME_3")
 
-hpi.data <- read.csv("/Users/bibhadhungel/Desktop/webpage/NepalMaps/baselayers/corona.csv")
+#hpi.data <- read.csv("/Users/bibhadhungel/Desktop/webpage/NepalMaps/baselayers/corona.csv")
+corona.data <- read_excel("nepal_data.xlsx", sheet = "map")
 
-nepal.adm3.shp.df <- merge(nepal.adm3.shp.df, hpi.data, by ="id")
+nepal.adm3.shp.df <- merge(nepal.adm3.shp.df, corona.data, by ="id")
 
 map <- ggplot(data = nepal.adm3.shp.df, aes(x = long, y = lat, group = group))
 
@@ -80,7 +82,7 @@ map <- ggplot(data = nepal.adm3.shp.df, aes(x = long, y = lat, group = group))
 # Adding labels for each district polygon
   #Now we need to show districts names in the map. Centroids calculation is bit tricky, but it works if you follow this code from stackoverflow.
 centroids <- setNames(do.call("rbind.data.frame", by(nepal.adm3.shp.df, nepal.adm3.shp.df$group, function(x) {Polygon(x[c('long', 'lat')])@labpt})), c('long', 'lat')) 
-  centroids$label <- nepal.adm3.shp.df$id[match(rownames(centroids), nepal.adm3.shp.df$group)]
+  #centroids$label <- nepal.adm3.shp.df$id[match(rownames(centroids), nepal.adm3.shp.df$group)]
   
   #######################################################################
   #the above code didn7 work so i used this by my self. Be cautious if the latitude and longitude matches the district names
