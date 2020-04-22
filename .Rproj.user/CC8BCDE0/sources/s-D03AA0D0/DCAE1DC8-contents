@@ -1,13 +1,92 @@
 
-<html>
-<body style="background-color:lightgray;">
-<h1> विश्वमा कोरोना संक्रमणको अवस्था </h1>
-</body>
-</html>
 
+
+
+
+
+<!-- THE FOLLOWING 3 CHUNKS IS FOR OVERALL DATA OF CASESA ND DEATHS IN TH E WORLD -->
+
+```{r echo = FALSE, eval = FALSE, error = FALSE, include = FALSE}
+# this is for nepalese around the world
+install.packages("rgdal")
+install.packages("gpclib")
+install.packages("maptool")
+install.packages("Rcpp")
+install.packages("tibble")
+install.packages("xlsx")
+
+```
+
+```{r echo = FALSE, error = FALSE, message = FALSE, warning = FALSE, include = FALSE}
+library(rgdal)
+library(gpclib)
+gpclibPermit()
+library(maptools)
+
+library(Rcpp)
+library(tibble)
+
+library(ggplot2)
+library(dplyr)
+require(maps)
+require(viridis)
+theme_set(
+  theme_void()
+)
+
+
+# Create a simple map
+#World map
+#Retrieve the world map data:
+world_map <- map_data("world")
+
+#Map for specific regions
+#Retrieve map data for one or multiple specific regions:
+
+# Make a choropleth Map
+# World map colored by corona cases
+# creating nepali corona cases in world file
+library(readxl)
+#library(xlsx)
+
+#nepali_world <- read_excel("nepali_world.xlsx")
+world_corona <- read_excel("world.xlsx", sheet = "world_map")
+
+# Merge map and life expectancy data:
+world_map <- map_data("world")
+
+#corona.map <- merge(world_map, nepali_world, by ="region")
+corona.map <- left_join(world_corona, world_map, by = "region")
+
+```
+<html>
+<h1> विश्वमा रहेका कोरोना संक्रमितहरुको अवस्था नक्सामा </h1>
+```{r error = FALSE, echo = FALSE}
+# Create the choropleth map. Note that, data are missing for some region in the map below:
+#Use the function geom_polygon():
+ggplot(corona.map, aes(long, lat, group = group))+
+  geom_polygon(aes(fill = cases ), color = 'light gray', size = 0.1)+
+  ggtitle("Covid-19 positive Nepali around the world") + 
+  guides(fill =guide_colorbar(title="Total cases")) +
+  scale_fill_gradient(high = "#e34a33", low = "#fee8c8", guide = "colourbar" ) +
+  theme(legend.justification=c(0,0), legend.position=c(0,0)) 
+```
+
+
+
+
+
+
+
+
+<!-- THE FOLLOWING IS FOR OVERALL DATA OF CASESA ND DEATHS IN TH E WORLD -->
+<body style="background-color:lightgray;">
+<p><h2> विश्वमा कोरोना संक्रमणको अवस्था</p></h2>
+<br>
+</body>
 
 ```{r echo = FALSE, error = FALSE}
-# this is for overall data of cases and tests in Nepal
+# this is for overall data of cases and deaths in World
 
 world_detail <- read_excel("world.xlsx", sheet = "Upload", range = cell_cols(2:9))
 
