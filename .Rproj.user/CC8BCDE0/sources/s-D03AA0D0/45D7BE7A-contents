@@ -1,0 +1,3 @@
+limits <- aes(ymax = nepal_data$`उमेर` , ymin = nepal$lower)
+ggplot(data = lab1, aes(x = Grade.Level, fill = Scale, y = AUC)) + geom_bar(position = "dodge", 
+                                                                            stat = "identity") + geom_errorbar(limits, width = 0.9, position = "dodge")
