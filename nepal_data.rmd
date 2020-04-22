@@ -120,8 +120,6 @@ map +
 
 
 
-
-
 ```{r echo = FALSE, error = FALSE}
 
 # this chunk is for data in detail of nepalese in Nepal

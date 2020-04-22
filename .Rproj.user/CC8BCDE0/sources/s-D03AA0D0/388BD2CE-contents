@@ -13,7 +13,7 @@ navbar:
       href: nepal_data.html
       icon: <i class="fa fa-flag fa-3x"></i> fa-3x
     - text: "बिश्व"
-      href: world.html
+      href: world_data.html
       icon: <i class="fa fa-flag fa-3x"></i> fa-3x
     - text: "नक्शा"
       icon: <i class="fa fa-globe-americas fa-3x"></i> fa-3x
