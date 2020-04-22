@@ -46,7 +46,7 @@
 "0","# Adding labels for each district polygon"
 "0","  #Now we need to show districts names in the map. Centroids calculation is bit tricky, but it works if you follow this code from stackoverflow."
 "0","centroids <- setNames(do.call(""rbind.data.frame"", by(nepal.adm3.shp.df, nepal.adm3.shp.df$group, function(x) {Polygon(x[c('long', 'lat')])@labpt})), c('long', 'lat')) "
-"0","  #centroids$label <- nepal.adm3.shp.df$id[match(rownames(centroids), nepal.adm3.shp.df$group)]"
+"0","  centroids$label <- nepal.adm3.shp.df$id[match(rownames(centroids), nepal.adm3.shp.df$group)]"
 "0","  "
 "0","  #######################################################################"
 "0","  #the above code didn7 work so i used this by my self. Be cautious if the latitude and longitude matches the district names"
