@@ -5,12 +5,12 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "4060919682",
     "id" : "512294E8",
     "lastKnownWriteTime" : 1587447474,
-    "last_content_update" : 1587447474512,
-    "path" : "~/Desktop/webpage/covidnepal.github.io/Untitled.R",
-    "project_path" : "Untitled.R",
+    "last_content_update" : 1587447474,
+    "path" : "~/Desktop/webpage/covidnepal.github.io/render_site.R",
+    "project_path" : "render_site.R",
     "properties" : {
         "cursorPosition" : "1,0",
         "scrollLine" : "0"

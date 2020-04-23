@@ -128,14 +128,15 @@ data <- nepal_detail[, c("केस संख्या", "जिल्ला", "
 
 reactable(nepal_detail, 
           filterable = FALSE, 
-          minRows = 10, 
+          minRows = 30, 
           searchable = TRUE, 
           defaultPageSize = 30, 
           showPageSizeOptions = TRUE, 
-          pageSizeOptions = c(10, 20, 30, 40, 1000), 
+          pageSizeOptions = c(10, 20, 30, 40, 50, 1000), 
           paginationType = "simple", 
           highlight =TRUE, 
           striped = TRUE , 
+          showSortable = TRUE,
           columns = list(
             "उमेर" = colDef(na = "-", width = 50, align = "center"), 
             "थप जानकारी" = colDef(width = 420, align ="left"),

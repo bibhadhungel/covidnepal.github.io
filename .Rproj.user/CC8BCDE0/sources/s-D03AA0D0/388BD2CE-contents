@@ -5,13 +5,13 @@ navbar:
   # type can be default or inverse 
   type: inverse
   left:
+    - text: "नेपाल"
+      href: nepal_data.html
+      icon: <i class="fa fa-flag fa-3x"></i> fa-3x
     - text: "पछिल्लो अवस्था"
       href: index.html
       icon: <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
             <span class="sr-only">Loading...</span>
-    - text: "नेपाल"
-      href: nepal_data.html
-      icon: <i class="fa fa-flag fa-3x"></i> fa-3x
     - text: "बिश्व"
       href: world_data.html
       icon: <i class="fa fa-globe-americas fa-3x"></i> fa-3x

@@ -4,7 +4,7 @@
 
 
 
-<!-- THE FOLLOWING 3 CHUNKS IS FOR WORLD MAP -->
+<!-- THE FOLLOWING 3 CHUNKS IS FOR OVERALL DATA OF CASESA ND DEATHS IN TH E WORLD -->
 
 ```{r echo = FALSE, eval = FALSE, error = FALSE, include = FALSE}
 # this is for nepalese around the world
@@ -79,7 +79,7 @@ ggplot(corona.map, aes(long, lat, group = group))+
 
 
 
-<!-- THE FOLLOWING IS FOR  DATA OF CASES AND DEATHS IN TH E WORLD -->
+<!-- THE FOLLOWING IS FOR OVERALL DATA OF CASESA ND DEATHS IN TH E WORLD -->
 <body style="background-color:lightgray;">
 <p><h2> विश्वमा कोरोना संक्रमणको अवस्था</p></h2>
 <br>
@@ -96,11 +96,9 @@ reactable(world_detail,
           searchable = TRUE, 
           defaultPageSize = 20, 
           showPageSizeOptions = TRUE, 
-          pageSizeOptions = c(20, 100, 150, 200, 300), 
+          pageSizeOptions = c(20, 100, 150, 200), 
           paginationType = "simple", 
           highlight =TRUE, 
-          showSortIcon = TRUE,
-          showSortable = TRUE,
           striped = TRUE ,
           columns = list(
             "देश" = colDef(align = "center"),
