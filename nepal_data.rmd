@@ -23,12 +23,12 @@ button{
 <html>
 <body style="background-color:rgba(240, 240, 240, 1);">
 
-<h1 class="colorr">
+<h2 class="colorr">
 <!-- with button do not use href instead use onclick: onlcick is a javascript code -->
 <button onclick = "document.location ='world.html'">
 नेपाल
 </button>
-</h1>
+</h2>
 
 
 
@@ -39,12 +39,12 @@ button{
 
 ```{r echo = FALSE, error = FALSE}
 # this is for overall data of cases and tests in Nepal
-
+library(readxl)
 nepal_overall <- read_excel("nepal_data.xlsx", sheet = "overall")
 
 reactable(nepal_overall, 
           columns = list(
-            "कुल परिक्षण गरिएको" = colDef(align = "center"),
+            "PCR परिक्षण गरिएको" = colDef(align = "center"),
             "कुल संक्रमित" = colDef(align = "center"),
             "कुल निको भएका" = colDef(align = "center"), 
             "कुल जटिल केस" = colDef(align = "center"),

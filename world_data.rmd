@@ -1,4 +1,4 @@
-
+no
 
 
 
@@ -89,7 +89,7 @@ ggplot(corona.map, aes(long, lat, group = group))+
 # this is for overall data of cases and deaths in World
 
 world_detail <- read_excel("world.xlsx", sheet = "Upload", range = cell_cols(2:9))
-
+library(reactable)
 reactable(world_detail, 
           filterable = FALSE, 
           minRows = 20, 
