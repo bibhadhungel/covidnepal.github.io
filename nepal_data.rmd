@@ -165,7 +165,7 @@ install.packages("xlsx")
 
 ```
 
-```{r echo = FALSE, error = FALSE, message = FALSE, warning = FALSE, include = FALSE}
+```{r echo = FALSE, error = FALSE, message = FALSE, warning = FALSE}
 library(rgdal)
 library(gpclib)
 gpclibPermit()
