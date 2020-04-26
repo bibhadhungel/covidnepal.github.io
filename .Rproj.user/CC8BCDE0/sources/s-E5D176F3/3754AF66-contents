@@ -138,13 +138,14 @@ reactable(nepal_detail,
           striped = TRUE , 
           showSortable = TRUE,
           columns = list(
-            "उमेर" = colDef(na = "-", width = 50, align = "center"), 
-            "थप जानकारी" = colDef(width = 420, align ="left"),
-            "केस संख्या" = colDef(width = 90 , align = "center") , 
-            "जिल्ला" = colDef(width = 75, align = "center"), 
-            "लिङग" = colDef(width = 75, align = "center"), 
-            "संक्रमण मिति" = colDef(width = 110, align = "center"),
-            "अवस्था" = colDef(width = 80, align = "center")))
+            "उमेर" = colDef(na = "-", width = 40, align = "center"), 
+            "थप जानकारी" = colDef(width = 405, align ="left"),
+            "केस संख्या" = colDef(width = 85 , align = "center") , 
+            "जिल्ला" = colDef(width = 65, align = "center"), 
+            "लिङग" = colDef(width = 65, align = "center"), 
+            "संक्रमण मिति" = colDef(width = 108, align = "center"),
+            "निको मिति" = colDef(width = 108, align = "center"),
+            "अवस्था" = colDef(width = 70, align = "center")))
                     
 ```
 
@@ -220,7 +221,51 @@ ggplot(corona.map, aes(long, lat, group = group))+
 ```
   
 
+```{r echo = FALSE, error = FALSE}
 
+# this chunk is for TABLE of nepalese in world
+nepal_world_update <- read_excel("nepal_data.xlsx", 
+                                 sheet = "nepali_world_update", range = cell_cols(3:9)) 
+
+# dropping the columns that we dont need
+nepal_world_update[4:5] <- NULL
+
+# to rearrange columns
+nepal_world_update2 <- nepal_world_update[, c(5,4,1,2,3)]
+nepal_world_update <- nepal_world_update2
+#data <- nepal_detail[, c("केस संख्या", "जिल्ला", "उमेर", "लिङग", "संक्रमण मिति", "अवस्था")]
+names(nepal_world_update)[2] <- "देश"
+names(nepal_world_update)[3] <- "केस संख्या"
+names(nepal_world_update)[4] <- "मृत्यु"
+names(nepal_world_update)[5] <- "निको"
+names(nepal_world_update)[1] <- "क्र.सं"
+
+
+reactable(nepal_world_update, 
+          filterable = FALSE, 
+          minRows = 24, 
+          searchable = TRUE, 
+          defaultPageSize = 25, 
+          showPageSizeOptions = TRUE, 
+          pageSizeOptions = c(10, 20, 30, 40, 50, 1000), 
+          paginationType = "simple", 
+          highlight =TRUE, 
+          striped = TRUE , 
+          showSortable = TRUE,
+           columns = list(
+            "देश" = colDef(na = "-", align = "center"), 
+            "मृत्यु" = colDef( align ="center"),
+            "निको" = colDef( align = "center") , 
+            "केस संख्या" = colDef( align = "center"),
+            "क्र.सं" = colDef(align = "left")))
+
+         # columns = list(
+          #  "देश" = colDef(na = "-", width = 130, align = "left"), 
+           # "मृत्यु" = colDef(width = 130, align ="center"),
+            #"निको" = colDef(width = 130, align = "center") , 
+            #"केस संख्या" = colDef(width = 130, align = "center")))
+                    
+```
 
 
 
