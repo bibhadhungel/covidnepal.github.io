@@ -206,9 +206,10 @@ world_map <- map_data("world")
 #corona.map <- merge(world_map, nepali_world, by ="region")
 corona.map <- left_join(nepali_world, world_map, by = "region")
 
-corona.world <- read_excel("nepal_data.xlsx", sheet = "map")
-  
-  centroids$label <- corona$id
+
+#centroids.world <- setNames(do.call("rbind.data.frame", by(world_map, world_map$group, function(x) {Polygon(x[c('long', 'lat')])@labpt})), c('long', 'lat')) 
+
+ # centroids.world$label <- nepali_world$region
   #######################################################################
   
   
@@ -216,8 +217,8 @@ corona.world <- read_excel("nepal_data.xlsx", sheet = "map")
    #Showing labels for selected districts only
   #The map looks cluttered. I am interested in districts which passes certain criteria. Lets show the names for districts for which HPI is greater than 40.
   
-  centroids.selected <- centroids[centroids$label %in%
-                                    (nepal.adm3.shp.df[nepal.adm3.shp.df$Cases>0,]$id),]
+ # centroids.selected.world <- centroids.world[centroids.world$label %in%
+                                #    (nepal.adm3.shp.df[nepal.adm3.shp.df$Cases>0,]$id),]
 
 
 ```
@@ -231,9 +232,9 @@ ggplot(corona.map, aes(long, lat, group = group))+
   ggtitle("Covid-19 positive Nepali around the world") + 
   guides(fill =guide_colorbar(title="Total cases")) +
   scale_fill_gradient(high = "#e34a33", low = "#fee8c8", guide = "colourbar" ) +
-  theme(legend.justification=c(0,0), legend.position=c(0,0)) +
-  with(centroids.selected, annotate(geom="text", x = long, y = lat, label=label, size=2)) +
-    theme_bare
+  theme(legend.justification=c(0,0), legend.position=c(0,0)) 
+ # with(centroids.selected, annotate(geom="text", x = long, y = lat, label=label, size=2)) +
+  #  theme_bare
 ```
   
 

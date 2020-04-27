@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587889873909.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5F550D0E",
+    "lastKnownWriteTime" : 46,
+    "last_content_update" : 1587889873909,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BE59614D",
+        "caption" : "world_map",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=world_map&cache_key=BE59614D",
+        "displayedObservations" : 99338,
+        "environment" : "",
+        "expression" : "world_map",
+        "object" : "world_map",
+        "preview" : 0,
+        "totalObservations" : 99338,
+        "variables" : 6
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
