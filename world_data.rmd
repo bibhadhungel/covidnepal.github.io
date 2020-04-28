@@ -1,4 +1,4 @@
-no
+
 
 
 
@@ -92,11 +92,11 @@ world_detail <- read_excel("world.xlsx", sheet = "Upload", range = cell_cols(2:9
 library(reactable)
 reactable(world_detail, 
           filterable = FALSE, 
-          minRows = 20, 
+          minRows = 50, 
           searchable = TRUE, 
-          defaultPageSize = 20, 
+          defaultPageSize = 50, 
           showPageSizeOptions = TRUE, 
-          pageSizeOptions = c(20, 100, 150, 200, 300), 
+          pageSizeOptions = c(50, 100, 150, 200, 300), 
           paginationType = "simple", 
           highlight =TRUE, 
           showSortIcon = TRUE,

@@ -120,7 +120,7 @@ map +
 
 
 
-```{r echo = FALSE, error = FALSE}
+```{r echo = FALSE, error = FALSE, message = FALSE, echo= FALSE}
 
 # this chunk is for data in detail of nepalese in Nepal
 nepal_detail <- read_excel("nepal_data.xlsx", sheet = "detail")
@@ -132,20 +132,20 @@ reactable(nepal_detail,
           searchable = TRUE, 
           defaultPageSize = 30, 
           showPageSizeOptions = TRUE, 
-          pageSizeOptions = c(10, 20, 30, 40, 50, 1000), 
+          pageSizeOptions = c(30, 40, 50, 1000), 
           paginationType = "simple", 
           highlight =TRUE, 
           striped = TRUE , 
           showSortable = TRUE,
           columns = list(
             "उमेर" = colDef(na = "-", width = 40, align = "center"), 
-            "थप जानकारी" = colDef(width = 405, align ="left"),
+            "थप जानकारी" = colDef(width = 400, align ="left"),
             "केस संख्या" = colDef(width = 85 , align = "center") , 
             "जिल्ला" = colDef(width = 65, align = "center"), 
             "लिङग" = colDef(width = 65, align = "center"), 
             "संक्रमण मिति" = colDef(width = 108, align = "center"),
             "निको मिति" = colDef(width = 108, align = "center"),
-            "अवस्था" = colDef(width = 70, align = "center")))
+            "अवस्था" = colDef(width = 60, align = "center")))
                     
 ```
 
@@ -165,7 +165,7 @@ install.packages("xlsx")
 
 ```
 
-```{r echo = FALSE, error = FALSE, message = FALSE, warning = FALSE}
+```{r echo = FALSE, error = FALSE, message = FALSE, warning = FALSE, include=FALSE}
 library(rgdal)
 library(gpclib)
 gpclibPermit()
@@ -238,7 +238,7 @@ ggplot(corona.map, aes(long, lat, group = group))+
 ```
   
 
-```{r echo = FALSE, error = FALSE}
+```{r echo = FALSE, error = FALSE, message = FALSE, echo=FALSE}
 
 # this chunk is for TABLE of nepalese in world
 nepal_world_update <- read_excel("nepal_data.xlsx", 
@@ -260,11 +260,11 @@ names(nepal_world_update)[1] <- "क्र.सं"
 
 reactable(nepal_world_update, 
           filterable = FALSE, 
-          minRows = 24, 
+          minRows = 20, 
           searchable = TRUE, 
-          defaultPageSize = 25, 
+          defaultPageSize = 20, 
           showPageSizeOptions = TRUE, 
-          pageSizeOptions = c(10, 20, 30, 40, 50, 1000), 
+          pageSizeOptions = c(20, 30, 40, 50, 1000), 
           paginationType = "simple", 
           highlight =TRUE, 
           striped = TRUE , 
