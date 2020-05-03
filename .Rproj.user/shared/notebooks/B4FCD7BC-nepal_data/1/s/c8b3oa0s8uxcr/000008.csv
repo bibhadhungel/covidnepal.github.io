@@ -1,0 +1,16 @@
+"0","# this is for overall data of cases and tests in Nepal"
+"0","library(readxl)"
+"0","library(reactable)"
+"0","nepal_overall <- read_excel(""nepal_data.xlsx"", sheet = ""overall"")"
+"0",""
+"0","reactable(nepal_overall, language = reactableLang("
+"0","          columns = list("
+"0","            ""PCR परिक्षण गरिएको"" = colDef(align = ""center""),"
+"0","            ""कुल संक्रमित"" = colDef(align = ""center""),"
+"0","            ""कुल निको भएका"" = colDef(align = ""center""), "
+"0","            ""कुल जटिल केस"" = colDef(align = ""center""),"
+"0","            ""कुल मृत्यु"" = colDef(align = ""center""),"
+"0","            ""सक्रिय केस"" = colDef(align = ""center""))))"
+"2","Error in reactable(nepal_overall, language = reactableLang(columns = list(`PCR परिक्षण गरिएको` = colDef(align = ""center""),  : 
+  unused argument (language = reactableLang(columns = list(`PCR परिक्षण गरिएको` = colDef(align = ""center""), `कुल संक्रमित` = colDef(align = ""center""), `कुल निको भएका` = colDef(align = ""center""), `कुल जटिल केस` = colDef(align = ""center""), `कुल मृत्यु` = colDef(align = ""center""), `सक्रिय केस` = colDef(align = ""center""))))
+"

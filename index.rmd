@@ -102,7 +102,7 @@ kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
 <div class="alert alert-info" role="alert">
   <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
   <h1>
-  कुल संक्रमित राष्ट्रहरु
+ <span lang ="ne"> कुल संक्रमित राष्ट्रहरु</span>
   </h1>
   </a>
 </div>
