@@ -2,7 +2,7 @@
 "0","#Use the function geom_polygon():"
 "0","ggplot(corona.map, aes(long, lat, group = group))+"
 "0","  geom_polygon(aes(fill = cases ), color = 'light gray', size = 0.1)+"
-"0","  ggtitle(""Covid-19 positive Nepali around the world"") + "
+"0","  ggtitle(""Covid-19 positive cases around the world"") + "
 "0","  guides(fill =guide_colorbar(title=""Total cases"")) +"
 "0","  scale_fill_gradient(high = ""#e34a33"", low = ""#fee8c8"", guide = ""colourbar"" ) +"
 "0","  theme(legend.justification=c(0,0), legend.position=c(0,0)) "

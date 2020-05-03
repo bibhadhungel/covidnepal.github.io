@@ -50,7 +50,7 @@ library(readxl)
 #library(xlsx)
 
 #nepali_world <- read_excel("nepali_world.xlsx")
-world_corona <- read_excel("world.xlsx", sheet = "world_map")
+world_corona <- read_excel("world_data.xlsx", sheet = "world_map")
 
 # Merge map and life expectancy data:
 world_map <- map_data("world")
@@ -88,7 +88,7 @@ ggplot(corona.map, aes(long, lat, group = group))+
 ```{r echo = FALSE, error = FALSE}
 # this is for overall data of cases and deaths in World
 
-world_detail <- read_excel("world.xlsx", sheet = "Upload", range = cell_cols(2:9))
+world_detail <- read_excel("world_data.xlsx", sheet = "Upload", range = cell_cols(2:9))
 library(reactable)
 reactable(world_detail, 
           filterable = FALSE, 
