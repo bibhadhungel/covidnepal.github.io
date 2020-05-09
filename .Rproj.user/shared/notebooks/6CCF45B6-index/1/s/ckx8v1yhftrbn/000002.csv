@@ -1,0 +1,2 @@
+"0","total_case <- unname(world_detail[2,2])"
+"0","kable(total_case, format.args = list(decimal.mark = '.', big.mark = "",""))"
