@@ -138,14 +138,14 @@ reactable(nepal_detail,
           striped = TRUE , 
           showSortable = TRUE,
           columns = list(
-            "उमेर" = colDef(na = "-", width = 40, align = "center"), 
+            "उमेर" = colDef(na = "-", width = 50, align = "center"), 
             "थप जानकारी" = colDef(width = 400, align ="left"),
             "केस संख्या" = colDef(width = 85 , align = "center") , 
             "जिल्ला" = colDef(width = 65, align = "center"), 
             "लिङग" = colDef(width = 65, align = "center"), 
             "संक्रमण मिति" = colDef(width = 108, align = "center"),
             "निको मिति" = colDef(width = 108, align = "center"),
-            "अवस्था" = colDef(width = 60, align = "center")))
+            "अवस्था" = colDef(width = 70, align = "center")))
                     
 ```
 
