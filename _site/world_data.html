@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>world_data.utf8</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/core-js-2.5.3/shim.min.js"></script>
+<script src="site_libs/react-16.12.0/react.min.js"></script>
+<script src="site_libs/react-16.12.0/react-dom.min.js"></script>
+<script src="site_libs/reactwidget-1.0.0/react-tools.js"></script>
+<script src="site_libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+<script src="site_libs/reactable-binding-0.1.0.1/reactable.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><h1 style= font.size:70px>कोभिड-१९</h1></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="nepal_data.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-flag fa-3x&quot;&gt;&lt;/i&gt; fa-3x"></span>
+     
+    नेपाल
+  </a>
+</li>
+<li>
+  <a href="index.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-refresh fa-spin fa-3x fa-fw&quot;&gt;&lt;/i&gt; &lt;span class=&quot;sr-only&quot;&gt;Loading...&lt;/span&gt;"></span>
+     
+    पछिल्लो अवस्था
+  </a>
+</li>
+<li>
+  <a href="world_data.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-globe-americas fa-3x&quot;&gt;&lt;/i&gt; fa-3x"></span>
+     
+    बिश्व
+  </a>
+</li>
+<li>
+  <a href="who.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-globe fa-3x&quot;&gt;&lt;/i&gt; fa-3x"></span>
+     
+    WHO
+  </a>
+</li>
+<li>
+  <a href="news.html">
+    <span class="&lt;i class=&quot;fa fa &lt;i class=&quot;fa fa-newspaper fa-3x&quot;&gt;&lt;/i&gt; fa-3x"></span>
+     
+    समाचार
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://twitter.com/home">
+    <span class="fa fa-twitter fa-3x"></span>
+     
+    Developed by: blazon dinkum
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+<br>
+<a href="https://www.facebook.com/worldnews020/" target="_self">
+  <i class="fa fa-facebook fa-3x"></i>
+  Covid-19 World News</a>
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<!-- THE FOLLOWING 3 CHUNKS IS FOR WORLD MAP -->
+<html>
+<h1>
+विश्वमा रहेका कोरोना संक्रमितहरुको अवस्था नक्सामा
+</h1>
+<p><img src="world_data_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+<!-- THE FOLLOWING IS FOR  DATA OF CASES AND DEATHS IN TH E WORLD -->
+<body style="background-color:lightgray;">
+<p>
+<h2>
+विश्वमा कोरोना संक्रमणको अवस्था
+</p>
+</h2>
+<br>
+</body>
+<div id="htmlwidget-ee982820f545df5ce821" class="reactable html-widget" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-ee982820f545df5ce821">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"देश":["नेपाल","जम्मा","अमेरिका","स्पेन","रसिया","युनाईटेड किङ्डम","ब्राजिल","ईटाली","फ्रान्स","जर्मनी","टर्कि","ईरान","भारत","पेरु","चीन","क्यानडा","बेल्जियम","साउदि अरबिया","मेक्सिको","नेदरल्याण्डस","चिलि","पाकिस्तान","ईक्वेडर","कतार","स्विजरल्यान्ड","स्विडेन","पोर्चुगल","बेलारुस","सिंगापुर","आयरल्याण्ड","युएई","बङ्गलादेश","पोल्यान्ड","युक्रेन","ईन्डोनेशिया","रोमानिया","ईसराईल","जापान","अस्ट्रिया","कोलम्बिया","दक्षिण अप्रिका","कुवेत","फिलिपिन्स","डोमिनिकन रिपब्लिक","ईजिप्ट","दक्षिण कोरिया","डेन्मार्क","सर्बिया","पानामा","चेकिया","नर्वे","अर्जेन्टिना","अस्ट्रेलिया","मलेसिया","अल्जेरिया","बहराईन","मोरोक्को","अफगानिस्तान","फिनल्यान्ड","मोल्दोवा","काजकस्तान","घाना","नाईजेरिया","ओमान","अर्मेनिया","लक्समबर्ग","बोलिभिया","हङगरि","ईराक","अजरबाईजान","क्यामरुन","थाईल्यन्ड","ग्रिस","उज्बेकिस्तान","गिनिया","होन्डुरस","सेनेगल","सुडान","बोस्निया एण्ड हर्जेगोविना","क्रोएसिया","बुल्गेरिया","आईभरि कोस्ट","क्युबा","आईसल्यान्ड","ईस्टोनिया","ग्वाटेमाला","उत्तर मासेडोनिया","लिथुआनिया","न्यु जिल्यान्ड","स्लोभाकिया","स्लोभेनिया","डिआर कङगो","सोमालिया","डिजेबोउटि",null,"गबोन","मायोट्टे","एल सालभाडोर","किर्गिजस्तान","माल्दिभ्स","हङकङ","ट्युनिसिया","लात्भिया","गिनिया-बिसाउ","स्रि लङका","कोसोभो","अल्बानिया","साईप्रस","लेबनन","नाईजर","कोस्टारिका","मालि","केन्या","बुर्किना फासो","पाराग्वे","आन्डोरा","उरुग्वे","जोर्जिया","जाम्बिया","सान मारिनो","जोर्डन","ईक्वेटोरियल गिनिया","च्यानेल आइल्याणड","माल्टा","जमाईका","तान्जनिया","भेनेजुएला","चाद","सिएरा लियोन","रियुनियन","ताईवान","कङ्गो","प्यालेस्टाईन","हाईटि","बेनिन","आयल घफ म्यान","मोरिसियस","केप भर्डे","मध्य अफ्रिकन रिपब्लिक","मोन्टेनेग्रो","विइतनाम","ईथियोपिया","टोगो","रुवान्डा","माडागास्कार","नेपाल","साउथ सुडान","साओ तोमे प्रिन्सिपे","युगान्डा","लाईबेरिया","एस्वाटिनि","फ्रेन्च गियाना","मार्टिनिक","फारो आइल्याणड","म्यानमार","ग्वाडेलोप","गिब्रल्टार","ब्रुनेई","मङगोलिया","मोजाम्बिक","बर्मुडा","कम्बोडिया","येमेन","गुयाना","ट्रिनिडाड र टाबागो","अरुबा","द बाहामास","मोनाको","केम्यान आईल्यान्डस","बार्बादोस","लिचटेनस्टेन","सिन्ट मार्टेन","लिबिया","मलावी","फ्रान्सेलि पोलयनेसिया","सिरिया","आन्गोला","मकाउ","जिम्बाब्वे","मोरिटानिया","एरिट्रिया","सेन्ट मार्टिन","एन्टिगुवा एण्ड बार्बुडा","निकारागुवा","बोटस्वाना","टिमोर लेस्टे","गाम्बिया","ग्रेनाडा","भुटान","लाओस","बेलिज","फिजि","सेन्ट लुसिया","न्यु क्यालेडोनिया","सेन्ट भिन्सेन्ट एन्ड द ग्रेनाडाईनस","डोमिनिका","नामिबिया","कुराकाओ","बुरुन्डि","सेन्ट किट्टस एण्ड नेभिस","फल्कल्याण्ड आईल्याण्ड","भ्याटिकन सिटि","टर्कस एण्ड काईकोस आईल्याण्ड","कोमोरोस","सेचेलेस","मोन्टसेर्याट","ग्रिनल्यान्ड","सुरिनामे","पपुवा न्यु गिनि","ब्रिटिश भर्जिन आईल्या्ड","वेस्टर्न साहारा","क्यारेबियन निदरल्याणडस","सेन्ट बार्थेलेमि","एनगिला",null,"सेन्ट पिएर एण्ड मिक्वेलन",null,"सेन्ट पिएर एण्ड मिक्वेलन",null,null],"कुल संक्रमण":[291,4719812,1507773,276505,272043,240161,233511,224760,179365,176247,148067,118392,90648,88541,82941,75945,54989,52016,47144,43870,41428,38799,32763,30972,30572,29677,28810,28681,27356,24048,22627,20995,18257,17858,17025,16704,16608,16237,16201,14939,14355,13802,12305,12110,11719,11050,10858,10496,9449,8455,8237,7805,7036,6872,6821,6747,6741,6402,6286,5934,5850,5735,5621,5029,4283,3930,3577,3473,3260,3138,3105,3025,2819,2738,2658,2460,2429,2289,2267,2224,2175,2061,1862,1802,1770,1763,1762,1534,1499,1493,1465,1455,1357,1331,1322,1320,1312,1265,1117,1078,1053,1037,997,969,960,944,933,914,902,889,853,835,830,782,778,761,733,683,679,653,607,594,554,546,511,509,504,474,462,443,440,391,376,358,339,335,332,328,327,324,318,306,298,289,283,291,236,235,227,223,202,197,192,187,182,155,147,141,135,129,123,122,122,117,116,101,96,96,94,86,82,77,65,65,60,51,48,45,42,40,39,39,25,25,24,24,23,22,21,19,18,18,18,18,17,16,16,16,15,15,13,12,12,11,11,11,11,10,8,8,6,6,6,3,1,1,1,1,"NA","NA"],"आजको थप":["0","↑ 2,799 (0.06%)",null,null,null,null,"↑ 369 (0.16%)",null,null,null,null,null,null,null,null,null,null,null,"↑ 2,112 (4.69%)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"↑ 13 (0.12%)",null,null,"↑ 181 (1.95%)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"↑ 120 (7.3%)",null,null,"↑ 1 (0.07%)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"↑ 3 (0.31%)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"↑ 1 (∞%)",null,null,null],"जटिल":["0","44828","16248","1208","2300","1559","8318","1398","2132","1203","906","2716","Unknown","840","11","502","364","166","378","346","751","111","197","158","69","278","115","92","16","69","1","1","160","231","Unknown","206","59","232","50","136","119","169","79","127","41","55","28","18","72","39","20","170","16","13","22","3","1","19","30","251","31","5","7","31","10","15","3","45","Unknown","37","28","61","23","8","18","10","6","Unknown","4","9","45","Unknown","7","Unknown","5","5","21","17","Unknown","3","6","Unknown","2","Unknown","Unknown","11","9","18","5","9","1","3","3","Unknown","1","Unknown","1","10","4","Unknown","4","Unknown","1","Unknown","Unknown","3","5","6","1","1","5","Unknown","Unknown","1","Unknown","7","1","Unknown","Unknown","4","Unknown","Unknown","Unknown","Unknown","Unknown","9","Unknown","Unknown","Unknown","2","2","Unknown","Unknown","Unknown","3","0","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","3","Unknown","2","2","Unknown","2","Unknown","Unknown","2","Unknown","4","1","1","Unknown","4","Unknown","7","Unknown","1","Unknown","Unknown","Unknown","1","Unknown","Unknown","Unknown","1","1","Unknown","Unknown","Unknown","Unknown","4","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown",null,null],"कुल मृत्यु":["1","313215","90113","27563","2537","34466","15662","31763","27625","8027","4096","6937","2871","2523","4633","5679","9005","302","5045","5670","421","834","2688","15","1879","3674","1203","160","22","1533","214","314","915","497","1089","1094","268","725","629","562","261","107","817","428","612","262","543","228","269","296","232","363","98","113","542","12","192","168","297","207","34","29","176","21","55","104","164","448","121","36","140","56","162","11","16","134","25","97","129","95","105","25","79","10","63","33","98","55","21","28","103","61","55","4","36","11","18","26","14","4","4","45","19","4","9","29","31","17","26","51","10","48","50","51","11","51","19","12","7","41","9","7","43","6","9","21","10","50","29","Unknown","7","15","2","20","2","24","10","3","Unknown","9","Unknown","5","11","Unknown","Unknown","1","4","7","Unknown","20","2","1","14","Unknown","6","13","Unknown","1","Unknown","Unknown","9","Unknown","18","10","8","3","11","4","1","7","1","15","3","3","Unknown","3","2","Unknown","4","4","Unknown","3","3","8","1","Unknown","1","Unknown","Unknown","Unknown","2","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","1","1","Unknown","Unknown","Unknown","1","1","Unknown","1","Unknown","1","Unknown","1","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown",null,null],"आजको मृत्यु":["0","↑ 313 (0.1%)",null,null,null,null,"↑ 29 (0.19%)",null,null,null,null,null,null,null,null,null,null,null,"↑ 278 (5.83%)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"↑ 3 (1.13%)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"↑ 3 (10%)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"निको":["36","1811611","339232","192253","63166","Unknown","89672","122810","61066","152600","108137","93147","34224","28272","78219","37819","14460","23666","31848","Unknown","18014","10880","3433","3788","27400","4971","3822","9498","8342","19470","7931","4117","7175","4906","3911","9574","12855","10338","14524","3587","6478","3843","2561","3726","2950","9888","9107","4479","6080","5422","32","2534","6362","5512","3409","2762","3487","745","5000","2344","2980","1754","1472","1436","1791","3699","434","1371","2126","1944","1567","2855","1374","2213","1133","264","949","222","1355","1913","573","987","1460","1786","934","138","1267","988","1433","1151","272","270","148","950","Unknown","244","627","441","783","58","1022","807","662","26","520","690","714","515","247","689","551","479","301","604","198","615","558","419","183","198","404","22","458","458","121","183","241","111","106","354","389","87","329","29","83","285","322","84","13","311","260","113","99","178","114","36","4","4","63","116","72","125","91","187","96","109","145","136","20","43","73","122","1","43","107","93","42","87","55","67","55","54","28","24","59","36","17","43","13","7","39","30","19","7","17","24","12","14","5","14","16","15","18","18","14","15","13","14","7","14","13","2","10","3","10","10","11","9","8","6","6","6","6","3","Unknown","1","Unknown","Unknown",null,null],"सक्रिय":["245","2595822","1078428","56689","206340","Unknown","128177","70187","90674","15620","35834","18308","53553","57746","89","32447","31524","28048","10251","Unknown","22993","27085","26642","27169","1293","21032","23785","19023","18992","3045","14482","16564","10167","12455","12025","6036","3485","5174","1048","10790","7616","9852","8927","7956","8157","900","1208","5789","3100","2737","7973","4908","576","1247","2870","3973","3062","5489","989","3383","2836","3952","3973","3572","2437","127","2979","1654","1013","1158","1398","114","1283","514","1509","2062","1455","1970","783","216","1497","1049","323","6","773","1592","397","491","45","314","1090","1124","1154","377","Unknown","1065","667","798","320","1016","27","185","316","939","431","225","188","382","629","149","292","308","479","127","569","95","156","252","489","414","194","565","53","82","381","305","253","313","327","Unknown","44","289","45","309","254","26",null,"241","Unknown","4","Unknown","188","188","Unknown","Unknown","245","228","224","Unknown","87","128","71","87","Unknown","80","33","Unknown","4","Unknown","Unknown","41","Unknown","103","64","1","5","43","5","38","12","26","8","34","38","Unknown","12","29","Unknown","25","29","Unknown","6","3","10","6","Unknown","10","Unknown","Unknown","Unknown",null,"Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","1","7","Unknown","Unknown","Unknown","1","7","Unknown",null,"Unknown",null,"Unknown","1","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","3",null,null]},"columns":[{"accessor":"देश","name":"देश","type":"character","align":"center"},{"accessor":"कुल संक्रमण","name":"कुल संक्रमण","type":"numeric","align":"center"},{"accessor":"आजको थप","name":"आजको थप","type":"character","width":130,"align":"center"},{"accessor":"जटिल","name":"जटिल","type":"character","align":"center"},{"accessor":"कुल मृत्यु","name":"कुल मृत्यु","type":"character","align":"center"},{"accessor":"आजको मृत्यु","name":"आजको मृत्यु","type":"character","align":"center"},{"accessor":"निको","name":"निको","type":"character","align":"center"},{"accessor":"सक्रिय","name":"सक्रिय","type":"character","align":"center"}],"searchable":true,"defaultPageSize":50,"showPageSizeOptions":true,"pageSizeOptions":[50,100,150,200,300],"paginationType":"simple","showPageInfo":true,"minRows":50,"highlight":true,"striped":true,"showSortable":true,"dataKey":"e6c1338e5e2565aa3455388a1e110703"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+
+<p>Copyright &copy; 2020 blazon dinkum :: #DG-naaniKoMakuro. All rights reserved.</p>
+
+<a href="https://www.facebook.com/worldnews020/" target="_self">
+  <i class="fa fa-facebook fa-3x"></i>
+  Covid-19 world news</a>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
