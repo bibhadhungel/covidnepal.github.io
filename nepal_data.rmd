@@ -54,13 +54,13 @@ reactable(nepal_overall,
 
 
 
-```{r error=FALSE, include = FALSE, echo=FALSE}
+```{r error=FALSE, include=FALSE, echo=FALSE}
 # the following 2-3 chunk is for map of nepal
 library(rgdal)
 library(ggplot2)
 library(dplyr)
 library(gpclib)
-#gpclibPermit()
+gpclibPermit()
 library(maptools)
 ```
 <h1> नेपालको जिल्ला स्तरमा कोरोनाभाईरम संक्रमितहरुको संख्या</h1>

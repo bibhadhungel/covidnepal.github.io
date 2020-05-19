@@ -1,0 +1,2 @@
+"0"," # with(centroids.selected, annotate(geom=""text"", x = long, y = lat, label=label, size=2)) +"
+"0","  #  theme_bare"

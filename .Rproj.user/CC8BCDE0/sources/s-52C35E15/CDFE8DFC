@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587632903929.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CDFE8DFC",
+    "lastKnownWriteTime" : 1588308297,
+    "last_content_update" : 1588308297744,
+    "path" : "~/Desktop/webpage/covidnepal.github.io/world_data.rmd",
+    "project_path" : "world_data.rmd",
+    "properties" : {
+        "cursorPosition" : "90,38",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

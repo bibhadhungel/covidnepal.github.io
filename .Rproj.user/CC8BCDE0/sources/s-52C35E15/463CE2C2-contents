@@ -1,0 +1,113 @@
+---
+title: <div class = "alert alert-success" role="alert">कोरोना भाईरसबाट सतर्क रहनुहोस
+  तर नआत्तिनुहोस ! <p class = "m b-0"><h3> कृपया साबधानि अपनाउनुहोला ।</h3></p> </div>
+---
+<head>
+<script data-ad-client="ca-pub-7818768442907234" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<style>
+
+h1 {
+font-size: 25px;
+padding: 5px 1px;
+}
+
+h2 {
+font-size: 50px
+}
+</style>
+</head>
+
+<body style="background-color:lightgray;"> 
+<div class="alert alert-info" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1>
+  कुल पुष्टि भएका केसहरु
+  </h1>
+  </a>
+</div>
+<h2>
+```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
+total_case <- unname(world_detail[2,2])
+kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
+
+```
+
+</h2>
+
+<div class="alert alert-warning" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1>
+  कुल जटिल  
+  </h1>
+  </a>
+</div>
+<h2>
+```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
+total_case <- unname(world_detail[2,4])
+kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
+
+```
+
+</h2>
+
+
+<div class="alert alert-danger" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1>
+  कुल मृत्यु
+  </h1>
+  </a>
+</div>
+<h2>
+```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
+total_case <- unname(world_detail[2,5])
+kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
+
+```
+
+</h2>
+
+<div class="alert alert-success" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1>
+  सक्रिय केस
+  </h1>
+  </a>
+</div>
+<h2>
+```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
+total_case <- unname(world_detail[2,8])
+kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
+
+```
+
+</h2>
+
+<div class="alert alert-warning" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1>
+  कुल निको भएका
+  </h1>
+  </a>
+</div>
+<h2>
+```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
+total_case <- unname(world_detail[2,7])
+kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
+
+```
+
+</h2>
+
+<div class="alert alert-info" role="alert">
+  <a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="alert-link">
+  <h1>
+ <span lang ="ne"> कुल संक्रमित राष्ट्रहरु</span>
+  </h1>
+  </a>
+</div>
+<h2>
+214
+</h2>
+
+</body>
