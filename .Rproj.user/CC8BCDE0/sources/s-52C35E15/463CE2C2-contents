@@ -43,8 +43,8 @@ kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
 </div>
 <h2>
 ```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
-total_case <- unname(world_detail[2,4])
-kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
+total_critical <- unname(world_detail[2,4])
+kable(total_critical, format.args = list(decimal.mark = '.', big.mark = ","))
 
 ```
 
@@ -60,8 +60,8 @@ kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
 </div>
 <h2>
 ```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
-total_case <- unname(world_detail[2,5])
-kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
+total_deaths <- unname(world_detail[2,5])
+kable(total_deaths, format.args = list(decimal.mark = '.', big.mark = ","))
 
 ```
 
@@ -76,9 +76,8 @@ kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
 </div>
 <h2>
 ```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
-total_case <- unname(world_detail[2,8])
-kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
-
+total_active <- unname(world_detail[2,8])
+kable(total_active, format.args = list(decimal.mark = '.', big.mark = ","))
 ```
 
 </h2>
@@ -92,8 +91,8 @@ kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
 </div>
 <h2>
 ```{r echo = FALSE, error = FALSE, warning = FALSE, message = FALSE}
-total_case <- unname(world_detail[2,7])
-kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
+total_recovered <- unname(world_detail[2,7])
+kable(total_recovered, format.args = list(decimal.mark = '.', big.mark = ","))
 
 ```
 
@@ -107,7 +106,7 @@ kable(total_case, format.args = list(decimal.mark = '.', big.mark = ","))
   </a>
 </div>
 <h2>
-214
+216
 </h2>
 
 </body>

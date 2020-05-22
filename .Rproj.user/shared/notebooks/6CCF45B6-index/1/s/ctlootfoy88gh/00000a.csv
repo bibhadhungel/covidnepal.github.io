@@ -1,0 +1,2 @@
+"0","total_recovered <- unname(world_detail[2,7])"
+"0","kable(total_recovered, format.args = list(decimal.mark = '.', big.mark = "",""))"

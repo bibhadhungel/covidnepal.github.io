@@ -1,0 +1,2 @@
+"0","total_active <- unname(world_detail[2,8])"
+"0","kable(total_active, format.args = list(decimal.mark = '.', big.mark = "",""))"
