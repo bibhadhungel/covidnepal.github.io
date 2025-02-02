@@ -1,2 +1,0 @@
-"0","total_deaths <- unname(world_detail[2,5])"
-"0","kable(total_deaths, format.args = list(decimal.mark = '.', big.mark = "",""))"

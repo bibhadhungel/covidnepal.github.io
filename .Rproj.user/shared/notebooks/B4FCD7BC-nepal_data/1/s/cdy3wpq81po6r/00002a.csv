@@ -1,7 +1,0 @@
-"0",""
-"0","         # columns = list("
-"0","          #  ""देश"" = colDef(na = ""-"", width = 130, align = ""left""), "
-"0","           # ""मृत्यु"" = colDef(width = 130, align =""center""),"
-"0","            #""निको"" = colDef(width = 130, align = ""center"") , "
-"0","            #""केस संख्या"" = colDef(width = 130, align = ""center"")))"
-"0","                    "

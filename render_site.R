@@ -1,5 +1,4 @@
 rmarkdown::render_site()
-
 # it is necessary to install the following packages in order to be able to run the first command
 library(knitr)
 library(png)
